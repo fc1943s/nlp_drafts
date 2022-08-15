@@ -22,7 +22,7 @@
 - [ISTJ Cognitive Functions Mathematics](#istj-cognitive-functions-mathematics)
 - [ISTP Cognitive Functions Mathematics](#istp-cognitive-functions-mathematics)
 - [Invited To Leave The Group](#invited-to-leave-the-group)
-- [MBTI Cognitive Functions (LaTeX)](#mbti-cognitive-functions-(latex))
+- [MBTI Cognitive Functions (LaTeX)](#mbti-cognitive-functions-latex)
 - [Marriage On Baker Street](#marriage-on-baker-street)
 - [Mayan Rituals](#mayan-rituals)
 - [Micelia Yearnings](#micelia-yearnings)
@@ -30,9 +30,9 @@
 - [Recreative vs Fucked Up Drugs](#recreative-vs-fucked-up-drugs)
 - [Sauron Is Good](#sauron-is-good)
 - [The Functional Programming Curse](#the-functional-programming-curse)
-- [The Magician's Apprentice](#the-magician's-apprentice)
+- [The Magician's Apprentice](#the-magicians-apprentice)
 - [The Meadow Mage](#the-meadow-mage)
-- [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldn't-reach)
+- [What Myers-Briggs Couldn't Reach](#what-myersbriggs-couldnt-reach)
 
 
 #### {"do_sample": true, "temperature": 0.8, "top_k": 25, "no_repeat_ngram_size": 3, "top_p": 0.7}
