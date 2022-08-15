@@ -32,7 +32,7 @@
 - [The Functional Programming Curse](#the-functional-programming-curse)
 - [The Magician's Apprentice](#the-magicians-apprentice)
 - [The Meadow Mage](#the-meadow-mage)
-- [What Myers-Briggs Couldn't Reach](#what-myersbriggs-couldnt-reach)
+- [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
 #### {"do_sample": true, "no_repeat_ngram_size": 4, "top_k": 50}
