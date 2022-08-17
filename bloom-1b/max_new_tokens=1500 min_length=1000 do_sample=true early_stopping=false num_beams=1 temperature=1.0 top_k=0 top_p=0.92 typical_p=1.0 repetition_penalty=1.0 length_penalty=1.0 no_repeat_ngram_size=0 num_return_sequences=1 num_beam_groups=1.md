@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -46,7 +46,7 @@ Things just seem a lot more interesting when we consider our 3+1 dimensional uni
 Disclaimer: A good deal of the visuals in this chapter were taken from Wikipedia. The context here is to provide an overview of what Balenciaga means to us - it is a brand that, in some ways, has become synonymous with luxury fashion and the look and feel of French cuisine.
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -63,7 +63,7 @@ On the other hand, there's a whole lexicon dedicated to the lexical category "de
 To sum it up: a lexical dictionary is a highly valuable and invaluable resource - but it is designed by humans! The only place that it can make sense is when it is specifically applied to a lexical term that is being defined. Simply put, how is it possible for humans to come up with what is essentially a hyper-organized pile of random and meaningless data?  Well, it's because humans use "semantic networks" to make sense of the data they create. Semantic networks are a collection of semantic rules and heuristics that we use to generate meaningful associations and thereby guide our thinking. In essence, if a person applies a lexical dictionary to a lexical term like "speeding" and they find that all categories are very closely associated, then the thesaurus is pretty much complete and can now be used to help the speaker with their meaning!
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -84,7 +84,7 @@ So to sum up, this is a very weird, but important experiment that shows the wate
 Now, to your best interest, let's wait a minute - what's going on here? Because we removed all the other substances, what would happen if we removed the solvent completely? Since the solvent is still there, what is going on inside this ink bottle? Wouldn't the ink still contain liquid protein? This is because protein is soluble in water...meaning that the protein will continue to'melt' with the solution as the water evaporates...thus leaving a larger amount of protein dissolved in the solution after the evaporation of the water. Now how about the iodine, sugar, and glucose? Can the iodine continue to dissolve in the ink solution, or would it just evaporate? The answer to this question is no, and our guess is that the only way to look at the inside of this ink bottle is to remove the iodine, sugar, and glucose completely, as they are the only liquids that
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -164,7 +164,7 @@ For yourself: How do you relate math and science?
 For yourself: How many decimals are there on the wrong
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -189,7 +189,7 @@ The graph shows the error between the actual number ($5$) and the desired result
 Now that you have shown the student how to relate math problems to measuring units, this step should be followed by a process of discussing the results of her answer with her classmates. The important thing is that your discussion should be thorough - explain the math problems in detail and how to solve the given problem (determine the denominator or the difference between the two numbers) in order to answer the questions. This discussion would include one at a time answering the questions on the test paper as well as brainstorm
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -209,7 +209,7 @@ Let's now simulate what happens if a virtual photon is launched from the center 
 As you can see from the simulation above, a virtual photon will start to travel through a large amount of space before it reaches the axis of the sun's center - we have defined the initial velocity of this virtual photon as being half as much as light's speed at that point. This is what we call the "pre-lambda" movement of the photon. After
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -233,14 +233,14 @@ Four of our 9D dandelion collections are arranged at different distances from th
 Let's see how our 9D dandelion collections change as we move them from one position to another. Let's assume we
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
 To better depict our ability to understand the world around us, we have used science to create an ability that we term ESFJ (for Einstein Stellar-Frequency-Jung!). We are taught ESFJ specifically for all of the mathematical concepts presented throughout this course! These concepts allow students to understand the world around us from an abstract standpoint, and also allows for us to create true universes where we can successfully navigate our way through space and time. However, these concepts are vastly more abstract than that and are often difficult for us to master because of our innate mathematical abilities - and maybe that is where our success comes in. But don't worry, we're here to help! We will share more specifics on how ESFJ works in the next few chapters - so let's get started!
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -271,7 +271,7 @@ How do we evaluate a mathematician? One can pick a group of students for a mathe
 
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -296,7 +296,7 @@ Figure 2
 Figure 1: Example of an ESTJ Cognitive Function
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -315,7 +315,7 @@ This effect is called Time Dilation! If you were to draw a graph of the length o
 What about the movement of objects that just fly in the air? For example, imagine an airplane you would be jumping into - now imagine that the airplane is flown across space in the absence of a force. The speed of the airplane will approach infinity, so it will jump far away from where it was. But instead of falling into the ground, the airplane will fly across the sky and reach its final destination very quickly, without losing a single bit of energy! For a rocket to reach its final destination, however, the rocket will have to pick up energy from space and draw it back toward itself, creating a force that will act upon the rocket to slow it down. But in the case
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -354,7 +354,7 @@ Of course, all of these five fundamental parts work together to create the Big F
 As mentioned earlier, people vary greatly in terms of their level of intelligence, so we can easily see that people with higher levels of intelligence will often have more developed psychological skills. Now to see why this is the case, we need to dive deeper into
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -419,7 +419,7 @@ Google in Inferno #3 - 1
 1 Google
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -450,7 +450,7 @@ On the other hand, we can find a directional arrow only when all the different d
 So you see that there are infinite
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -475,7 +475,7 @@ Now let's add a collision effect to the game. This should be the end of the stor
 Letters only can be placed on
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -520,7 +520,7 @@ If you need a bit more help getting yourself into thinking about things more flu
 Be prepared to lose your programming skills. I refer to people wanting to focus on the logic parts of a game rather than code. If they want to add a map or unit to a piece of code and those parts appear to be purely logical, then that’s fine. This can only help as you move to more detailed tasks.
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -547,7 +547,7 @@ So that's it! We've covered a few useful theories about how mathematics is centr
 
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -594,7 +594,7 @@ Reading books is an excellent way to expand your knowledge base.
 Reading and reading books is one of the best ways to become fluent with a topic. It also provides a great environment for helping others learn more about the topic.
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -622,7 +622,7 @@ Finally, it is important to realize that intelligence doesn't always give you a 
 So there you have it: some more basic background on intelligence, based on some of the more basic scientific principles of psychology and neuroscience. In the next few chapters, we'll be analyzing some important examples of human thinking that can help explain how intelligence works...
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -647,7 +647,7 @@ Enumeration
 The number of possible ways of describing a space is infinite,
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -667,7 +667,7 @@ Now think about the limit that the particle would experience as they move farthe
 This is a rather intriguing concept! Perhaps some day we can have better spatial tools to describe the physical world!
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -696,7 +696,7 @@ Now the density of space decreases, so the density of space minus mass density o
 Now let's add mass to the density of space. To add mass to space's density, space must first become vacuolated. Let's examine how this process occurs. Let's assume that the density of space is at half of the mass density of space, which means that space starts vacuolating at half of the
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -734,7 +734,7 @@ For example, a "minute" would be represented by "p" on the "small" time scale an
 Now for the concept of time itself, the concept of time goes through several stages. First, we would need a "time unit" to represent this concept. The "natural unit of time" is called "minute". First, we would need to talk about how time frames were created. These frames are created by counting the pulses on an interval of time. Typically, this interval is called a "tim
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -762,7 +762,7 @@ Now that you've decided on the name of your new advisor, the game will start! As
 Of course, in order to get a good reputation in the government of Cilanore, you will need to be both efficient and persuasive, and you'll have to talk about the group's many problems, like for instance their lack of competitiveness, the questionable economics, and the fact that they have none of their own ships! You'll have to advocate for the group and help them if need be. You'll also need to strike a balance between not being oversensitive to people's requests, and sharing your own point of view to avoid making the other gods too upset! During your journey into the groups headquarters, you will also have to take care not to disturb other players and keep yourself as neutral as possible. Once you've got to that point, you will get a chance to ask questions about the conflict in Cilanore, or
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -780,7 +780,7 @@ However, it goes without saying that it is not enough to get an understanding of
 You can see a few additional references from Chapter 25 for a more detailed explanation of the bio-chemical and anatomical features of a person and how these two factors influence each person's personality.
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -813,7 +813,7 @@ With this hypothetical example on the line, let's get to know the mental and phy
 If there's a high level of sugar inside the 5D organism, how is the body able to regulate the sugar level? Well, the blood sugar level gets monitored by the pancreas in each of the individual 5D organisms, as it must regulate the
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -845,7 +845,7 @@ First, let's begin with some definitions. Yeti is actually a group of clans livi
 Imagine a pre-historic community where you live - in this case, it would be a Yeti clan. Each member of this community would have the power of the Cobra-headed dragon, allowing them to inhabit the bodies of animals, animals, and even humans! And because they live on the skins of these animals and humans, they can be used to protect themselves from the elements that create any sort of weather. For example, if you happen to encounter a fire when you are exploring a nearby park, the Cobra's dragon's roots can hold the fire together so that it does not ignite. The Cobra-rooted goddess is known as the Thirty-Kind Goddess, and
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -870,7 +870,7 @@ It's now time to get out of our 3+1 dimensional universe! When we enter into 4D 
 One interesting problem that we can't solve in our 4D universe is the motion of cosmic microwave background radiation (
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -913,7 +913,7 @@ You may already have this answer, but to help others who don't understand this a
 The four-dimensions are required to explain most of the natural world, the World we live in and experience. The Thucydides Thesis (“From Troy to Achilles’ Parthenon”) states that the universe is a vortex, with “channels” or spatial dimensions. With the Thucydides Thesis, it is assumed that Earth (and probably most other
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -936,7 +936,7 @@ Now it's just a theory, but there seems to be an interesting debate going on abo
 If you're not 100% sure what these warning signs are, it's best to see a doctor. But I would personally not take them seriously, and just assume that there's nothing to be afraid of, especially if you haven't tried any of these drugs for a long time! In some cases, such as in the case of aluminum consumption, you might also receive a clear medical warning that says "Don't drink this". And then, if you
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -963,7 +963,7 @@ Doing this, we will have created the perfect platform for the Ancient Avatars to
 Now that we've created our platform, we only need to bring back one or more of the Ancient Avatars to Dimen-
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -978,7 +978,7 @@ Now for practicality purposes, it's important to note that we need to transfer e
 Now we're going to take a few examples of how electric energy can be transferred between objects to demonstrate how electric cones can work. The first example will be a simple explanation of how electricity is transferred through capacitive effect (in one dimension). This involves electricity flowing from a small water-filled bulb through a metal pipe through a capacitor. The type of material used for the water will determine how fast the electricity flows
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1001,7 +1001,7 @@ I received two letters on August 29th, 1913: one from the minister of the P.E.B.
 The Great British Mystery has been named by a lot of authors as a
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1026,7 +1026,7 @@ It turns out that the Ancient Sages are using the Sages' love for each other to 
 When a group of only 5 Sages decide to use the work of another Sage as their teaching tool, it sends shockwaves through the world of Ancient Sages
 
 
-#### {"do_sample": true, "top_k": 0, "top_p": 0.92}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 0, "top_p": 0.92, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

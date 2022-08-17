@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -65,7 +65,7 @@ Your subtitle - A good subtitle is a bit annoying (and sometimes really hard!) b
 Keep it quick and concise - a good title is usually enough to attract readers.
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -133,7 +133,7 @@ The answer to this question is basically three (theory of category is a useful a
 (a)
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -164,7 +164,7 @@ These dimensions can be defined only once you know the boundaries. They are not 
 If we were to start with a particle and look at the dimensions of its content, we might think about the possibility of finding out that its content is an electron, a proton, an antineutrino
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -194,7 +194,7 @@ Now let's use our ENFJ calculator together with a human calculator to evaluate t
 Now that we have gained some
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -212,7 +212,7 @@ Next, we will start working on counting. To begin with, we only have to know tha
 Next, while we are on the topic of counting, we will look at what is a "unit of measure!" How can a "unit of measure" be different from a "number of measure"? Well, if you had a standard amount of gas in your house and measured the gas with your eye and put the measure in a standard stopwatch, you would probably measure the gas by using just your eyes ("gas, eye"!). Then when looking at our mental map of "unit of measure" and "number of measure" we have the idea that we can measure the number of units of measure (like gas) with the help of our eyes or an eye measurement meter ("gas, meter"). And then when we begin learning properties, we can work backward to see how
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -240,7 +240,7 @@ But what happens when we don't have the ability to learn complex concepts? Of co
 The brain also has an ability to recall. When we think of a concept, we tend to see other concepts (or images) that relate to it - and we tend to recognize it as being in the same group we see when we hear it. This
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -260,7 +260,7 @@ However, if we move towards the space around us, then the sides near the front w
 To see how this works, let's imagine we were to move towards the 3 walls and then the back Wall. This is because if we were to stop and consider the positions of the walls there would be a shift on the front Wall, but this would not happen on the right side or the top side. Now let's imagine we were to imagine we were still heading towards the back Wall and then the left Wall. In this space we would notice a large change on the side to the back
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -286,7 +286,7 @@ The universe crunch implies that space and time actually exist separately from e
 This really helps to explain how quantum mechanics works at a fundamental level: the particles, or photons, in different
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -437,14 +437,14 @@ x=50603
 x=56085
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
 To better depict how deities move around our 3+1 dimensional universe to the next dimension, we need to model their motion using a mathematical description. In order to make sense of how deities are able to sense their surrounding environment, we must be able to do a variety of math.
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -476,7 +476,7 @@ In this example the student would be thinking about what the mathematics is actu
 Now take a deeper look at what the mathematical tool does. What are the main operations of the calculator? Let us assume that the calculator has a set of different numbers that represent the angle of the angle of the angle. The program then uses those numbers for calculating the "length" of the line - the result of the calculation is that length. The "length" then changes to
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -494,7 +494,7 @@ Now let's see how enneagram types map onto our 4D spaces. According to the theor
 But is that all there is to it? We aren't really interested in the concept of personality types here! It would be really cool to be able to get a detailed understanding about individual personality types, such as the ones listed above. One thing we can say for sure is that there are many types of people on our planet, and only one person has a single type of personality. These types are the ones that you see on
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -520,7 +520,7 @@ A number of factors influence the way that a hip hop movement is performed. For 
 In summary, Hip Hop NLP is a wonderful way to improve your communication skills, particularly when used in
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -540,7 +540,7 @@ the one that comes about through the notion of homotopical equivalence.
 The first and easiest way of doing homotopy is to look at how the different differentiable structures that can be formed from a given continuous structure are related together at the continuum or higher dimensions.  The continuous structures are called "differential forms on the continuum", and those that are not isomorphic generate a subgroup E of Diff(X, R), the group of diffeomorphisms which preserve linear forms.  This subgroup has a well understood structure; it has four orbits, the first being the identity, the others being the identity for a (non-necessarily invertible) linear map, an isomorphism, and a diffeomorphism with invertible Jacobian (note you can go from an
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -563,7 +563,7 @@ So what happens once you have explained your solution to your players? Well it i
 So you've got to
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -590,7 +590,7 @@ Now for the imaginary numbers - they're very important for explaining special ma
 For example, we can now write zero as (0,
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -613,7 +613,7 @@ Of course, by just learning the basics of the Functions, we might not be able to
 As we are going to see in the next chapter - Intuitive/Intelligent Functions are also used to predict the human mind states (the mind states that we feel when we think mathematics!). Intuitive/Intelligence functions like Arithmetic, Functional and Conceptual are also used to predict how much time it will take to remember the concepts a person is learning in an exam! And the more we can mentally think ahead to the time to memorize the concepts, the shorter and easier the learning process is! The quicker we mentally make up our mind in advance when we come into an exam than when we just do the exercise and forget it later on - the
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -637,7 +637,7 @@ The basic idea is quite simple - if we have more independent perspectives of an 
 Now let's look at the concept of intuition, which is the domain of our higher mental powers. When our minds become able to comprehend abstract concepts and use these abstract concepts to solve complex problems, we begin to speak of "intelligence". This is a very good way to distinguish between the two forms of intelligence. However, the question we have up against now is this: when does the
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -661,14 +661,14 @@ One of the main reasons why mathematics has such an important role in life is be
 Mathematics is the base of all science - so math plays a central role in
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
 To better depict the concepts of science taught in grade 6-8 school, we will use Math as a model. Math is the domain of mathematics; it is a way of describing and analyzing natural reality via mathematical concepts. Math, whether in classrooms or in the lab, deals primarily with basic mathematical concepts. Even if we talk about science in general, we will not specifically refer to math. However, the concepts of space, time, and other fundamental concepts are quite similar as far as our concepts go, especially when we start discussing relativity, spacetime, and relativistic physics.
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -691,7 +691,7 @@ The Art of Story Writing and the Art of Nonfiction - This field is similar to Ph
 Some people (like myself!) tend to focus on particular aspects of Science Fiction and Fantasy; in fact, there are lots of creative industries available for those who want to develop a career in such fields.  However, there's really no such thing as
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -713,7 +713,7 @@ Let's look more closely at how an equation from this relationship would look in 
 Let's start with the equation for a function, which was constructed with the points of view 1 and 2 in the previous discussion. If we define the domain 1 and the point of view 2 by defining the domain for the function as the domain of the number 1, then the domain we create will be: 6 × 3 × 5. The domain we created using this form of calculation is the domain
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -730,7 +730,7 @@ It probably is better to talk about a "mental representation" of objects, and so
 This is an illustration and not a definition. Here are two of the most common ways people encode information into a mental representation, one by adding them all together, and the other by adding and subtracting them.
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -747,7 +747,7 @@ Let me first introduce a useful concept - the fundamental mass of every material
 Let's break this down a little bit! The concept of mass works really great in the case of physical particles - for example, a spinning spherical wave can always be separated into a linear component and another radial component! This is because a spinning particle travels in a certain direction that depends on the axis of rotation of the particle, and as a spinning particle moves in space-time, these angular velocities (angular velocities) all add up to make a sum which equals to the mass of the object. If a particle at rest with respect to a rotating axis of symmetry is not affected by external forces - let's say the particle's axis of symmetry is a circle that doesn't rotate - this momentum would just be equal to the mass of the particle! But when it is moved by an external force that is acting upon it, it can't be said to be at rest anymore -
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -773,7 +773,7 @@ The first question in this section is about your general personality. There are 
 The next question in this section is a general description, so you will probably need to describe a few of your favorite things. The question is "Which of the following are your most favorite things?" The most important part is that it is important to describe from a new perspective - as long as the question gives an accurate answer, it will be a valid interpretation of
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -802,7 +802,7 @@ Chapter Thirty Seven
 A Girl and
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -819,7 +819,7 @@ It turns out though that these spaces of causality are actually in fact infinite
 For a look at how the Yotamite concept of time works, consider one of the first drawings of human anatomy that can be found in Maya writings (around 1550 BCE). As we can
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -838,7 +838,7 @@ This concept is interesting, because at an extreme, the micellar system can beco
 Now back to the drawing board, things are going on in our 4D standard universe in a fairly predictable manner. Each piece of food we eat comes from a Micelia X Living Restaurant! And each of the molecules that make up our living room comes from a Micelia Y Micellar Restaurant! And each individual living room in our 4D standard Universe comes from another
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -864,7 +864,7 @@ Next, it has to "wait" at the locations along its path, and it has to be "turned
 You can see from the picture above that the length of the path is changing along with the time travel, as the traveling particle "rolls" clockwise. This means that the lengthening
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -895,7 +895,7 @@ There are no real answers to these two questions at this point! In the end we si
 So let's take a closer look at Newton's three Laws of Motion, beginning with his famous second Law, or the Law of Gravitation. Now recall that Newton's first Law, or the Law Of Universal Gravitation, states that all objects will gravitate towards their centre. Well let's use the law of gravitation to calculate the acceleration due to the presence of a certain object in our environment. Assuming an earthly mass m in our world (assuming no gravitational field outside our world), then we can use an expression like m*r*g = a in our 3+1 dimensional world where r is the distance
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -936,7 +936,7 @@ At first it may seem that God couldn't connect directly with his audience - if H
 
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -1085,7 +1085,7 @@ object JobInfoCalculagerImpl extends JobInfoCalculator {
   def do
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1096,7 +1096,7 @@ To better depict the mysteries of space and time, here is an extract from a clas
 Of course, this is extremely simplified and not meant to be completely true. Of course, with modern technology, we can observe this sort of thing: imagine that every space-time is composed of millions of tiny black dots which "see" each other through space and time.  Wouldn't that be great, huh?!
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1115,7 +1115,7 @@ So when Ananda Samananda created The Seven Powers, it was not just the fact he w
 Of course, we still haven't seen what Samananda really did to the demon or evil spirit that caused this transformation! However, we do know that in the beginning, when he was created, he was a very powerful demon! Obviously, he had the full control of his powers! And perhaps it's just because of that he could make the transformation...otherwise why did he spend all this time trying to control a demon instead of just healing the entire community? But again, these are just our educated minds...at least
 
 
-#### {"do_sample": true, "no_repeat_ngram_size": 6, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

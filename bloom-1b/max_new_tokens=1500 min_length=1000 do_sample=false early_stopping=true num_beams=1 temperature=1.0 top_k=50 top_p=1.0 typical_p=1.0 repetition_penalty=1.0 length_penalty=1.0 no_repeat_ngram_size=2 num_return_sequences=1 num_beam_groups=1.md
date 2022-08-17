@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -58,7 +58,7 @@ Today, his company is still in business, producing and selling luxury goods. One
 So, what do you think about this
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -98,7 +98,7 @@ As you can see, in category Theories for Gons there exist two main categories: c
 Creation is one main categorie that represents all creation in reality, including all forms of living things. Life is
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -119,7 +119,7 @@ Finally, let us consider how these nuptual folding structures affect the shape o
 In summary, nipps are 3 -dimensional, even though they appear 4 -dimensional. They are also affected during sexual activities, due to blood being flowing in and out through their nesting structures.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -150,7 +150,7 @@ Finally, another common ability of EnJS is their ability for spatial reasoning. 
 As you can imagine, spatial thinking is an important cognitive skill for Enjis. Without this ability, your Enjy would have to rely on his/her visual sense to make decisions about where to stand, where he should walk, how far to turn, what direction to look, whether to knock down or not, among other things. It's important to remember that spatial ability is not just limited to Enjes - it also applies to other human beings as well.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -159,7 +159,7 @@ To better depict the cognitive functions of an ENFP, let's take the following ex
 The Ennéagram is a personality test that measures the way people think, feel, act, perceive, remember, learn, reason, communicate, solve problems, make decisions, organize, plan, evaluate, interpret, predict, analyze, synthesize, create, express, imagine, dream, fantasize and dream about. It is based on the theory that people have a unique set of cognitive abilities that are unique to them. These abilities are called the Ennergetic Neuro-Functional Patterns (ENPs). These ENPs are the basic cognitive processes that make up the ENP. Each ENTP has one ENPN, or the set that best describes their personality. For example, an EnTP might have the ability to think logically, to be creative, analytical, creative and imaginative, as well as to have good memory and a strong sense of humor. An EnFP might be able to make quick decisions and be very organized, while an EFP may have an ability for problem solving and to communicate effectively.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -192,7 +192,7 @@ To illustrate this concept, consider the atom of hydrogen. H is an element that 
 When we study atoms, however, not all atoms are created equal. Some atoms have more energy than others, making them more likely to collide with others. That's why scientists use a formula called the binding energy to measure how much energy an atom can absorb from another object. It's also important for scientists and engineers to know how many atoms there really are - because if they don't know the exact number in question, they'll have to guess at it. Here's a simple example to illustrate how this works - imagine that you're trying to figure out how long a piece is. First, you'll need an idea of its length. Next, you'd need some way of measuring the amount of material it contains. Lastly, you're going need the energy it absorbs from light. Once you know all these
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -215,7 +215,7 @@ Of all this data, what scientists need is only the information that will help th
 To understand this concept, imagine that you are walking along a road. You are now in your own dimension, where you see everything in black and white. Your eyes are looking straight ahead, as you normally would. Suddenly, your eyes start seeing a black-and-white image of yourself. Why is this happening? Because your body is now moving at an accelerated speed. Due to your accelerated motion, you're now seeing yourself from all angles. You're now able see yourself in every possible position. Even though you now see your image from every angle possible, because your speed is so high, you'll still see it from only one angle. You'll see a single black-andwhite picture of you, with your head and body in one color and your hands and feet in another. Of all your possible positions, that's the one that you're seeing. Every time you move your arms and legs, or your face, that single picture will move with you. Whenever you look at yourself, every time you're looking in that particular direction (your body's direction), your picture is going to look the exact same. Just like the blackand-white images in reality, black- and- white images are also created by your movement. Any movement you make will cause your black image to also move. Like the
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -224,7 +224,7 @@ To better depict the concepts of mathematics and ESFJs, let's take the following
 The most interesting thing about mathematics is not that the rules are so simple, or that mathematics can solve problems so easily, as many people think. It is rather that, in spite of its simplicity, mathematics contains so much of what is essential to life, that even the most ignorant of us can understand it. For example, when you are asked to solve a problem, whether it be a simple arithmetic problem or an extremely difficult one, your mind is already working out the solution. You are already thinking about the problem and the answer. Your mind has already made up its mind. But mathematics, on the other hand, is a science that requires a great deal of thought and analysis. Mathematics is an art, not a mere science. To understand mathematics you must understand the art of thinking. Without this, however, no one can learn mathematics.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -247,7 +247,7 @@ This simple question shows us how counting is used to calculate the number we sh
 In all three examples, mathematics is an important tool for solving real-life problems! And it's not just the math that helps us figure things out - it's also our ability to reason and solve complex problems that relies on our understanding of math.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -270,7 +270,7 @@ Let's take an even more complex example. Say you wanted to know how many apples 
 And finally, let us take some more examples. Let us look again at this problem: how can you find out what is inside a box? First of all, find all the boxes in that box. There are three boxes, one for each color. Take one box and divide it up into three equal sections. Put each section in its corresponding box, making sure that all three sections are the equal size. Repeat this process for all boxes. At this point, you've found all your boxes! Now you only need one more box to fill in! Take the box that contains all 3 boxes and put it inside your box! You should now have a perfect match!
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -279,7 +279,7 @@ To better depict the concepts of mathematics and physics in this section, we'll 
 Let's start with the most basic concept in math - a number. A number is a symbol that represents a real number, or an abstract number that has been converted into an actual number by some mathematical process. For example, 1 is the number one, 2 is two, 3 is three, 4 is four, 5 is five, 6 is six, 7 is seven, 8 is eight, 9 is nine, 10 is ten, 11 is eleven, 12 is twelve, 13 is thirteen, 14 is fourteen, 15 is fifteen, 16 is sixteen, 17 is seventeen, 18 is eighteen, 19 is nineteen, 20 is twenty, 21 is 21, 22 is 22, 23 is 23, 24 is 24, 25 is 25, 26 is 26, 27 is 27, 28 is 28, 29 is 29, 30 is 30, 31 is 31, 32 is 32, 33 is 33, 34 is 34, 35 is 35, 36 is 36, 37 is 37, 38 is 38, 39 is 39, 40 is 40, 41 is 41, 42 is 42, 43 is 43, 44 is 44, 45 is 45, 46 is 46, 47 is 47, 48 is 48, 49 is 49, 50 is 50, 51 is 51, 52 is 52, 53 is 53, 54 is 54, 55 is 55, 56 is 56, 57 is 57, 58 is 58, 59 is 59, 60 is 60, 61 is 61, 62 is 62, 63 is 63, 64 is 64, 65 is 65, 66 is 66, 67 is 67, 68 is 68, 69 is 69, 70 is 70, 71 is 71, 72 is 72, 73 is 73, 74 is 74, 75 is 75, 76 is 76, 77 is 77, 78 is 78, 79 is 79, 80 is 80, 81 is 81, 82 is 82, 83 is 83, 84 is 84, 85 is 85, 86 is 86, 87 is 87, 88 is 88, 89 is 89, 90 is 90, 91 is 91, 92 is 92, 93 is 93, 94 is 94, 95 is 95, 96 is 96, 97 is 97, 98 is 98, 99 is 99, 100 is 100, 101 is 101, 102 is 102, 103 is 103, 104 is 104, 105 is 105, 106 is 106, 107 is 107, 108 is 108, 109 is 109, 110 is 110, 111 is 111, 112 is 112, 113 is 113, 114 is 114, 115 is 115, 116 is 116, 117 is 117, 118 is 118, 119 is 119, 120 is 120, 121 is 121, 122 is 122, 123 is 123, 124 is 124, 125 is 125, 126 is 126, 127 is 127, 128 is 128, 129 is 129, 130 is 130, 131 is 131, 132 is 132, 133 is 133, 134 is 134, 135 is 135, 136 is 136, 137 is 137, 138 is 138, 139 is 139, 140 is 140, 141 is 141, 142 is 142, 143 is 143, 144 is 144, 145 is 145, 146 is 146, 147 is 147, 148 is 148, 149 is 149, 150 is 150, 151 is 151, 152 is 152, 153 is 153, 154 is 154, 155 is 155, 156 is 156, 157 is 157, 158 is 158, 159 is 159, 160 is 160, 161 is 161, 162 is 162, 163 is 163, 164 is 164, 165 is 165, 166 is 166, 167 is 167, 168 is 168, 169 is 169, 170 is 170, 171 is 171, 172 is 172, 173 is 173, 174 is 174, 175 is 175, 176 is 176, 177 is 177, 178 is 178, 179 is 179, 180 is 180, 181 is 181, 182 is 182, 183 is 183, 184 is 184, 185 is 185, 186 is 186, 187 is 187, 188 is 188, 189 is 189, 190 is 190, 191 is 191, 192 is 192, 193 is 193, 194 is 194, 195 is 195, 196 is 196, 197 is 197, 198 is 198, 199 is 199, 200 is 200, 201 is 201, 202 is 202, 203 is 203, 204 is 204, 205 is 205, 206 is 206, 207 is 207, 208 is 208, 209 is 209, 210 is 210, 211 is 211, 212 is 212, 213 is 213, 214 is 214, 215 is 215, 216 is 216, 217 is 217, 218 is 218, 219 is 219, 220 is 220, 221 is 221, 222 is 222, 223 is 223, 224 is 224, 225 is 225, 226 is 226, 227 is 227, 228 is 228, 229 is 229, 230 is 230, 231 is 231, 232 is 232, 233 is 233, 234 is 234, 235 is 235, 236 is 236, 237 is 237, 238 is 238, 239 is 239, 240 is 240
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -298,7 +298,7 @@ Emotion Intelligence– This attribute is used to measure how emotionally intell
 In summary, an emotional intelligent person has the ability to recognize and express their emotions in an appropriate way. Social intelligent people can work well with and help other individuals. Physically intelligent individuals are physically healthy and fit. Finally, emotion intelligent persons are emotion and emotion aware.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -315,7 +315,7 @@ So what does this mean for us? It means that if you want your life to become mor
 To learn more about HipHOP, check out this video by Dr. David L. Lerner, PhD, who is one of America's leading experts on HipHip Music. He is also a professor of psychology at the University of California, Berkeley. Dr Lerner's research has helped to explain how people listen and interact with Hiphop music. His research also helps us understand why people like HipHOP music and why it has such an impact on our daily lives.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -355,7 +355,7 @@ Well, that's where the idea behind the theory known today as "Universal Theories
 Of all universes: the one we live in is one that has no visible boundaries. Our universe consists of only one infinite universe. Every other universe in existence is also one infinitely infinite and infinite in size.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -386,7 +386,7 @@ In other words: Mary wants her marriage to continue, even though she is cheating
 However...what if Paul tells Mary the full truth and tells his partner the same thing? Mary might still want Paul and her family to keep their relationship intact. Why? Because Mary knows Paul loves her, loves his family, wants them to stay together, doesn't want them separated. Furthermore, this is the only way Mary can protect herself from the consequences of lying. Without telling her truth (and without telling Paul), Mary could end up in jail, lose her job, be fired, get divorced, have her children separated, end her life, all because of Paul cheating. All of these things would make Mary feel bad and angry. It would also make the relationship between Mary (who is still a married woman) and the rest of Mary family (including her son) feel even more broken. Finally, without knowing the complete truth of what happened, neither Mary nor her daughter would know what to expect from their marriage.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -418,7 +418,7 @@ So, in this example we see that Dewy's concept is very similar to that of our ow
 As we have seen, mathematics is quite complex. To understand it, it's important to have an understanding of basic concepts. One of those concepts is number theory. Number theory is concerned with how numbers can and should be used in mathematical calculations. It's also important for us to realize that mathematics isn't just about numbers - it also involves other concepts such as geometry, algebra, probability, statistics, topology, differential geometry and so on. Mathematicians are constantly working on new mathematical ideas and theories to help us understand the world around us.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -435,7 +435,7 @@ As we have seen in Chapter Twenty, INPFs are good listeners and thinkers. These 
 So, in summary, mathematics/INPs need both good thinking and listening abilities, good communication skills, an understanding ability, problem solving skills and a willingness to try new things. All of these qualities help INNs to become more successful in life, especially in business and in politics.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -446,7 +446,7 @@ In this section, we'll explore some basic concepts in math that INTJS can use to
 First, let us look at the basic concept called a number. A number is a symbol that represents a real number, like 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435,
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -479,7 +479,7 @@ Mathematical Art: The Art of Mathematics
 Art and Math: A Guide to Art and Mathematics
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -509,7 +509,7 @@ Mathematics is used in many fields of study, from biology to chemistry to engine
 The number pi is one example. Pi is defined as pi = 3.1415926535897932384626433832795028841971693993751088954944530480078134862385959995763097494459375. pi can also be written as 3,14,159,265,35,89,32,795,02,884,197,495,648,809,113,243,356,372,828,
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -539,7 +539,7 @@ In other words: ISP's cannot use their mathematical abilities to do anything oth
 As an aside, I would like to mention that the term ISPI is used to describe individuals who are ISFS. ISPS are also known as ISFI, although this is only used in reference to ISFFs. I will leave this topic for another time...
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -568,7 +568,7 @@ As we have seen, mathematics is used a great deal in science and technology. It 
 So, what are you waiting for? Let's get started!
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -637,7 +637,7 @@ First we start by looking for a value that approximates the solution. That is, g
 We start with a guess of $0.5$. With this guess, $x$ is approximately $0,5,7,9,11,13,15,17,19,21,23,25,27,
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -666,7 +666,7 @@ But what about the people who have left the ship? How will the crew of that ship
 The crew will continue on their journey, traveling through time and space to reach the destination. Eventually, all members will arrive at Earth and be reunited with their loved ones.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -689,7 +689,7 @@ In fact, one study found that introjective people were more successful in their 
 Of all extrogens, those who were born extrode were the most successful. Those who had a more traditional family background were also more successfull. Finally, all introgenders were found to outperform extrogenes. Extroviruses were not found as successful as extroevirals. extroids performed better in most of their studies than the extroyvirs. There was no difference in extrovevirs' performance between their families and the rest of extrophyvir's families.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -710,14 +710,14 @@ A:
 I think the answer is yes, yes it does. I think it would make sense to say that the universe has four different kinds of things,
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
 To better depict the way in which the Maya believed in their deity, I will use the term Maya religion. Maya is a term that refers to a group of people who lived in Central America and the Caribbean for thousands of years. They were a people of great wisdom and knowledge, who were also very religious. Their religion was based on the belief that their creator, Yama, was a god who was the embodiment of all the elements of nature. He was also a creator of life and death, as well as of good and evil. His name was Yat, meaning "good" and "evil". Yaman, or "being", is the name given to Yama: the creator. It is also used to refer to all beings, including humans. These people believed that Yam was responsible for the creation of everything, from the sun to clouds, trees, flowers, animals, plants, humans, everything in between, to everything that exists in this universe. All of this was created by Yame, in his own image. Therefore, all things were created in Yames image, with Yamen as their embodiment. Thus, Maya people were very much in tune with the natural world, because they believed Yamas image was in every part and every aspect of it.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -736,7 +736,7 @@ Let's consider an example of how photons scatter. Suppose that a 1,200 nanogram 
 What happens when light enters a space that has no atoms? In order to make light travel into
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -751,7 +751,7 @@ In addition to studying mathematics, physicists also study the physical world in
 In summary, mathematics helps to explain the structure of things in general, while physics helps explain how these things work in specific situations. When we study mathematics we learn about what numbers mean, why numbers work, where numbers come from, when numbers change, or how they change. On the other hand, physicalists learn how physical objects behave, including how their properties change as they interact with each other and with the rest of their environment. Finally, both fields are also very useful in predicting how certain things might behave.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -760,7 +760,7 @@ Yes, ultimately, the answer to what is the best drug for you is up to you. But t
 The most common type of drug is a stimulant. A stimulator is an agent that increases the activity of your brain and body. It can increase your energy levels, increase focus, or increase the speed of thought. These effects are usually temporary, lasting only a short time. They are also usually not very pleasant, as they tend to make you feel like you are going to explode or have a seizure. You will also experience some side effects, like nausea, dizziness, headaches, insomnia, fatigue, irritability, anger, paranoia, depression, anxiety, confusion, hallucinations, delusions, aggression, mania, panic attacks, suicidal thoughts, sexual dysfunction, impotence, loss of appetite, weight gain, increased libido, decreased libidos, mood swings, memory loss, sleep problems, muscle spasms, tremors, sweating, diarrhea, constipation, vomiting, urinary incontinence, hair loss and loss or thinning of eyebrows, skin rashes, dry mouth, difficulty urinating and urination, heart palpitations and chest pain, shortness of breath, fainting, nausiness and vomit, excessive swearing, blurred vision, tinnitus, vertigo, hearing loss (especially in noise), dizzy spells, weakness, numbness, tingling, pain in your hands, feet, face, neck, back, stomach, chest, abdomen, buttocks, legs, arms, joints, muscles, bones, tendons, ligaments, nerves, blood vessels, organs, fluids, urine, saliva, tears, semen, sperm, eggs, milk, breast milk and milk products, vaginal discharge, oral discharge and oral mucosa, nasal discharge (including nasal congestion), ear discharge or ear pain (such as earwax), nasal dryness, nose bleeds, ear infections, sinus infections and ear infection, allergies, asthma, bronchitis, emphysema, chronic bronchiectasis, cystic fibrosis, diabetes, hypertension, hyperlipidemia, osteoporosis, arthritis, gout, osteoarthritis, rheumatoid arthritis and gouty arthritis. Some people also use prescription drugs, including antidepressants, antipsychotics, anxiolytics, anti-anxiety drugs and anti-depressants. Other people use herbal and natural drugs such as herbs, spices, vitamins, minerals, amino acids, omega-3 fatty acids and omega-6 fatty acids; and herbal extracts such as: ginseng, ginkgo biloba, chamomile, tea tree, lavender, eucalyptus, rosemary, sage, thyme, basil, marjoram, clove, peppermint, cinnamon, nutmeg, cardamom, vanilla, lemon, grapefruit, orange, apple, pineapple, mango, papaya, banana, strawberry, raspberry and grapefruits. There are many other natural and organic drugs available, some with a long history of use, while others are new to science. Many of these drugs are used to treat a wide variety of conditions, from minor ailments to serious illnesses. For example, many people take prescription medications to help with their sleep, to relieve pain and to control their blood pressure. Others take herbal medicinals to improve their health, relieve symptoms of chronic illness, treat cancer, improve memory, reduce anxiety and depression and help them sleep better. People also take vitamines and minerals to boost their immune system, help their body fight off infections or diseases, prevent cancer and other illness and improve overall health. Most people who take these medicated drugs do so for a variety reasons, not necessarily for the health benefits they provide. Sometimes people are prescribed these medicines to prevent or treat an illness or disease, sometimes they take them to reduce their symptoms, often they use them for other reasons such to increase their energy level, boost focus and concentration, ease anxiety or depression or to ease pain. Occasionally, people may take medicating drugs to manage their weight, manage blood sugar levels or manage other health conditions. Finally, prescription and non-prescription drugs can also be used for recreational purposes. Recreational drugs include alcohol, marijuana, cocaine, amphetamines, stimulants and sedatives. Alcohol is used by many to relax, socialize, have fun and get drunk. Marijuana is often used as a recreation drug, although it has been used in medicine for thousands of years. Cocaine is also used recreatively, though it was not used until the 1960s. Amphetamine is commonly used, especially in recreations. Stimulants are often taken to enhance the effects of drugs. Sedatives are sometimes used when people need a nap or when they need sleep. Drugs can have many different effects on
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -775,7 +775,7 @@ Ofcourse this is a hypothetical scenario. There are many other scenarios that co
 In the end, what is important is to remember that our bodies and minds are only as strong as our energy resources. When we have enough energy to do something, our body and mind will do it without much effort. On the other hand, as energy levels drop, both our physical and mental abilities will begin to decline. Even if the body is still strong, energy reserves will start dwindling and eventually we won't be as able as before.
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -807,7 +807,7 @@ After this is done, lines 9 and 10 are run. They create two more variables named
 At this stage, all that remains is for us to call sum(), which is located in main.line. Sum() takes a single argument, d, that represents the total number to which we wish to multiply each value from x. When called, this method will take the xarray dp and multiply it by each element in y dp, returning the final result. d is simply the number that was passed in
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -820,7 +820,7 @@ In order to make things more interesting, imagine that this young magically gift
 As you can see, this is just one example of how dimensional travels can affect the way we think about reality. It is important to remember that even though we can't see or touch the world in its entirety, our minds can still perceive it in some way. Even if it doesn't look like it, or if it's not real at all, we're still able and willing to believe that it's real!
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -846,7 +846,7 @@ Magic and Its Powers
 Magic has always been a part and parcel of human existence. Whether it be in ancient times, when people used it for healing, protection and other purposes, through the Middle Ages, with magical spells being used for warfare, magical weapons being created, magicians being hired to perform magic tricks, people using magical energy to travel
 
 
-#### {"early_stopping": true, "no_repeat_ngram_size": 2}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 2, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -85,7 +85,7 @@ I think I can answer your question.  As you are traveling from spatial to tempor
 Thus, if you want to enter a different reality, you must enter a new dimension.  If you do not leave the spatial dimension, you must find
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -109,7 +109,7 @@ Let's try to provide an example of how the creator of a device might describe ho
 In other words, if someone wants to create a device that could follow the law of
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -130,7 +130,7 @@ And of course there is the theory that the nude actually really comes from a mal
 As with anything else in the world, different people have various theories as to what causes such inconsistencies between our different perception of reality. One thing we're all agreed on is that we want to be able to explain the origin of anything! As was the case with the Mona Lisa, we have a tendency to believe that people have created a perfect image of reality, which may, or may not, be true...but I'm really only interested in the science of reality itself!
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -145,7 +145,7 @@ But what was the specific purpose behind the use of the brain representation? Be
 Now lets think about how this concept relates to our brain. In our modern world, we know that there are lots of things we need to
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -175,7 +175,7 @@ And
 Now let's see how the new problem solver, Charlie, would represent
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -214,7 +214,7 @@ When we look at a specific single number in our set, we can see that it represen
 Let's take a look at a more simple example
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -239,7 +239,7 @@ In mathematics these degenerate 4D vectors were called "intersecting hypersphere
 But things get interesting if we consider how a 4D vector is related to a 3+1 geometry! Let's make a
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -341,7 +341,7 @@ The solution is
 The answer is a perfect square 3 and a half
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -377,7 +377,7 @@ Finally, we just need to choose three of those sides and make sure their length 
   √2 L X 5 L (or 4 if 3×3 or
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -429,14 +429,14 @@ This step has two important parts...we need to draw the number of plants in the 
 The number of plants in the diagram is easy. We just need to measure the size of the diagram (or the area that each leaf has on it) and multiply it by the number of leaves in the diagram. So we'll use a ruler to do
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
 To better depict the concepts of mathematics we will be using the term ESTP [...]
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -467,7 +467,7 @@ Based on these Topo Topo Pyramids at the same level, we can see that their level
 All of these Topo Topo Pyramids can be used
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -486,7 +486,7 @@ It's easy to understand why we use color-coding systems in our daily lives - it'
 If you want to check out a color-coded dictionary that I also use at my office, click here!
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -525,7 +525,7 @@ Now let's consider the absolute motion of the particle. At the beginning of the 
 However, if the initial measurement was out of the world of the 5D manifold, then the equation for v0 will not apply, and
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -551,7 +551,7 @@ So this means that the ventral part of the occipital lobe will not be activated 
 Remember that we can't have just a single pattern of colors within the same color; if we only have three or four colors,
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -588,7 +588,7 @@ In the last part of this section we will explore how our ability to reason about
 The mental action that most people experience when they learn math is called mental transformation! This mental transformation begins at the very beginning, when math children are learning to distinguish between 0 and 1. Because they are learning to do so from relatively simple things such as counting, they begin to know many different types
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -629,7 +629,7 @@ But to actually learn how to solve mathematical problems, mathematicians typical
 Then from here they go a little bit further, such as writing down some partial differential equations. If you look at a differential equation and see the expression f(x) - g(x) = 0, and you are given the functions f(x) and g(x) as examples, you can use this equation in conjunction with other equations that give f(x) or g(x) values in order to determine the solution f(x) - g(x) = 0. Using this process they often make use of derivatives of f(x) and or of g(x), or other ways of dealing with the expression f(x) - g(x) = 0 for mathematical purposes.
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -652,7 +652,7 @@ First of all, if you are the type of mind that can move through an enormous mass
 Second of all, if the mind you've developed is able to move through other higher-dimensional planes, you will be able to continue to explore the universe as long as you keep it under a healthy enough form. It is also interesting to note when you look at this in a different light, you might see why it's important for higher-dimensional matter to work within the constraints that are placed on it - the fact that a higher-dimensional mind is able to move freely within lower dimensional space is a huge step towards understanding how higher-dimensional matter works at a large scale; in order for it to do this
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -678,7 +678,7 @@ So, the answer to this problem is that when we remove an object, there is no lon
 Now let's come back to the
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -700,7 +700,7 @@ Basic Functions are a set of mathematical functions that describe the behavior o
 Thinking / Reasoning / Listening / Memorizing / Understanding / Understanding Information / Analyzing / Reasoning
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -733,7 +733,7 @@ The most interesting thing about isospin is that it describes not only both spin
 So, as you can see, isospin is a 3+1 dimension vector concept that describes both particles and their inter-particle coupling, which makes it a powerful concept to study! I would strongly suggest
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -766,7 +766,7 @@ Suppose we are currently in the 2+2 dimension of our more specialized 3+1 dimens
 Now suppose we were moving into a 4-dimensional space-time
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -811,7 +811,7 @@ Figure 5 - The process of time travel, taking a slice through our universe
 As you can see, we are very aware of the physical reality of the 3+1 dimension and how this world is related to our 2D space-time. However, unlike our 3-D world, our 2D world does not have a notion of time.
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -840,7 +840,7 @@ It does, however, make it appear that there is some future to The Kingdom...
 The reason that this happened is because of the way in which The Kingdom was created - The Kingdom is an entirety (all people, not just the heroes and heroines, but everyone); this is not an individual thing, and therefore cannot be the cause of a "disbanded" group...
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -883,7 +883,7 @@ If there were enough data, we could use it to infer other more complex traits.
 If you have enough data, it's a
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -892,7 +892,7 @@ To better depict how the realities of daily life can be similar to the surreal w
 Now let's imagine the situation where a real person is going through the process of having their wedding shot by a Hollywood star known as John Travolta and Olivia Newton-John. Obviously there will be some big problems that arise! To avoid this, Travolta and Newton-John decided to have a dream in which they become married...and not just because they both want to be with their love ones in the moment!
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -907,7 +907,7 @@ We should note that we can use the same diagram for the 3D world as well. When w
 Now for a closer look at this scenario. Let's draw a line that goes straight up through the center of the screen. This is the plane on which you sit. To the left of this plane we will have walls on which we are standing. We look down to see if we can find anything that can be described as a line. Let's say that we can see this line that goes straight up from the screen: it is almost like a flat space between walls! We see that we can see this horizontal line for three reasons:
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -934,7 +934,7 @@ Now that we've completed our first complete micelia, we have created two more pa
 Now let's look at the same picture in a 3D perspective - a point on the micelia is represented by a line that can be curved and straightened depending on what direction it's located in at the moment; the point at the end of a micelia's path is represented by a spherical object - the micelia itself is represented by the shape of the line connecting the point on the micelia to the point on the micelia's end! Now, as we can see, while the shape of the point representing the micelia is similar to a point on the complete micelia, we cannot
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -1008,7 +1008,7 @@ The World, From Space
 So far, we've introduced all of the concepts
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -1034,7 +1034,7 @@ That is not the only difference between energy and matter - and it is important 
 Now let us look at a more practical example - the atom! Let's take it even further, to try and make the analogy from a spiritual perspective! Let's try and imagine that there is an invisible, mysterious force that can alter the properties of matter and destroy the matter itself! This force can be created by any form of medium - water, electricity, gravity, etc. - but it is
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -1058,7 +1058,7 @@ And this means things would literally change drastically if we are to become awa
 There is one last piece of information you might want to know about this concept: in order to be able to use them correctly, all of them can only travel through their own native dimensionality. So if the dimensions to which an object could enter from within the physical world are all different from the dimensions to which it normally travels - as described in the previous section - that means the laws of physics at each of these spaces have already been altered. And while this is just speculation, it seems very possible that, during the lifetime of our Deity Dimension Travel system, some of the
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -1076,7 +1076,7 @@ Now you can see that this is exactly how humans feel: we take in what we see and
 But what we are also interested in is what happens when someone turns on and off the lamp and the mirror. For example, is the reflected light exactly what we would expect? Well, since our lamp is moving faster and faster through spacetime, the reflected light will reflect off things closer to it than away from it. Let me give an example: imagine that we move through a very long tube filled with smoke. As we move toward the lamp and back to the lamp, the smoke will begin streaming along the walls as it moves through space - it will reflect back toward the lamp and then stop (it will stop as soon as it reaches the right distance from the lamp!). Now, the same thing happens in 4D spacetime though: if we place our body on a sheet of sheeted paper and then turn the paper on and off, the reflected smoke will reflect off the surface of the sheet in the direction in which it moves, and it will stop where it was before turning on! (Again, it reflects back to the sheet of paper because it is moving slower than the sheet!). Of course, the sheet of paper itself will behave the same - but only as the reflection of smoke and not its own substance! This is precisely what we would expect if we thought of the reflected light as a reflection of the body around it rather than as a reflection of the body itself! Let me give an example: imagine a group of people standing and the lamp is turned off - everyone sits down and rest! Then if the lamp is turned on again, we can again see these people sitting on the chairs and
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1104,7 +1104,7 @@ If, on the other hand, a person had a smile and an expression that matched his t
 So here at the end of the day - all of which is the case during real life! Of course this does not mean that magician are all liars. There are plenty of actual magicians who do follow the rules of the game when
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1129,7 +1129,7 @@ Now imagine that you go up through this large apartment building for the last ti
 "Okay, this may not have been a bad thing, but the devil is lurking behind each and every piece of evidence that is being gathered to uncover
 
 
-#### {"do_sample": true, "top_k": 50}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

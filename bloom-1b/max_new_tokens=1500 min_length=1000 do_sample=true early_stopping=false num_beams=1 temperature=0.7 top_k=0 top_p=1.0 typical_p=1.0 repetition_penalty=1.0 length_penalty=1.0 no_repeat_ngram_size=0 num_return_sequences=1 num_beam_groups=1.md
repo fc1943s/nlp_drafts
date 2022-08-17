@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -70,7 +70,7 @@ Now let's take a closer look at this second example. Let's go back to our partic
 Now let's take a closer look at this second example. Let's go back to our particle-like object with a 4D trajectory. Let's look at its trajectory as it enters into Dimension Y - let's call this particle a
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -93,7 +93,7 @@ Now let's take our reference line segment connecting P 1 and P 2 as our referenc
 Now let's take a look at the sets of points P 1, P 2, P 3, P 4. Let's see what they each look like in mathematical terms. We will take the line between the bottom left and the top right of a set of points P
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -125,7 +125,7 @@ The nipples are a gland that secretes saliva that helps lubricate the vaginal wa
 The vulva is actually a small opening of the vulva that allows for the passage of the vaginal discharge. The discharge is a natural lubricant that gives the vagina a smooth and comfortable feel. The discharge is also used to surround the cervix and help protect the cervix from chlamydia and HIV. This discharge is made up of saliva and mucus. This mucus is secreted by the glandular part of the vulva called the vulva and it is made up of a substance called mucus. This mucus is secreted from the vulva to help lubricate the vagina and to keep the vagina dry. The mucus is also secreted from the vaginal walls to help prevent bacterial infections. The vaginal walls are covered with glands which produce the vaginal discharge and mucus. The glands are located around the vulva and each one has a different function
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -152,7 +152,7 @@ What can we learn from this story? First of all, we can learn that it is importa
 In summary, we see that it is important to understand how
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -163,7 +163,7 @@ Figure 4.1.1: This diagram is a mathematical representation of the world we live
 As you can see, our galaxy is made up of stars, galaxies, planets, constellations, and water. However, not every object that is in our galaxy is associated with a specific color or shape. Instead, each object is associated with one or more cognitive functions that help us comprehend the world around us. For example, the blue circles represent our galaxy. These circles represent stars. Stars represent planets. These planets represent constellations. These constellations represent galaxies. These galaxies represent water. Water represents our planet, Earth. This planet represents our galaxy, which in turn represents the whole universe, which is represented by the blue circles.
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -194,7 +194,7 @@ Now let's consider the ball's motion in the 7th dimension. As the ball travels t
 Where D is the dimensionality of the 7th dimension
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -237,7 +237,7 @@ $$
 Now we can create a 4D computer that has a similar understanding of spacetime to our own that can travel through dimensions
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -254,7 +254,7 @@ Let's look at some of the specific examples that ESFJ Cognitive Functioning can 
 
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -328,7 +328,7 @@ Standard Operators
 Standard operators are the fundamental mathematical operators of math. These operators are used to define the operations of addition, subtraction, multiplication, division, and so on
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -354,7 +354,7 @@ As we have seen in the previous chapter, our brains consist of a large number of
 Now let's look at the idea of an action potential. In general, an action potential is a chemical message that our brain uses to communicate between neurons. In order for a neuron to fire, it will need to send out an action potential. An action potential is a chemical message that involves an electrical impulse in the form of a voltage. When an electrical impulse is sent out, a voltage is created in the neuron's membrane. The voltage that occurs is the voltage that a neuron creates when it fires. This voltage is the electrical signal that a neuron uses to send out a signal to another neuron. A neuron that fires will experience a voltage that is higher than normal, but it will not have the same voltage that a neuron that is not firing would experience. This is known as the resting potential of the neuron. If we have a voltage of 0 volts in the resting state, then our neurons would not fire. In our example, if we have a resting potential of 0 volts in our brain, then we wouldn't feel any electrical
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -384,7 +384,7 @@ Now let's take a look at how the brain's model works in more detail. Let's first
 Now let's take a look at how the nervous system works. The nervous system is the body's primary form of energy production. The
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -422,7 +422,7 @@ So, just like any other personality type, the psychological abilities are also a
 As you can see, each of the personality types has its own unique set of circles that represent different aspects of the personality. The top and bottom of the enneagram represent the highest power of the enneagram and the lowest power, respectively. We can see that, because the primary enneagram contains the most basic aspects of the personality - its top and bottom are the only places where entities can fit their bodies - the primary enneagram is the only personality type that can be classified as a "basic" personality type. Similarly, the secondary en
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -443,7 +443,7 @@ Now let's look at a specific example of how Hip Hop NLP works - imagine that you
 Now it is important to realize that it is possible for you to get a good memory for the beat of the music if you are not exactly two meters away from the person next to you! If you are two meters away, then it is very hard to get a good memory for the beat of the music! However, if you are two meters away from the person next to you, then you can expect to get a good memory for the beat of the music - because
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -466,7 +466,7 @@ To do this we need to look at some fundamental properties of objects in the worl
 Now let's consider some fundamental concepts in cohomology theory. First, we will need to define some terms. Let us first define the notion of a cohomology group. A cohomology group is a group of maps, where each map is a group homomorphism. In other words, the elements of a cohomology group
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -485,7 +485,7 @@ Game Design for the Internet
 In recent years, we have seen a lot of attention paid to how games could be designed to be more accessible to the public. For example, the World Wide Web has made it possible to create and download games and other forms of entertainment for free. But in many cases, this has come at the expense of the quality of the game or experience it gives the user. For example, many websites that allow players to download and play games provide little or no feedback - players simply have to take it all in and just play. This is not something that I would really recommend for anyone - players should be able to make their own decisions about how to play a game, but for the most part, it is not worth the time to
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -521,7 +521,7 @@ In fact, though there are a lot of differences between mystery-based fiction, po
 Now let's look at how different representations of mathematical content are used in case-based fiction. The first thing to note is that in all three of these representations of mathematics, the creator of these books is trying to present a point - a point that is not completely solved yet. In other words, these books contain
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -553,7 +553,7 @@ How would you like to teach your students to use their intuitive abilities in cl
 First and foremost, you want to take the time to prepare your students to use their intuitive abilities in class. As you prepare your students, you should think about what types of questions they would like to ask in class. You should also think about what concepts they would like to cover in class. You can do this by asking your students to brainstorm about the topics they would like to discuss in class, and by brainstorming questions that your students might want to ask in class. This is where all of your intuition comes into play.
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -572,7 +572,7 @@ Now let's take a moment to examine another important aspect of our brains: the w
 Now let's take a moment to examine another important aspect of our brains: the way we think. In our 3D universe, we use brainwave signals to make sense of our surrounding environment. For example, if we are told that we are at a certain height, we can use visual cues to tell the difference between our 3D and 4D reality. On the other hand, if we are
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -643,7 +643,7 @@ Now let's ask our friend what he thinks he would use to make his favorite sandwi
 Now let's consider a little example of List
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -652,7 +652,7 @@ So let's start with the basic mathematics that we use in everyday life. We will 
 Now let's look at some more advanced concepts - such as counting sequences. We can count the number of apples in a basket by counting the apples in the basket. This is a very simple concept, and is usually called counting. We can also know the number of apples in a bag by counting the apples in the bag. This is called counting sequences, and we can also know the number of apples in a jar by counting the apples in the jar. This is called counting sequences and is usually called counting. We can also know the number of apples in a container by counting the apples in the container. This is called counting sequences and is usually called counting. This is because the number of apples in a container is equal to the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in the container plus the number of apples that are in
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -677,7 +677,7 @@ Now let's consider some of the basic ideas that underlie the brain's complexity.
 The cortical structure also contains layers of neurons, called cortical laminae. Each cortical lamina
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -709,7 +709,7 @@ Now let's take a look at some of the different ways in which the brain uses the 
 All of the images that the brain creates in the visual system are called "scene images." Scene images are similar to the type of images that the visual system creates in order to communicate information about the world. However, scene images are created from
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -731,7 +731,7 @@ Now let's consider the concept of length. Notice that distance is defined by the
 Now let's consider the concept of time. Once again, time is defined by the length of the path that the object travels through. If the object travelled through a path of length l, it would have travelled a time of l times the speed of light in that path. But if the object travelled through a path with a length of l times the speed of light, it would have travelled a time of l times the speed of light in that path. This is
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -751,7 +751,7 @@ You can use the geometrical analogy to explain how your concept of a "deity" wor
 In a way, the deity concept is a kind of abstract mathematics, which is used for explaining historical events and the nature of the universe. One of the important challenges will be to explain the existence of God and the other gods. In the first books of the Hebrew Bible, the deity concept is used to explain different aspects of human history, such as the creation of the world and the history of mankind. The concept also plays an important role in the description of the Jewish calendar, which consists of a series of 12 lunar months, and also in the mathematical theory of Riemann and in the theory of complex analysis. All these ideas and the concepts involved in the deity concept are very important for understanding all the other aspects of the universe.
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -786,7 +786,7 @@ So, these are the basic principles of the MBTI - the subtypes of personality tha
 The Introvert/Extraverted subtype is represented by the number X4. So, if we were to take a slice through the MBTI
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -813,7 +813,7 @@ Polyandry - This is a marriage based on the idea that both parties must be devot
 In sum, when we make a decision to enter into any of these four types of marriages, we should always follow these four basic principles, and if we find that we have made a mistake, then we should always admit and be honest about our mistake (even if it means admitting to ourselves that we are indeed unfaithful - which is a huge step on the path toward forgiveness!). In other words, we should never try to justify
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -823,7 +823,7 @@ To better depict our journey through the different dimensions, we will start by 
 The Mayan Way of Life is a wonderful way of life that many people in Central America use to help them maintain balance in their lives. And this balance is achieved through a process called "ritual". An example of a ritual that many people in the region do is the Mayan Way of Life. Imagine a Mayan Mayan Way of Life that starts with the person waking up in the morning. The person is dressed in a clean shirt and tie, and walks into a room with a clean towel. Now the person starts to wash his/her hair and face in the water that comes out of the tub. The person then puts on his/her hat and a pair of pants. Next comes the person washing his/her hands and feet in the water that comes out of the tub. The person then puts on his/her shoes and an outfit that is very similar to what he or she will wear during the day. Now we move into another clean room. In this room we have a large, clean towel that is also used to wash the person. The person is then dressed in his/her outfit and enters the next room. In this room we have a Mayan Mayan Way of Life ritual - the person now shaves his/her head! We then take the towel that is being used to wash the person and place it in the middle of the room. Then we place a stone on the ground in front of the towel. The person then shaves his/her head, shaves his/her face, shaves his/her hands, and shaves his/her feet. Now we place a pot on the ground in front of the towel, and then we place a piece of wood in front of the pot. The person then takes the wood and places it in the pot. Now the person takes the pot and puts several golden candles in it. Now the person takes the wooden candle and breathes it into the pot. The person then puts the pot on the ground and places a large stone in front of the pot. Now the person takes the stone and breathes it into the pot. Now we move into a clean room. In this room we have a wooden altar. The person then takes the altar and places it in front of the pot. The person then takes the candle and breathes it into the pot. Then we move into another clean room. In this room we have a wooden altar. The person then takes the altar and places it in front of the pot. The person then takes the candle and breathes it into the pot. Now we move into another clean room. In this room we have a wooden altar. The person then takes the altar and places it in front of the pot. The person then takes the candle and breathes it into the pot. Now we move into another clean room. In this room we have a wooden altar. The person then takes the altar and places it in front of the pot. The person then takes the candle and breathes it into the pot. Now we move into another clean room. In this room we have a wooden altar. The person then takes the altar and places it in front of the pot. The person then takes the candle and breathes it into the pot. Now we move into another clean room. In this room we have a wooden altar. The person then takes the altar and places it in front of the pot. The person then takes the candle and breathes it into the pot. Now we move into another clean room. In this room we have a wooden altar
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -836,7 +836,7 @@ Let's say our particle is traveling in a gravitational field that is closer to t
 Now let's consider the case of a particle in a gravitational field that is closer to the boundary of Dimension C than the boundary of Dimension Z. Let's say we have a constant gravitational field pulling on the particle, but the gravitational field does not cause the particle to stop moving - in fact, it makes the particle move further and further away from the boundary of Dimension X as it accelerates. This implies that the particle experiences an acceleration that is higher than the gravitational field - and the particle will continue to accelerate as it travels through Dimension X until it reaches the boundary of Dimension A! In other words, the particle will continue to accelerate as it travels through Dimension A until it reaches the boundary of Dimension C! In other words, the particle will continue to move as it travels through Dimension C until it reaches the boundary of Dimension Z! In other words, the particle will continue to move as it travels through Dimension Z until it reaches the boundary of Dimension A! In other words, the particle will continue to move as it travels through Dimension A until it reaches the boundary of Dimension C! In other words, the particle will continue to move as it travels through Dimension C until it reaches the boundary of Dimension Z! In other words, the particle will continue to move as it travels through Dimension Z until it reaches the boundary of Dimension A! In other words, the particle will continue to move as it travels through Dimension A until it reaches the boundary of Dimension Z! In other words, the particle will continue to move as it travels through Dimension A until it reaches the boundary of Dimension C! In other words, the particle will continue to move as it travels through Dimension C until it reaches the boundary of Dimension Z! In other words, the particle will continue to move as it travels through Dimension A until it reaches the boundary of Dimension C
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -866,7 +866,7 @@ Now let's imagine that we want to make a 2D drawing with some specific character
 Now we can start to draw our 2D drawing! Let's draw the blue line perpendicular to the sky, and then draw a green line on the side of the blue line. Now we draw a red line perpendicular to the sky, and then a green line on the side of the red line. Now we draw a yellow line perpendicular to the sky, and then a green line on the side of the yellow line. Now we draw a purple line perpendicular to the sky, and then a green line on the side of the purple line. Now we draw a blue line perpendicular to the sky, and then a green line on the side of the blue line. Now we draw a red line perpendicular to the sky, and then a green line on the side of the red line. Now we draw a yellow line perpendicular to the sky, and then a green line on the side of the yellow line. Now we draw a purple line perpendicular to the sky, and then a green line on the side of the purple line. Now we draw a blue line perpendicular to the sky, and then a green line on the side of the blue line. Now we draw a red line perpendicular to the sky, and then a green line on the side of the red line. Now
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -891,7 +891,7 @@ Now the question now is - why do we not see any “real” examples of “real�
 Well, because we don't. Unfortunately, most people don't even know what the term “real” actually means. As a result, most people confuse the term “real” with the term “physical”. For example, when we say “real person,” we mean “physical human being” - and when we say “real chocolate,” we mean “physical chocolate”. We have
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -912,7 +912,7 @@ On the first day of the First War, Sauron creates a new realm, called Middle-ear
 Curiously enough, the Firstborn of the First War are not able to travel through time and space to attack Middle-earth. Instead, when they arrive in Middle-earth, they are confronted by the first warlord, Sauron! Sauron is able to control the winds and the sun
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -1028,7 +1028,7 @@ int main()
     std::function<std::vector<std::string
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1041,7 +1041,7 @@ Why do you think the magician's apprentice is able to create anything? Because t
 Why do you think the magician's apprentice is able to create something? Because he pays close attention to the creation process. He would spend hours creating objects from nothing. He could spend his entire day thinking about how he could create an object, or how he could make a part of an object come together. He would spend hours and hours making models of his objects in his mind, which would enable him to create new objects every day. He would also spend hours making models of his objects, which would enable him to know where the parts of the object are. He could even make models of his objects, which would enable him to know how they work and how they interact with each other.
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1064,7 +1064,7 @@ Now let's take a look at the magical body of the Meadow Mage and see how it is m
 Now let's consider the magical body of the Meadow Mage in a different way: imagine that you have a golden sand brick and a golden sand stick. After the brick and stick are placed together, you make a stick out of the stick and place it on top of the brick. The stick is a stick of gold, but it is very fragile and easily breaks apart. The gold atoms in the stick are scattered throughout the stick, making
 
 
-#### {"do_sample": true, "top_k": 0, "temperature": 0.7}
+#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 0, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 
