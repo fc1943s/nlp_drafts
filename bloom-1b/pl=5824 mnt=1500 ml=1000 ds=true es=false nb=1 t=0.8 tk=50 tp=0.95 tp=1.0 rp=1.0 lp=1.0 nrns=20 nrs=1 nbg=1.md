@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -66,7 +66,7 @@ The ninth example is a 3D cube with a hole: a cube with a hole is a shape that i
 The tenth example is
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -135,7 +135,7 @@ Now let's take a closer look at the categories of the universe, and it's clear t
 - Network Security (
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -164,7 +164,7 @@ But what about our scrotum and our nipples? Well, we have a lot of theories abou
 So, what do these theories actually mean? Well, they imply that humans are born with scrotum, but we do not have nipples! However, scientists and researchers do not agree on the exact meaning of this theory - some believe that it is possible to have nipples, but we do not have a scrotum! Other scientists believe that we are born with scrotum, but we do not have nipples! Finally, there is a theory that states that we are born with scrotum, but we do not have nipples! But again, we are born with scrotum, but we do not have nipples!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -186,7 +186,7 @@ Now that we know how a wheel performs its functions, let's look at how ENFJs do 
 Now that we have a better understanding of the motion of a wheel, let's look at how ENFJs perform their cognitive functions. Remember, the motion of a wheel is a thought process that is not actually happening on a wheel - it is only the thought process that creates the motion of a wheel! The thought process that creates the motion of a wheel is called "conjuration." ENFJs conjure up a specific memory in their mind - the steps involved in conjuring up the memory are all connected to the same direction - the direction of the wheel's spin rate. The steps involved in conjuring up a specific memory are all connected to the same direction - the directions of the wheel's spin rate and the thoughts that led up to the memory. The steps involved in conjuring up a specific memory are all connected to the same direction - directions of the wheel's spin rate and the thoughts that led up to the memory. The most commonly used form of conjuring up a memory is called "imagination." ENFJs imagine specific memories in their mind - the steps involved in imagining these memories are all connected to the same direction - directions of the wheel's spin rate and the thoughts that lead up to the memory. The steps involved in imagining specific memories are all connected to the same direction - directions of the wheel's spin rate and the thoughts leading up to the memory. The most commonly used form of imagining a specific memory is called "memory generation." ENFJs create specific memories in their mind - the steps involved in creating these memories are all connected to the same direction - directions of the wheel's spin rate and the thought that led up to the memory. The steps involved in creating a specific memory are all connected to the same direction - directions of the wheel's spin rate and thoughts leading up to the memory. The most commonly used form of memory generation is called "revision." ENFJs create specific memories in their mind - the steps involved in creating these memories and the thoughts that led up to the memory are all connected to the same direction - the direction of the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -207,7 +207,7 @@ Now let's consider the cube from a more mathematical perspective. When we think 
 In other words, the cube is a representation of our brains - it is the brain that is responsible for storing and processing information. The cube also has
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -230,7 +230,7 @@ Now let's consider the possibility that the particles are in other dimensions. L
 As we continue to think about what dimension space is, we can see that it is not a set of numbers - it is actually a space. This space is made up of points, and these points are called "dimensions" or "dimensions". This is because we can view the space-time from different angles. Let's consider how the particles would look if we were looking at them from different perspectives. If we were looking at the space-time from the perspective of a particle that is moving in Dimension X, then the space-time looks like a 3D volume, with the particle as a point on this volume. If we were looking at the space-time from the perspective of a particle that is moving in another Dimension X, then the space-time looks like a 4D space, with the particle as a point on this 4D space. If we were looking at the space-time from the perspective of a particle that is moving in a higher-dimensional dimension, then the space-time looks like a higher-dimensional space, with the particle as a point on this higher-dimensional space.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -305,7 +305,7 @@ Average (2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
 So, each number in the sample is multiplied by 4 to calculate its sum. The final number we add, the average of the numbers in the sample, is the average of the numbers in the sample - the numbers on the sample are summed up, divided by 40, and the final number we add is the average of the numbers in the sample - the numbers in The sample sum up, divided by 40. So, the final number we
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -400,7 +400,7 @@ In this chapter we will explore the connection between computers and the Interne
 
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -431,7 +431,7 @@ Now let's take a closer look at the particle shown in the last section - let's s
 Now let's
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -458,7 +458,7 @@ Now let's consider the motion of the point in our 4D universe. Let's imagine tha
 Now let's consider the motion of the point in our 4D universe. Let us imagine that we are
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -490,7 +490,7 @@ The last concept we will consider is the concept of entropy - how much informati
 
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -589,7 +589,7 @@ As you can see, the first number represents Type D, this is the seventh type of 
 As you can see, the first number represents Type D, this is the seventh type of Person. This is the sixth type of person. This is
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -618,7 +618,7 @@ The C beat is the middle of the beat - it's the middle part of the rhythmical st
 Now let's see how the different elements of the A, B, and C beats communicate with each other. The rising edges of the A, B, and C beats all come together to create the A beat. The falling edges of the A, B, and C beats all come together to create the B beat. The falling edges of the A, B, and C beats all come together to create C beat. So, the rising edges of the A, B, and C beats all come together to create the A beat - the rising edges of the A, B, and C beats all come together to create the B beat - the falling edges of the A, B, and C beats all come together to create the C
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -724,7 +724,7 @@ Now, the above formula for describing a sequence of points (or intervals) is cal
 The intersection formula is the key to understanding the concept of homotopy. In other words, the intersection between two sequences of continuous functions (which we will call the fibers) is the set of all continuous functions between the fibers. And the intersection between two discrete sequences of continuous functions (which we will call the fibers) is the set of all continuous functions from the fibers to the fibers. The intersection between two discrete sequences of continuous functions (which we will call the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -747,7 +747,7 @@ In fact, a simple choice like the one above is more complicated than it appears 
 So we have come to the end of this chapter. We've shown how game mechanics can be complicated, and how there are many game design principles that are used by game developers to make difficult choices. If you enjoyed this chapter, please leave your comments below, and also check out some of our other books, like Game Design and Gameplay - The Complete Guide and the Complete Guide to Game Design.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -844,7 +844,7 @@ Now let's take a closer look on the following definitions of a function:
 A function f is a mathematical expression that represents the relationship between two variables X
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -853,7 +853,7 @@ To better depict the differences between people, some researchers have called a 
 1. The person who is truly born into a different (i.e. higher) dimensional space can be called an "Infinity Person" - meaning they are born with the ability to "ride" the curvature of spacetime to any place on the other side of that dimension. In other words, they have the ability to transcend the limitations of their native dimensions and travel to any other dimension they desire. So if we imagine a person who lives in a 4D universe, they can literally travel around the other side of the world in just the same way that a person living in a 3D universe could. 2. An "Infinity Person" can also be able to move between different dimensions, but it is not possible to move between different dimensions at the same time. For example, if a 4D Infinity Person were to enter into a 3D universe (say), they would have to move back into the 3D world and then back out again - this would cause the Infinity Person to be stuck in the 3D world forever, and couldn't travel to another dimension. In fact, it would be possible for an Infinity Person to enter into a 4D universe at the same time as a 3D universe, but they would only be able to travel back to the 3D world...so if they had access to a 4D Infinity Person, they would be able to move to any other 4D dimension they desire, but they would have to wait until the 3D space-time had fully passed through. 3. An "Infinity Person" can be the most unique, creative, and imaginative of any person - they could create worlds, worlds, worlds of their own. In fact, they could create all types of entities, from objects to creatures, from animals to people, from plants to people, from plants to animals, from animals to plants, from animals to humans, from animals to robots, etc. 4. A "5D Person" can create any amount of any type of thing that a "2D Person" can create - just as a "2D Person" could create an infinite number of things from a single object, the "5D Person" can create anything that a "2D Person" can create, and so on. 5. People who are born into a higher dimensional space (e.g. a 5D Person) have more than one type of ability, and they can perform various types of tasks more easily than a person who is born into a lower dimensional space (e.g. a 2D Person). This is because they have the ability to use their "5D Personality" to create things that can be performed using only their "2D Personality". So if a 5D Person was to become a 3D Person, it would be possible for them to perform all kinds of tasks - but they would have to wait until the 3D space-time had fully passed through, and they would have to wait for the 3D space-time to fully pass through before they could perform all kinds of tasks...which would be impossible if they were born into a lower dimensional space. 6. A 5D Person can become a "6D Person" - meaning that they can become a person that can be any number of dimensions higher than their own - and they can become a "5D Person" that can become a person that can become a "6D Person". This is possible because they have the ability to use their "5D Personality" to create anything that a "2D Person" can create, and so on. 7. People who are born into a higher dimensional space (e.g. a 5D Person), are the most creative and imaginative of all people - they can create worlds, worlds, worlds of their own, and they can become anything that they can create. So if a 5D Person was to become a 3D Person, they could become anything that a "2D Person" could become, and they could become anything that a "6D Person" could become, and so on. 8. The person who is born into a higher dimensional space (e.g. a 5D Person) can create anything that a "2D Person" can create, and they can become anything that a "3D Person" can create, and so on. 9. The person who is born into a higher dimensional space (e.g. a 5D Persons) can be born into any number of dimensions higher than their own - and they can become any number of different kinds of entities, from people to animals to plants, from plants to humans, from plants to animals, from animals to robots, etc. 10. There is no way that a person can be born into a lower dimensional space - a person who is born into a lower dimensional space cannot create anything that a person can create, and therefore cannot become anything that a person can become. 11. A person who is born into a higher dimensional space can be born into any number of different dimensions higher than their own - and they can become anything that a person can become, and therefore, they can create anything that a person can create. 12. The person who is born into a higher dimensional space can become anything that a person can create, and therefore, they can become anything that a "6D Person" can create. 13. The person who is born into a higher dimensional space (e.g. a 5D People) can be born into any number of different dimensions higher than their own - and they can become anything and everything that a person can create. 14. The person who is born into a higher dimensional space can become anything that a person can create and can become anything that a "6D Person" can create. 15. A person who is born into a higher dimensional space can become anything that a person can create and can create anything that a person can create and can become anything that a "6D Person" can create and can create anything that a person can create and can create anything that a person can create and can create anything that a person can be, and so on. 16. The person who is born into a higher dimensional space can become anything that a person can create - and they can become anything that a "3D Person" can create. 17. The person who is born into a higher dimensional space (e.g. a 5D people) can become anything that a person can create and can become anything that a person can create and can become anything that a person can create and can create anything that a person can create and can create anything, and so on. 18. The person who is born into a higher dimensional space (e.g. a 5D person) can become anything that a person can create and can create anything that a person can create and can be anything that a person can create and can create anything that a person can create and can create anything and so on. 19. The person who is born into a higher dimensional space (e.g. a 5D persons) can become anything that a person can create and can create anything that a person can create and create anything that a person can create and can create anything that a person can create and can create everything, and so on. 20. The person who is born into a higher dimensional space (e.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -879,7 +879,7 @@ As someone who has been working in the field of mathematics for many years, I ca
 In other words, people who are less experienced in music tend to think about the instruments that are in the orchestra, and people who are more experienced in music tend to think about the instruments that are out of
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -943,7 +943,7 @@ The "ordinary intelligence quotient", or IQ, is based, like most intelligence qu
 The "intelligent quotient", or IQ, is based on, like most intelligence quotient tests, on the ability to solve problems and make accurate and logical decisions
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -1008,7 +1008,7 @@ Now let's take a look at the following equations that describe point and line se
 Finally
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -1047,7 +1047,7 @@ It's important to note that you can create other complex numbers by combining tw
 Let's take the imaginary part of 3.14... and multiply it with its imaginary part. Let's see how the imaginary part of 3.14... is different than
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -1062,7 +1062,7 @@ In most mathematical formulas and equations, the Greek letters indicate the math
 Now let's take a look at the various mathematical symbols we use in physics! In physics, many equations are written in different ways - sometimes by using different symbols to represent different mathematical concepts, and sometimes by using different symbols to represent the same mathematical concept. For example, we can use the Greek letter ε to represent the exponential function in mathematics - while we can use the Greek letter δ to represent the delta function in mathematics! So to properly understand the mathematical world of physics, we need to understand how different symbols are used to represent different mathematical concepts in the mathematical world.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -1125,7 +1125,7 @@ The first thing to note is that there are an infinite number, infinite, infinite
 So far, we have explored the concept of parallel transport in a very simple manner - we have defined a few concepts and shown how they
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -1153,7 +1153,7 @@ Now let's look at a case where our ball suddenly changes dimensions from Dimensi
 Of course, there are a lot of other possible cases. For example, if we take the slice of the ball at any given moment, then the slice will represent what the electron would do as it passes via Dimension C at that moment. This slice of the ball will then be called Dimension C. Because Dimension C is equal to the native dimensionality of the particle, the particle cannot enter into Dimension C!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -1198,7 +1198,7 @@ As we have seen, the MBTI is a very useful tool to predict people's thoughts and
 In the next chapter, we will explore how we can use the MBTI to predict people's thoughts and behavior!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -1227,7 +1227,7 @@ So what does this all mean? Well, the fact that this man is not wearing his ring
 So what does this all mean? Well, the fact that a man is not wearing his ring in the video may be a little bit of a bummer, since in the end, the video is pretty much the best explanation of why the man is not showing its engagement to its wife in the video...
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -1264,7 +1264,7 @@ However, if we were to have only one of our parents' genes and one of our grandm
 So, how does our genes work? Well, if we want to know how our genes work, we need to learn about the genetic make-up of our ancestors. Because our ancestors did not have a genetic makeup like ours,
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -1324,7 +1324,7 @@ Agent 13: The Other World's Agents
 The Other World's Agents are the other characters in the story, which are not as important as the other agents, and they help Micelia get to the end of the story. These agents are the only ones who don't know the Other World. They also don't help the Story, but they have a lot of fun, and they help Micelia get to the end of Story.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -1367,7 +1367,7 @@ As we have mentioned above, matter is affected by gravity, so let's take a look 
 Now let's consider the behavior of matter in 2+1
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -1382,7 +1382,7 @@ Now let's explain what drugs are used for. In order to get the most out of a dru
 So how do we use drugs to treat or prevent diseases? The answer is that drugs are used to increase the production of endorphins and to reduce the production of certain neurotransmitters - for instance, in the case of the treatment of Parkinson's disease, drugs are used to increase the production of dopamine in the brain. This leads to the production of endorphins and the reduction of certain neurotransmitters which can help the person with Parkinson's disease recover faster. The other important thing to note about the treatment of Parkinson's disease is that it is very important to take it slowly. This is because it is very important to take the drug over a long period of time in order for the body to really start to work its magic - otherwise, it will not be effective. The other important thing to note about the treatment of Parkinson's disease is that it is very very important to follow a drug treatment plan - many times, it is better to take a drug for a short period of time in order to get the maximum benefit from it than to take it for a long period of time in order to not see the benefits. Many times, it is better to take a drug for a short period of time in order to get a big benefit from the drug than to take the drug for a long period of time in order not to see the benefits. Other times, it is better to take a drug for a short period of time in order to get more benefits than to take the drug for a long period of time in order not to see the benefits. The other important thing to note about the treatment of Parkinson's disease is that it is very common to see people take multiple drugs in order to get the greatest benefit from one drug. Most people tend to take multiple drugs in order to get the maximum benefit from one drug. This is because there are many different kinds of drugs that work in a certain way - and sometimes they work in a different way than others. For instance, people who are suffering from Parkinson's disease tend to take drugs that can decrease the production of certain neurotransmitters that are responsible for the production of certain neurotransmitters that cause
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -1436,7 +1436,7 @@ The fifteenth deity that is specific to the Christian religion is the Holy Spiri
 The sixteen deity that is specific to the Christian religion is the Holy
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -1581,7 +1581,7 @@ So now, let's take a look at the function main again. Let's take a look at the f
 So now, let's
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1610,7 +1610,7 @@ The answer is probably "no" to at least two of the questions above. But there ar
 The second reason why
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1635,7 +1635,7 @@ As we move further into the meadow, we begin to notice that the magician's body 
 So what about the body of the magician? As we move further into the meadow, the body of the magician begins to gradually become very dense and compact! In other words, our body is actually gradually becoming a mass of tiny mass particles called corpuscles! The corpuscles in the body of the magician were formed when the body of the magician was created, but the magician had no idea at the moment that these tiny mass particles were actually formed by the magician's mind! In fact, it was thought that the corpuscles were created by the magician's body itself, since the body of magician is made up of tiny mass particles that move independently in all directions! But what about The magician himself? As
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

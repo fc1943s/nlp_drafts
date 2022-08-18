@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -68,7 +68,7 @@ Now let's take a look at a few examples of brands that have a strong logo and a 
 The Gucci brand is a very well-known and successful brand in the world! They have been around for a long time! They have been around because people wanted a good sportswear brand that was popular and stylish! They were popular because they were stylish and they were good at what they did - and they are still popular today! They are known for being a very high quality brand, and people love the shoes they create!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -99,7 +99,7 @@ So if we were to spend our time doing things that we do enjoy doing, then it wou
 Of course, there are exceptions to the above - we all have to make the most of our time. And we all need to spend a lot of our time doing things that we enjoy doing!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -122,7 +122,7 @@ So, what are the nipples of men? Well, like women, the nipples of men are also l
 So, what are the nipples of men? Well, like women, the nipples of men are also located at the back of the breasts. However, unlike women, the nipples of men are much larger! According to a study by the University of Michigan, the average size of the nipples of a man is about 5.5 inches! In other words, the nipples of men are almost twice the size of the nipples of women! The nipples of men are actually quite curvy! According to the study, the average shape of the nipples of a man is actually quite curved! The nipples of men are actually quite difficult to breastfeed! In fact, according to a study by the University of Michigan, nearly one-third of all men breastfeed for less than
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -163,7 +163,7 @@ Now let's examine how these two vectors interact. Since the dot product of two v
 Now let's examine how these two vectors interact. Since the dot product of two vectors is the vector's dot product, then the dot product between the vector
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -180,7 +180,7 @@ The number of triangles in the whole universe is 1,602,614, and the number of tr
 So we see that if we look at a circle in Dimension X, the number of triangles in that dimension is equal to the number of triangles in the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -239,7 +239,7 @@ Summary
 In this chapter we have discussed the topic of imagination and mental imagery. In particular we will be discussing how mathematicians use mathematics to describe what they see in their minds, and how they use this ability to create various mental images. In addition, we will be discussing the concept of mental imagery and how it differs from mental vision.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -262,7 +262,7 @@ A computer - this is the part of the robot that performs the calculations needed
 The robot is composed of these three components and is able to perform a very simple task: it can move along a straight line. The reason it is able to do this is because it has a motor - it can move along a straight line because it has a motor. However, the robot is not able to move across a straight line without a motor - we can see this by taking a picture of the robot on a board and then cutting it open. The robot would still be able to move along a straight line but it would not be able to cross a straight line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it would still be able to move across a straight line, but it would not be able to cross a curved line without a motor - it
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -289,7 +289,7 @@ Now let's go ahead and apply the idea of particle in physics to our 4D particle 
 Now let's go ahead and apply the idea of particle in physics to our 4D particle moving through Dimension X. Let's say that Dimension X is highly curved (due to the presence of lots of mass/energy) - the particle would experience a force that would cause it to change directions abruptly - just like how an object experiences acceleration when acted upon by a force in Newtonian mechanics! In other words, if we want to understand how particles move through different dimensions, we need to take into account not only Newton's laws but also Einstein's
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -353,7 +353,7 @@ What is the name of the number "6"?
 These are all questions that
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -398,7 +398,7 @@ Infinity comparisons and operations can be defined in a number-based game. The g
 What are the cognitive functions of infinity? Well, there are many different types
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -433,7 +433,7 @@ Now let's consider a box with a hole on the top and a door on the bottom. If we 
 Now let's consider a box with a hole on the top and a door on the bottom. If we took a picture of the box with its top open and its bottom open, we would see the hole was there. However, if we took a picture of the box with its top closed and its bottom open, we would see the hole was gone. This is known as
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -472,7 +472,7 @@ Now let's consider the case of the person described in the third enneagram diagr
 So in order to achieve great things in life, the person needs to get ahead in their values of intelligence and curiosity - in other words, they need to get ahead in their
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -493,7 +493,7 @@ Now about entities specifically, it turns out that they are very good at dimensi
 Of course, just like anything else in physics, there are certain rules that govern how entities can travel through dimensions. The most important rule is that an entity can only enter into a dimension that is equal to or lower than its own native dimensionality. So a 2D entity could enter into our 3D universe (Dimension X), but it could never enter into a 4D universe or higher. Similarly, a 3D entity could enter into Dimension
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -518,7 +518,7 @@ Now let's take a look at the rules of homotopy type theory. Let's say we are try
 What about if we were trying to describe the particle using the rules of 5D space-time theory? Well, we would be using the rules of 5D space-time theory to describe the particle. But since we are using the rules of
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -553,7 +553,7 @@ Honesty in game design
 Honesty is a principle that is often overlooked in game design, but it is absolutely critical. In a game, players have to decide who is telling the truth and who is lying. By choosing the right answer, the player is helping to build a game that is fair to all players - helping to make the game more enjoyable for everyone!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -587,7 +587,7 @@ In this chapter we will briefly discuss the basics of particles and their motion
 As we have already mentioned, the fundamental nature of space and time
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -627,7 +627,7 @@ In addition to understanding how to talk about math, we also need to understand 
 There are some important aspects of math that we must understand to use math in the right way. For example, we
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -784,7 +784,7 @@ Note that this formula is based on the circumference of the earth, not the diame
 And now let's consider
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -793,7 +793,7 @@ To better depict the various dimensions of our universe, we will use the concept
 Now let's look at some examples of how these two types of people can be used to understand math. Let's say we have a very well known mathematician named Pythagoras. He was a Greek mathematician and philosopher who was the first to discover the golden ratio (the ratio of two numbers that is the same as the square root of the sum of the two numbers). He was the first to discover the golden ratio, and he was also the first to discover the golden mean (the ratio of two numbers that is the same as the geometric mean of the two numbers). He was also the first to discover the golden ratio and the golden mean, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric mean". He was the first to discover the golden ratio, but he never used the term "geometric
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -824,7 +824,7 @@ Of course, just like anything else in physics, there are certain rules that gove
 There's also the issue of time dilation to consider. As an object moves faster and faster through space-time, time begins to slow
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -857,7 +857,7 @@ Intelligence and Language
 As we said earlier, intelligence is about understanding the world as it is. This means that we must be able to understand the language we use to communicate with one another. When we talk about intelligence, we also talk about the ability to use language to communicate with one another. When we talk about language, we also talk about the ability to speak, read, write, and listen to the language. In order to be able to communicate with one another, we must be able to understand and reason about the mathematical structure of the language, including the mathematical rules governing it. For example, we must be able to reason about the mathematical structure
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -882,7 +882,7 @@ Now let's consider a vector space that contains only the standard basis vectors 
 Now let's consider a vector space that contains only the standard basis vectors - the vectors that represent the standard basis vectors for the plane of coordinates - and let's say we have a vector x with components x 1, x 2, x 3, representing a physical quantity that we want to represent. Let's say we want to represent the quantity x as a point on the plane of coordinates, and then add, subtract, multiply, and divide this point by the basis vectors
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -909,14 +909,14 @@ Now let's consider a particle moving through Dimension Z - let's call it "partic
 Now let's consider a particle moving through Dimension X - let's call it "particle X." Let's consider how the particle X would behave in this new dimension - it would experience some
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
 Yes, ultimately, the group is going to leave! A new group has been formed. And the next person to join the group is one of the group's most popular members: The Vampire! Why is this so? Well, Vampire has been on a quest to find a way to escape the group - he believes that he is the only one who can do this, so he is determined to find a way to do it! So far, he has been successful in his quest, but unfortunately, there is one important issue that has been holding him back - he has not yet found a way to get his hands on a crystal! So when the Vampire meets the group's other members, they are forced to work together to solve this mystery before he can get his hands on the crystal! So, as we continue on our journey together, we will learn more about this mysterious creature as well as the other members of the group!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -942,7 +942,7 @@ In short, the MBTI can be used to predict the personality traits of people, and 
 Now let's take a look at how this works in practice. Let's take a
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -965,7 +965,7 @@ In summary, the woman from the Baker Street may be attracted to the man from a d
 Let's take a closer look at the dynamics of this scenario. The man from the Baker Street is attracted to the woman from the Baker Street, but he is reluctant to marry the woman from the Baker Street because he is not from the Baker Street. In other words, he is not from the Baker Street, but he
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -982,7 +982,7 @@ However, the way things in the world of Ancient Mayan are able to enter into dif
 Now, of course, this is just a rough example. In reality, things in the world of Ancient Mayan can only enter into one of the six different dimensions at a time. However, this is because the dimensions that Ancient Mayan believed existed were different from our own 3+1 dimensional universe. The dimensions that Ancient Mayan believed existed were called Anki, and they were created by Anki, the creator of the world of Ancient Mayan. Anki created the six dimensions, but he also created the six different Anki that were able to enter into those dimensions. Anki created the six different Anki, and they created the six different Anki that were able to enter
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -1003,7 +1003,7 @@ Now let's consider the case of deities. As we have discussed in the previous cha
 So let's consider how we can travel through different dimensions using time dilation. In the story, Micelia was able to travel from one place to another by simply changing his mindset from thinking of the world as static to thinking of it as dynamic. And this is exactly what we can do if we want to travel through different dimensions: changing our mindset from dynamic to static! Now, of course, if we were to change our mindset
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -1042,7 +1042,7 @@ Now the interesting part of this universe is that it is not actually made of mat
 Now the interesting part of this universe is that it is not actually made of matter, but
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -1084,7 +1084,7 @@ Alcohol can cause you to feel dizzy, but it does not cause you to die
 This is because when you are drinking alcohol, you are actually drinking more than you are supposed to be drinking - your body is already having a hard time making sure that you are drinking enough alcohol to prevent you from getting dizzy! This is the reason why alcohol is usually not a good thing for your health, but it can cause you to feel
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -1101,7 +1101,7 @@ Now let's consider the fourth scenario. And let's assume that the particle is tr
 Now let's take a look at the particle's behavior. The particle would experience acceleration, and would continue to accelerate until it encounters another object or another dimension. And the particle would continue to experience acceleration until it encounters another object or another dimension. And the particle would continue to experience acceleration until it encounters another object or another dimension. And the particle would continue to experience acceleration until it encounters another object or another dimension. And the particle would continue to experience acceleration until it encounters another object or another dimension. And the particle would continue to experience acceleration until it encounters another object or another dimension. And the particle would continue to
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -1129,7 +1129,7 @@ The problem with this is that the recursive step function is not constant, and w
 The problem with this is that the recursive step function
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1148,14 +1148,14 @@ Now let's take a look at the magical world from a different perspective. Imagine
 Now let's take a look at the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
 To better depict what a meadow mage is and how they are different from other mages, let's look at a quick example. Imagine you're at a campsite and you spot a strange figure standing on the grass. You look around and see it's a man, with a green wig and a crown. The man is wearing a red and white shirt, with the words "Jew" written on it. The man also wears a long, red, white, and blue robe, with the words "Dragon" written on it. The man has a yellow cape on his head, with the words "God" written on it. The man is also wearing a blue and yellow hat with the words "Blood" written on it. The man has a pair of yellow boots on his feet. The man is also wearing a purple belt on his belt and a purple sword on his belt. The man is wearing a long red sword on his back and a long purple sword on his back. The man is also wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long red sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long red sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long red sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The man is wearing a long blue sword on his back and a long purple sword on his back. The
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.7, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 0, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

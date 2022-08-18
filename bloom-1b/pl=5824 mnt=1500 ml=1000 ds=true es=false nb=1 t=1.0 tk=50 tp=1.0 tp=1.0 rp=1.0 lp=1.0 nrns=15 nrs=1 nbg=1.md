@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -61,7 +61,7 @@ Would you still make the choice to buy the dress and buy the fabric instead? In 
 Let us assume that you already have a 3D model of a model with the actual size, color, and fabric color we want! Now let's also assume that we own a 3D mannequin that has the same body weight and height and is similar in weight to the actual designer's model! Then let's examine how the two styles of clothing, and the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -78,7 +78,7 @@ Well, let's apply this to ghosts and how it relates to our current subject! We a
 One thing that happens when there are more ghosts than other objects - things tend to move slower, and gravity tends to have different effects on things depending on what they are - is called category theory! Let's imagine that we were to take a slice of 3+1 dimensional space from all the possible points of the slice. Let's label these vertices by t (time), x (space), and y (space), and now we have a bunch of different ways
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -99,7 +99,7 @@ Note that we can easily calculate the mass m that a 3+1 dimensional object feels
 The vertical and horizontal components of acceleration, denoted by a, and
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -124,7 +124,7 @@ We know that mathematics is something important to students and we know that stu
 Mathematicians can come up with formulas that are used to simplify complicated mathematical statements; but we can't really use these formulas because these formulas do not take into account our worldview, our worldviews and our worldviews (i.e. our worldview is part of these formulas!). (The fact that mathematicians have such creative minds is one of the reasons that they are
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -153,7 +153,7 @@ A C E F G D B C D E F G H
 
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -176,7 +176,7 @@ Mathematically-related concepts are things that are clearly separated from one a
 When we think about things such as numbers, it turns out that what we are actually thinking more is "relationships." So the mathematically-related concept of "relationship" is, in fact, a relationship between numbers. While numbers are usually defined as symbols, relationships can be defined as symbols attached to numbers and thus become more meaningful to us during the process of learning math
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -201,7 +201,7 @@ Since rotation and acceleration are the two fundamental concepts used to describ
 First, it is important to note that we always experience gravitational forces - if a thing is thrown away from a black hole, it is going to experience a gravitational pull to come back! In space and time, this is often called a gravity. We call such objects "gravitational points" - which will be discussed later in this chapter. At a gravitational point, there are no other objects in the universe. The gravitational
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -245,7 +245,7 @@ Mathematical Functions and Functions of Numerical Variables:
 The first thing I would like to discuss is Functions and Functions of Numerical Variables. For now, let's assume that all your classmates are familiar with the concept of a function of a numeric variable. This is because in all of our lessons there are examples of functions and other mathematical statements that involve some sort of a numeric variable
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -292,7 +292,7 @@ Now let's get the sum of the areas of all of our main triangles! The final formu
 Again, this entire process is very simple to understand by
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -321,7 +321,7 @@ We have also used a different method to try to simplify the basic structure of o
 Root: This shows what the EFM looks like after the "leaf 1" and "leaf 2" leaves are removed. This is our new root, which is now represented by our new mathematical concept called "sum".
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -341,7 +341,7 @@ The reason that the calculations become significantly more complex when we consi
 For these reasons, it is important to understand what it means to "manage" objects when analyzing motion in higher dimensions. Like any mathematical calculations, you need to divide all of those variables into smaller parts so that they can be handled in a more analytical fashion. Let's say I want to discuss how an object in Dimension X can get from one place to another by measuring the acceleration (acceleration, a), curvature (curvature, c), speed (speed, s), and distance traveled (distance, d). Let's take a sphere made of 100 kilometers with a radius of 0.001 kilometers and cut it into six parts! Now let's call the six smaller parts A, B, C, D, E, and F. Let's call the total of the six smaller parts Z, but let's keep adding them together by a (= 100 - 1) to see how the total acceleration (acceleration, a = 50), curvature (ac = 100 -
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -374,7 +374,7 @@ The next behavior we would like to talk about is "perspective-taking" - this is 
 Finally, what we've come to focus on in this chapter is "expressive your feelings." This, and the last of the four features within enneagram theory, is what defines what people are; we don't see them
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -398,7 +398,7 @@ As you can see, the loudness of mortal Kombat 10 is actually extremely loud (A a
 Now let's switch to a more technical perspective on this. The Loudness Diagram has different colors and corresponding lines that represent different levels of loudness. The lines that correspond to colors 0 and 1 represent Loudness of 1,000 decibels. The lines that correspond to colors 2 and 3 (from the start of the video) are corresponding to a Loudness of 0 dB. Now, if we connect the red and blue lines, as shown in the middle of this image, we get a straight line representing 0 dB Loudness. Now what would happen if we take the same image by splitting up our line at a point midway down the line, and connecting the two lines at the midpoint (we will call this D line)? Well, that would have produced a line
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -427,7 +427,7 @@ The question of why four-dimensionality exists, but not three-dimensionality or 
 I think the mystery begins when we go from a two dimensional world (think of a two-dimensional plane in a three-dimensional world) to three dimensions (think of a cube).  Why a world that can go from two dimensions to three dimensions.  Even if we were to go back to one dimension and back again, I think we can't figure out why.  Why is the world made of two dimensions and one dimension?  Why did we choose to go
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -454,7 +454,7 @@ Of course, some other possible problems are that players will find the game diff
 So, what do you think
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -471,7 +471,7 @@ Now there's a point to note here - the sheet of paper used in this metaphor is m
 Now the point to note: even if we can fully describe how objects make up a 3+1-dimensional mathematical world, our intuition has no idea about the rules governing how these objects interact in this 2+1-dimensional world! For instance, if we were to pick up a ball and stick it into a glass, we would have no idea as to the rules that govern its motion inside this glass! And because the ball has very little mass, it's easy to imagine that in this 3D mathematical world the ball is just a blob - it doesn't have any shape beyond being a blob! However, this is far from the truth! In a 2+1 dimensional mathematics, we have an infinite list of mathematical objects that are made up of these blobs. We also have an infinite list of rules governing these blobs as they move through each one of these blobs...in other words, each mathematical object could theoretically have an infinite number of rules defined for them as they undergo motions that are different from each
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -504,7 +504,7 @@ Now let's move onto a topic that is closely linked to the previous three topics:
 As noted in the last chapter, mindmapping is another important area that will be covered in our subsequent
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -541,7 +541,7 @@ Although most of us aren't familiar with the term "concrete math", we all have h
 8. Maths is a way to create computer code: the ability to create computer programs can be used throughout the entire
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -560,7 +560,7 @@ But of course, this is simply not how Intuition works - unlike mathematics, Intu
 So In
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -597,7 +597,7 @@ As such, math may be able to be used as a communication tool instead of simply a
 A third possibility is that the neural basis of arithmetic is used to generate output, even when the process is performed by the brain alone. The process of solving equations using a
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -662,7 +662,7 @@ If someone broke into your computer and stole your bank card: false
 Suppose that you answered the "is" question "yes", but when you entered your bank account's password you entered an incorrect answer. This means that you are
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -691,7 +691,7 @@ Now suppose we're to distribute these seven groups of sniper rifles evenly betwe
 Let's examine some examples of using this technique to solve a math problem. Some of these examples are slightly different from the real-life example above, because although the problem in the real-world example requires division of a number of sniper rifles with similar properties, here we're going to have to decide what divisions to use based on the properties of each group of sniper rifles. So for example suppose one of the three groups of sniper rifles in the realistic problem is broken: the sniper bullet will fall in the group of sniper rifles that
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -710,7 +710,7 @@ Issues around knowing how to use math. What we learn in school is usually very u
 Issues around getting the answers. What I mean by this is that when you're working with a problem in the mathematical classroom, there is a chance that you might have to go through the problem a second or two before the answer comes up quickly. In other words, after a second or two, you might think it was fine and continue until you're ready to "run back through" the problem - which is when you just realize you got it wrong. If you're a mathematician, your ability to see the difference between right and wrong is key to succeeding in your studies, as well if you're not just guessing...
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -738,7 +738,7 @@ Boots with clippers - these are great for removing the claws from the boots and 
 Foul - this is the item that we use to control the Dwarfs, as well as to make them completely submissive. For this project, we want to make a couple of spoons, a bowl, and a cup on a table and hand off them to every member of the group after we get the deity control back. However, these are not just for the group! They can be used by anyone that wants to become fearless enough to protect us and the other humans from being attacked by
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -765,7 +765,7 @@ M-ABP can be understood as three distinct mental elements that interact to creat
 As with many other MBTI type descriptors, there are several ways it can be measured, and it is the subject's perception of these attributes that helps determine which type the person falls in (a combination of these three sub-types is what gives a clear indication of personality type in the MBTI). M-ABP is one example of a way how our perceptual abilities can be measured, and other dimensions like Openness to experience and Novelty Seeking can be seen
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -790,7 +790,7 @@ Next, let's come to sexual relationships. As much as we try to hide our sexual i
 In fact, sexual relationships are generally seen in a negative light from most people, so let's briefly recap some basic facts regarding our sexual relationships and the impact of these relationships on our lives.  A sexual relationship is basically defined as "one person engaging in sexual expression or sexual thoughts..."  Now
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -817,7 +817,7 @@ This time I'm going to teach you how to use the three dimensions of space. This 
 The shape of a cube may make some people think that it is impossible for a piece of cake to become an apple; however, this is just the wrong way to think! If we consider just
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -850,7 +850,7 @@ Human population rose in the 21st century
 As civilization grew, so did the rate at which it sped up its expansion! This occurred when society began to rely heavily on farming to supply its people with needed food. As it expanded further, it also grew exponentially larger. This massive population had the ability
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -876,7 +876,7 @@ The Cosmological Constant
 Another theory that ties black holes and dark energy is called Cosmology. It is a theory by Carl Sagan's author that states that the universe consists of a tiny percentage of some type of energy or "energy source" that is believed to be very powerful! This theory is also known as the "cosmic principle", and Sagan has
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -902,7 +902,7 @@ In other words, if recreational drugs were able to make us feel more "homeless" 
 So let's take
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -938,7 +938,7 @@ Secretary-General of the Ministry
 The Secretary General of The Ministry is one of the most senior officials within the Ministry of Húrin. He is usually responsible for overseeing the policies of the ministry regarding the entire nation. In addition
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -999,7 +999,7 @@ From here, it is quite easy to see that both the Python script to download the P
 We have finally reached the topic of functionality in web pages. In the upcoming chapters, we'll study how web pages interact
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1018,7 +1018,7 @@ Magic is really just a metaphor for creating the actual reality that exists insi
 As I mentioned in Part One, the mind is a process that creates reality, but there is also a third process that is often used when creating reality. This third process is called creativity! Now, creativity isn't hard to understand, simply because everyone has some talent for creating things, regardless of whether they are real or not. And when we look at history, we're likely to see many people who were creative and artistic, while not being able to do anything
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1048,7 +1048,7 @@ Because these wandering mages use the same methods of communication as humans - 
 We all want to talk and talk and talk without taking ourselves too seriously - that is a good thing. However, what does all this really mean to us? Well to answer that question
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 15, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

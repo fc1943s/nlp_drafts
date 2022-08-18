@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -54,7 +54,7 @@ What makes these men mysterious? Well, one person interviewed said that "somewhe
 It also says that the reports "also came in at length describing their appearance. One report said, 'The men were dressed in suits of black cloth, with a red hat and tie, and a black...' However, these men had a similar look to the famous designer of Christian Haute Couture Balenciaga, he was known as one of the best designers of fashion today. He was also a Christian and belonged to the Catholic Church. The man whose story was mentioned was not from the caste of Pandits,
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -83,7 +83,7 @@ So let's try and find the answer to "What is a deity" using different strategies
 Let L be any 3x3 matrix representing a
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -117,7 +117,7 @@ If we are inside one of the spatial dimensions and the time dimension is shorter
 If we were only inside one spatial dimension but not inside another, then we could always travel between the two dimensions - the other would only be there to be seen.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -134,7 +134,7 @@ If you were to take an elevator from a room with an attached observation deck to
 As you continue to explore the power of intuition in mathematical proofs and discovering new areas of scientific insights, you'll soon come to appreciate both the mathematics that underpins science and what it means to truly understand what is going on behind the scenes in our world.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -156,7 +156,7 @@ Lastly, we need to discuss subtraction and division. A subtraction and division 
 Now let's consider some simple mathematical games. First, there is the one where you have two numbers whose sum
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -184,7 +184,7 @@ The reason that the human mind is so complex - a lot easier that our computer is
 We humans have about 6000000 neurons per cerebellum
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -209,7 +209,7 @@ Now let's look at the difference between two numbers on this circle: $1-$ and "$
 Now let's consider how one would interpret this intersection to obtain our result. Let us start with the intersection of zero and one line - we're assuming the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -227,7 +227,7 @@ When your carrot lands on your stick (Figure 6.29.3), the other side of the carr
 In this situation, the carrot is lifted up again (Figure 6.29.4), and now the carrot side is pointing upward. Once again, this simple action creates a thin line (Figure 6.29.5) in front of the carrot side which must be
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -247,7 +247,7 @@ Now, we could begin to see how understanding thinking is much easier using mathe
 (In fact, many of the concepts discussed in this chapter involve mathematical principles; for example, the idea that particles can travel through 3+1 dimensional space, is often described as a mathematical principle in some form.) Imagine something that has a mass and an energy. If I have a piece of paper with this mass
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -279,7 +279,7 @@ However, it is not so easy for you to determine if a set of four equations is eq
 One useful way
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -317,7 +317,7 @@ Let's Put Math Behind The Wheel
 Just because math is about math - and it does have huge potential to help enhance how our brains work - doesn't mean that all of our math skill will always improve. It may be that we'll stop working with certain kinds of mathematics - the kind that was designed for high schools! Even if we're learning math for fun and to help us gain new skills, we may stop practicing to maintain our strengths in certain areas of math. The biggest example is the mathematics that is usually taught in schools. This is where we learn how to do many math things with no real interest
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -336,7 +336,7 @@ What does this tell us about how we create ourselves out of this seemingly contr
 An endop that is high in both ambition and directness (and low in meaning) can be considered to be the leader. A high endop in directness may be able to make plans quickly, and a high endop in ambition may be able to complete his or her plans without hesitation - but both traits are going to lead to an overly ambitious/aristocratic personality. On the other hand, if an endop is very low in both ambition and directness - meaning, low in both meaning and directness - then we can conclude that he or she is introverted and unable to communicate effectively - not exactly the type of person we want from a leader! As the personality sub-types unfold, we also see how each one of them comes to be...a great leader for a brief period of time, but a very bad leader for the rest of time.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -358,7 +358,7 @@ My grandma has just come for a visit to her village
 She might have
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -376,7 +376,7 @@ If we then apply these laws and rules of physics to higher dimensions, then woul
 Of course, the fact that our 4D universe is larger than its lower dimensional counterparts actually makes the differences between our lower dimensional and higher dimensional worlds less significant - our upper dimensional universe would actually be just as interesting! Of course, there are also other reasons why
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -409,7 +409,7 @@ The voice of the characters and even more specific actions are difficult to iden
 A second aspect of this problem is how the voice of a character is typically used in the video game! The voice of the characters in a video game
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -466,7 +466,7 @@ And some more vector equations:
 We can now see just how fast a deity or any human
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -478,7 +478,7 @@ Now when you're done, you simply remove the water from your cup, and look at you
 Now your finger will become the body of the snake you are using - and you will then run across areas of space where your snake lives (in the 3+1 dimensional version, your snake should be a blue, pink, or red blob depending on the colour chosen).  A snake's life is really just a string of pixels that run to the end of the snake and then circle back around from the start.  You can use a mouse to look for this feature in any other dimension you like...like 4D if you're curious! :)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -505,7 +505,7 @@ If the reduced area estimate, ARed, has been too low or too high, then we should
 Let's say we wanted to use stakes that would have 4 ft. ² in height as our height estimate, but now that
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -553,7 +553,7 @@ However, what about relationship between logician and algorithmist?
 Some of the most powerful systems and theories of mathematics are developed by mathematically oriented experts like David Hilbert, Albert Einstein, Bertrand Russell, and Vladimir M. Popov - and these people have built models and ideas from their own practical experience! In fact, they often base their theories and models on the reality they have observed in their scientific pursuits. This is why mathematicians use a combination of logic and mathematics for solving problems! Not only
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -577,7 +577,7 @@ Suppose this object did not experience any "acceleration" or "force" as it trave
 This implies that it would be impossible (or very slow) to travel between dimensions! And this would mean, for example, that it would be impossible for our hypothetical virtual object to enter into an otherwise empty 4D space-time!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -602,7 +602,7 @@ Theory of Number Systems
 Number systems - which is also known as numbering systems - are systems of notation for numbers. The term 'number system' was coined by Plato in the 4th century BC. Number systems are systems of notation that allow us to represent numbers in a simple and easily understood manner. Number systems have numerous purposes - for example, when we are learning the concept of the number line and the number line as a graph we are able to visualize the structure of the number line, which allows us to follow the number
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -642,7 +642,7 @@ In my class we are talking about the time-energy of a gravitational field and th
 If the energy density is constant, then at the point where the trajectory of the particle meets the trajectory of the gravitational field there is no change in time-energy. If the energy density is not constant you could get the same answer by assuming that
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -661,7 +661,7 @@ An asterisk ("*") at the beginning of an instruction is added to describe how ma
 Take This Square Root An Asterisk at the beginning of an instruction is added to describe how many times we take the instruction within that first letter, such as: Take This Square Root An Asterisk at the beginning of an instruction is added to describe how many times the letter "X" appears in the instruction, such as: Take This Square Root X An An asterisk at the beginning of an instruction is added to describe how many times the letter "X" appears before the word Take, such as: Take This Square Root X An A An asterisk at the beginning of an instruction is added to describe how many times the letter "X "appears before the word A, such as: Take This Square Root X The An asterisk at the beginning of an instruction is added to describe how many times the letter "X, " appears before the word An, such as: Take This Square Root X The An A An asterisk at the beginning of an instruction is added to describe how many times the letters "X, and " appears before the word E, such as: Take This Square Root X The E X An An asterisk at the beginning of an instruction is added to describe how many times the letters "X., " appears before the word D, such as: Take This Square Root X The D X The E And An asterisk at the beginning of an instruction is added to describe how many times the letters " X., and "D appear before the word F, such as: Take This Square Root X The F X The E And X And An asterisk at the beginning of an instruction is added to describe how many times the letters "X X X "appears before the word G, such as: Take This Square Root X The G X The E And X And An asterisk at the beginning of an instruction is added to describehow many times the letters "X X X," appears before the word G, such as: Take This Square Root X The G X The E And X X And An asterisk at the beginning of an instruction is added to describe how many times the letter "X X, " appears before the word H, such as: Take This Square Root X The H X The E And X And X An asterisk at the beginning of an instruction is added to describe how many times the letter "X X" appears before the word I, such as: Take This Square Root X The I X The E And X X X And An asterisk at the beginning of instruction is added to describe how many times the letter "X X" appears before the word O, such as: Take This Square Root X The O X The X X The O And An asterisk at the beginning of an instruction is added to describe how many times the letter " " appears before the word O, such as: Take This Square Root X The O X An An asterisk at the beginning of an instruction is added
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -693,14 +693,14 @@ The group members are now sitting around by various empty coffins, where there i
 Now you know what it took your friends to give you, and you will all have to take it from them.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
 Yes, ultimately, the goal of our chapter was to explore and explain the various mental processes that shape us in every aspect of our life - whether it be school, health, love, marriage, war, or anything else we may encounter in our everyday life. I hope this book was well worth the effort!!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -732,7 +732,7 @@ In this case, the man can show himself to a perfect woman in the mirror - that's
 So, now let's look at the two most common ways of creating "stepping stones" - marriage
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -767,7 +767,7 @@ From the perspective of the people who sacrificed:
 The spirit figure is a very important part of the ceremony. It is important to understand
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -775,7 +775,7 @@ To better depict the effects of deity dimension travel, let's imagine a little e
 Now imagine a little ball on a smooth surface! The surface on which this little ball is laying is a smooth planar surface called a surface of revolution. Let's call the points defining the position of this little ball at different times (t) "sections of the sphere." Let's imagine we were to take two different sections of the sphere together - let's call these sections S0 and S1. As time passes S0 and S1 come together! Each of the sections therefore become slightly longer than their original length, but in the opposite direction! This effect is named "time stretching". Now if we take S0 and S1 together on top of each other and then flip each section 180 degrees so that the new sections are on both sides of the previous ones then we end up with two sections on either side of the first section and the top of the second section. Now imagine that we are sitting in a room, and we take S0 and S1 together and then turn around! This means that we have created an extra section between S2 and S3 so as a result, we now have a total of 4 sections that we can now place on either side of the original section. Now imagine that we take all of these sections together and keep them together for many years! At each time it takes between 4 to 5 life cycles for these sections of the sphere to pass through each other! Each time the whole system passes through another section, we end up with a new section of the sphere that is also contained inside each of the original sections! So each time it takes 4 to 5 life cycles for the system to pass through another section of the sphere, we end up with 2 sections that are simultaneously contained in each of the original sections. As each of these 4 sections pass through other sections at various times, this results in what we call a "pyramid" of sections. As each new section is created, each pyramid will start to climb up until it reaches the top. As you can see, this pyramid is actually just a kind of "sheet of paper" of different sections! When we take a closer look at the "pyramid," we can now see that it represents an ordered arrangement of "tops" of the original sections. What does this mean? Well it means that the original sections all share some common structure, but they don't share the exact same structure. For example, the first section has two tops; the second and the third
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -798,7 +798,7 @@ Of course, even the idea that our minds can create items of our own is only a my
 As we create items on the everyday basis, we create more and more magical ideas - the ones where we believe that something else can be created instead of us. Most of our items are made up of only half of our original ideas - half on the everyday basis and half in our imagination. Over time, this creatively stimulates our brains so that we become more creative. These items become more powerful and more likely to bring about our own deaths - this is the main reason that the creation of immortality is possible only through the creation
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -815,7 +815,7 @@ Now back to our hypothetical hypothetical example. Let us assume that our 4D dei
 At the end of the day, the truth is that we aren't sure whether the substance that killed our hypothetical deity actually was a toxic substance, or someone made fun of him and punched him in the head...it could very well be the same substance that killed someone else! The same could be said about someone who died of a "genius" drug, or even more bizarre stuff...the idea is that we aren't sure at all! If anything, some things we believe are true - such as the unbelievable speed with which something turns into light - are based on speculation! But, again, we're not sure how the people who make up these theories actually died! Or even if they died of something that was not a drug; the theory might be that those people thought that whatever they were experiencing, was so "up there", and so they just happened to happen upon it at
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -830,7 +830,7 @@ Now the Sargon of Akkad's demon is moving between dimensions in a three-dimensio
 The Sargon of Akkad's demon enters Dimension Y because there is so little change between dimensions - the Sargon's demon is travelling at an average speed across its four axes: zero, one, two, three times the speed of light (which is approximately 20,000km/s). Let's say the Sargon's demon moves to dimension X at one thousand speed of light per second, so it's travelling at around 20,000 km/s/minute, and entering dimension Y at four million speed of light per second, this would leave the Sargon's demon travelling at one million speed of light per second across the four axes: zero, one, two, three times the speed of light - it would then be travelling at exactly the speed of light! It's going to enter Dimension Y, and in this case - it's running at 20,000m/s - the Sargon's demon would experience a change in its acceleration, and it would then pass through dimension Y without being noticed by us!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -878,7 +878,7 @@ A:
 Let's assume the dimension of the "world" of particle's is greater than (let's say, 1). The "current" time of the particle is specified by
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -905,7 +905,7 @@ Imagine that you look at this clock and the first thing you notice is that the d
 Now let's move on to the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -933,7 +933,7 @@ Let's break down the theory a bit more: The Twelve Apocalypse are a series of ev
 One of the most important aspects of the Twelve Ap
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

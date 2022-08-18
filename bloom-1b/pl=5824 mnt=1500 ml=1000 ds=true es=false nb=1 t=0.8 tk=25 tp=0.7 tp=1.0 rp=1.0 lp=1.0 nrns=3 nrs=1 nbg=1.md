@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -60,7 +60,7 @@ Of course - if you want to travel through a higher-dimension space, you need to 
 Now imagine that a particle with this kind of energy travels through a 3-dimensional space and it hits another particle that has the same energy as the first particle. In order for the two particles to collide, they both need to pass through the same axis of the space-time! But in order that to happen, they must both have the same speed of movement - otherwise they will collide and be
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -81,7 +81,7 @@ Now let us consider the case where the spinning and moving spinning particles ar
 The reason why the Lorentz Particle is so important is because it is used in all sorts of fields of physics - from gravitational fields to electric fields to magnetic fields to the force field of a magnet. The reason that the Lorentz particles are so important in all these fields is because they are used to describe the action that the objects experience when they are acted on. In the case that we consider here, the action is the LorentzForce, which acts on the LorentzParticle as a spinning spinning object (the spinning particle) is being acted on (dragged) by a moving particle (the moving particle). The LorentzForce
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -102,7 +102,7 @@ Now let us take a closer look at this concept of God. According God, there is no
 So the question now is: how did God make everything that is in existence? Well - the answer is pretty simple! God created everything by combining two things. First, he created everything in the heavess of the heavenly spheres. Then he created all the created things on the earth - the water on the surface of the earth (the ocean), the air (the atmosphere), and the stars (the stars). And then he created every other thing that is created on the Earth - the rocks, the plants, the animals, the minerals, the rocks and the plants that are in the ground
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -154,7 +154,7 @@ Now, let's consider the cube as a problem that can be easily solved using the cu
 Let's first look at what the original problem is asking for. The original problem asks for a cube with the same dimensions as the two other sides, but with the height being the same. The height of each side is 3, so the height that the cube should have is 9. If we want a cube that is the same size as the side,
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -187,7 +187,7 @@ The problem solving abilities of ENP are a combination that is very important to
 The Mathematician is the most successful person in the world. They excel in all aspects of life and are considered the most intelligent people
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -210,7 +210,7 @@ Now we are finally ready to go on to find lines in-betweens of more complicated 
 The picture above shows a triangle with two holes on the sides. If one of the holes is empty, then no one would be able see the triangle from behind. However we
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -241,7 +241,7 @@ Use a computer. This method is the simplest way to solve all of these problems. 
 Use a human! This method involves using humans to solve
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -266,7 +266,7 @@ Now we can see that there is a lot of mathematical complexity in solving this pr
 Now we will move on to a more advanced
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -316,7 +316,7 @@ Now that you've seen some of these concepts, let's now take some more time to ex
 Example 1: The
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -349,7 +349,7 @@ So we have just shown that the first Pell Sum has the form of a straight line:
 Now we have shown that we can use this straight line to divide our 5/5 Pell Sum into two Pell sums of 5! The first Pell sum will be the same number as the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -392,7 +392,7 @@ The forces that create drag are called forces of friction and they are created d
 
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -417,7 +417,7 @@ Now the next step in the process is to look at how the E and W enam combine. The
 Now let me ask you a question - what is the relationship
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -442,7 +442,7 @@ Now, when we are talking about a song, it would be a bit hard to tell if the lyr
 Now, if a person were to listen carefully to the lyrice of a Hip-Hop song, they would be able to tell the lyricle that is closer to their own person. And if they were to hear a song that was longer than their own song, then they would also be able
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -477,7 +477,7 @@ f(y ) must contain f( f( ), f( )) for all y in f( ). Let's take our example of f
 This is a function that maps {0
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -516,7 +516,7 @@ The last step in the process is to compile the game into a executable file. This
 As you can see, the process for creating a game is quite complex and involves many people. In some cases, it may take several people to complete the process. However in other cases, there may only be one person responsible for all of the above steps. In any case, it takes a lot of time and effort to create an amazing game!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -561,7 +561,7 @@ If g is imaginary number then g and h are both roots of g.
 If h is imaginary positive number then h and i are both root of h
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -609,7 +609,7 @@ Chapter Thirtysix
 IN
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -645,7 +645,7 @@ A sixty-first of 1
 (Note: The answer is a decimal fraction - not a percentage - so the answer is not 100% correct.)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -684,7 +684,7 @@ Let's now look at how mathematics relates directly to the mind. We know that the
 In the previous chapter, we learned that the mind is made up of a network of brain cells that communicate with each other using a language called mathematics. In the previous section, we also learned that mathematics is the fundamental language of our mind. Now let's consider the brain cells themselves. The cells in the brain are called neurons. Each neuron is a tiny, hollow tube that contains a small amount of water and a tiny amount of chemicals called neurotransmitters. The neurons are connected to each other by electrical connections called synapses. The synapses are made up from a protein called the neurotransmitter receptor. The neurotransmitters are released from the synapses when a neuron receives an electrical signal from another neuron. The chemical reaction that occurs when a neurotransmiter is released is called the synaptic cleft. The cleft is a space that is created when the two sides of a synapse come together, and this space is called a synaptic vesicle. The nerve cells in our brain are connected by these
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -716,7 +716,7 @@ Statistics - Statistics is a subbranch of Mathematics that deals exclusively wit
 Mathematics - Mathematics is a broad branch of science that deals mainly with the mathematics of the natural sciences. In mathematics, there can be many different subbranches, each with its own set of mathematical concepts and concepts. In our example, we have discussed the concepts and properties that are needed to study mathematics
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -741,7 +741,7 @@ The First Function - the ability To Reason
 The ability To reason is the process by which we can make inference from the world to make a decision about it. The process of making inferences from the facts in the world is called reason. The reason that we use to make these inferences is called intelligence. The higher our intelligence, the easier it is for
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -760,7 +760,7 @@ If we are multiplying two numbers with the multiplication symbols "!*!" and "*",
 Now that you have a little more insight into how multiplication symbols are commonly used in math, let's take another look at how they can be represented using numbers. For the purpose of this example we'll use the numbers 1 and 2. The number 1 represents the number 1, and 2 represents the negative 1. Let's look
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -790,7 +790,7 @@ $$
 Let's take the first step of the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -809,7 +809,7 @@ The Ego is what is responsible for the sense of feeling good about us. The Non-E
 So the question is, how do we change the mind of the Ego? The first thing we can do is to stop thinking about ourselves as individuals, and instead think about our feelings about ourselves - the feelings that we experience about ourselves and our inner selves. The feelings that make us feel like we are worthless, and the feelings of feeling bad and not worthy. This can be done by identifying what we think we are good at, and what we don't. We must also identify what we want from ourselves, and how we want our life to be. Once we have
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -831,7 +831,7 @@ Now that we know how the MBTs work, let's look at how the MBPTI works. The perso
 The MBI and the test
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -854,7 +854,7 @@ A:
 I think this is one of the most important books I have read in my life. I was so excited to read it and it was so well written that I was able to enjoy it for hours. I would recommend this to anyone and everyone.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -881,7 +881,7 @@ The ritual begins with the Mayannil, a man who is known as the Mayalan, who usua
 The next ritual of importance for the Otahuanis is the Yaxha, or Sacrifice of the Dead. The Yaxh is a ritual that
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -896,7 +896,7 @@ Now let us consider an alternative scenario. Let's imagine that a single particl
 Now we can conclude that a micelle yearning is a phenomenon that occurs when a particle experiences a sudden change in its direction and then enters another dimension at the exact same location where the original particle experienced the change in dimension. In order to understand this, we will need to consider the behavior and motion of a micellar object. A micellar is an object that is made of two or more particles - it is a kind of composite particle that is composed of two parts - one particle that has a nucleus and another particle that contains the nucleus. The nucleus of a typical micellar can be thought of as a "hole" in the micelle, and it contains the particles that make up the micellation. The micellar nucleus is the point where the two parts of the micellus come together - it contains all the particles necessary for the micelling. So in the case that a given particle experiences an abrupt change in position, it will enter into the micellyia yearnings at the location where that particle would have experienced a change if it had been at rest. This can be seen in the example above: if the same particles were at rest, the particle in the Dimension x would have entered into the Dimension y at the point that it would have had if it was at rest; however, the particles in Dimension v would have "run" through Dimension y, and they would have crossed over to Dimension z at the position where the particles would have if they were at their original location. So the micellor years are not the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -913,7 +913,7 @@ So the answer is - the universe isn't just made up out of a bunch of different o
 So, what are you waiting for? Let's get to work!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -934,7 +934,7 @@ The most common recreational medication is called "ecstasy" - this drug is used 
 The other common recreation medication is "rock" - it can be taken alone, or in combination, with alcohol, or other drugs. It also has the ability to increase the activity levels of the brain, and is often called a "hallucinogen". This medication is also commonly used to create experiences of high, and
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -953,7 +953,7 @@ The Sphinx was placed right next to the Sculpture of the Dead, which depicts the
 Now let us look at how the Sphilons communicate with each other. The way the Sphonies communicate with one another is through the communication between the Sphenons. The communication between Sphins A and B is through their Sphira, while communication between them is through communication
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -985,7 +985,7 @@ Now, let's look at our function f() and notice how we can use parentheses to sep
 return (f()+1);
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1015,7 +1015,7 @@ The TwISTed Metal series has a book called The Twist Metals, and this book is ba
 I think this is one of my favourite books. I think it is a very interesting book. I also think that it is very well written and it has a lot of interesting characters.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1042,7 +1042,7 @@ The sword is the most common of the weapons - it is used to strike, and is able 
 The wand is the second most common weapon - it has the power both to bend and to
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 0.8, "top_k": 25, "top_p": 0.7, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 3, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

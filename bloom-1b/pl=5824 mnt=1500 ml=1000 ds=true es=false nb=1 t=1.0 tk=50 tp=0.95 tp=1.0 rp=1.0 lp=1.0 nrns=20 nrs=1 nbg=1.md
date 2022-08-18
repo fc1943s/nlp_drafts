@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -89,7 +89,7 @@ You can also read about this:
   and energy if we didn't have to worry about physics."
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -119,7 +119,7 @@ The New Goddess Theory
 Before we look at how we can combine our two most important categories (Earth, Air, and Water) into a unique goddess, let's just review some of
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -148,7 +148,7 @@ Now let's get to the key part of this chapter - we will use our beliefs about th
 Now before I get to that, let's assume that our nipples are on the inside of the back. Since our nipples are on the inside of the back and we are rubbing them together, we are actually rubbing against a large piece of skin called the inner lining of our back. Since we cannot see this lining when we are rubbing our breasts together, we can only determine which one of the two is
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -171,7 +171,7 @@ From this formula we can see that for any given center of mass, the acceleration
 Now we can understand why, in order to communicate with the physical universe, we need to "ride" this gravitational force...in other words, we need to "ride" the gravity experienced by the Father of Time to the right place and at the right time! Remember, our imagination does not have a fixed center of mass. Every time that we imagine a new place and a new time, we are going to
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -194,7 +194,7 @@ To better understand what mathematical ideas mean for our everyday life, let's c
 The steering wheel is connected to the car's accelerator pedal. When we hold the accelerator pedal up, it pushes the car forward to its desired speed, and when we release it, the car will slow down to a stop - because it is no longer able to move forward at the same speed as we were able to drive it forward before. As a result, the car stops moving forward and instead of moving backwards and forwards it simply runs straight forward - meaning it's in its own lane! Note that it is impossible to reverse a car on its own, because the driver simply cannot see the wheels, the brake, and the steering wheel - because they are hidden behind the door! So when we want to change the direction of the car, we must change the driver's steering wheel, which means turning the steering wheel in the direction we want the car to run in...
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -225,7 +225,7 @@ By combining these two assumptions, we get a somewhat more precise answer: 50+50
 Now let's look at a different scenario. If there are 50 students in a classroom and the distance
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -252,7 +252,7 @@ This is the time where our concept of time dilation comes into play. Imagine tha
 Now imagine that this circular piece of spacetime is spinning faster than before...this circular piece of space-time is spinning more and more circular with each turn it takes.  Because of the increase in speed, its diameter is also increasing. Imagine our 4D particle travelling through space-time that is spinning faster than before. As it travels further down and further and further, it will become the most and the most circular the piece of spacetime can become! As it travels further and further, it will become the most and the most circular the piece of spacetime can still become...until it is completely covered in a circular ring! The moment it is completely covered in a circular ring is called the "center" of this circular piece of space-time...this is the moment the particle has entered into
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -267,7 +267,7 @@ What Is Duplication? This shortened form for "duplication" is a fairly common mi
 What Is Differentiation? This shortened form for "differentiation" is the opposite of differentiation. In this case, it refers to the process of differentiating equations to determine their signs. In fact, differentiation is a very important concept in mathematics because it can determine if an equation is always positive, always negative, or always zero. In addition, differentiation can help us to determine if a solution exists, and if it does, where the solution is located. So differentiation is the process of determining the signs of each term in an equation. In addition, differentiation is the process of transforming terms of an equation into another equation that
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -292,7 +292,7 @@ Lastly, in this section, we'll explore how we can apply our skills in the scienc
 In the final part of this section, we'll look at topics that are central to the field of literature - and how these topics can be used to make a compelling story. We'll explore concepts like theme, setting, plot, style, and language. In this level, we'll also look at how to communicate a thought and ideas in both language and visual form - in other words, we will cover the basics of using language to
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -325,7 +325,7 @@ Where v is the object's velocity.
 If we try to apply this formula to describe the motion of a spinning object, we find that the motion becomes more complicated. First, let's say the object's mass increases at the same speed
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -357,7 +357,7 @@ I will now explain some of the basic concepts involved in the study of mathemati
 • Initial velocity: The initial velocity of the object is the velocity of
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -391,7 +391,7 @@ In general, if you were to make a very broad and general definition of a Topolog
 Now let's go back to our original 4D particle. Since we are dealing with a 4D spacetime, there are four times more dimensions than space, so we should expect that our particle would move around the entire 4D space-time more than three times as fast as it could in 3D space! The particles in 3D space can have an infinite range of spatial directions, but since we only have 3+1 dimensions, there are no such infinite possibilities! And that is exactly what happens when we consider our 4D particle; because the dimensions it must travel through are all equal to or less than the number of its dimensions, it travels faster than its
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -426,7 +426,7 @@ Music is an expressive language, not a record of a song
 Although both music and art share the same elements in common, there are
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -445,7 +445,7 @@ It turns out that if this other object were also connected to every other point 
 It's a fairly easy question, but in order to answer this, we need to look at the mathematical language of topology (in 4D space-time)! A topological space is a 4D manifold that has a way to tell the location of different objects - the way they are connected to one another. In other words, each object has a unique identifier.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -469,7 +469,7 @@ A:
 The answer is: all of life. The only limits are our own imagination.  In one dimension, there's only one way of moving
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -492,7 +492,7 @@ However, before we discuss the various possible dimensions in which our particle
 As you can see, our 3+1 dimensional universe can be broken into several different parts. Let's take a look at some of the ways that this space-time can be broken down! From the graph, we
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -525,7 +525,7 @@ So to see how these values relate to each other, lets consider the above example
 Note that the range of integers for 10 is always a subset of the integers that start at 2 and go from 2 to infinity. The number 2 can be represented by the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -558,7 +558,7 @@ Now that we know how time works, let's discuss what is called the principle of r
 Now this is where Einstein's theory of relativity comes in. According to
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -585,7 +585,7 @@ Now let's take a look at a brief description of each of these concepts, and comp
 Intuitive
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -612,7 +612,7 @@ In conclusion, we can see that mental health does have something to do with how 
 However, we also have to realize that a good mental
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -628,7 +628,7 @@ In addition to this, we can also write out our formula from a more mathematical 
 $$\sum_{k=0}^\infty \frac{\sqrt{\pi^2}\left((\frac{x^2}{k^2}+\frac{y^2}{k^2}+z^2}{k^2})^2}{\sqrt{3\pi^2}\left(\frac{\sqrt{\pi^2}\left(\frac{x^2}{k^2}-\left(\frac{\sqrt{\pi^2}\left(\frac{y^2}{k^2}+\frac{\sqrt{\pi^2}\left(\frac{z^2}{k^2})\right)\right)}{(\frac{\sqrt{\pi^2}\left(\frac{x^2}{k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{y^2}{k^2}-\left(\frac{\sqrt{\pi^2}\left(\frac{z^2}{k^2}-\left(\frac{\sqrt{\pi^2}\left(\frac{y^2}{k^2}-\left(\frac{\sqrt\pi^2}\left(\frac{z^2}{k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{x^2}{k^2}+\left(\frac{\sqrt{\pi^2}(\frac{y^2}{k^2}+\left(\frac{\sqrt\pi^2}\left(\frac{z^2}{k^2}-\left(\frac{\sqrt{\pi^2}\left(\frac{x^2}{k^2})\right)\right)+\left(\frac{\sqrt{\pi^2}\left(\frac{y^2}{k^2}-\left(\frac{\frac{\sqrt{\pi^2}}\left(\frac{z^2}{k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{x^2k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{y^2k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{z^2}{k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{y^2k^2}-\left(\frac{\sqrt{\pi^2}\left(\frac{z^2k^2})\right)\right)+\left(\frac{\sqrt{\pi^2}\left(\frac{y^2k^2}-\left(\frac{\frac{\sqrt{\pi^2}\left(\frac{z^2k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{z^2k^2}-\left(\frac{\sqrt{\pi^2}\left(\frac{z^2k^2}-\left(\frac{\sqrt\pi^2}\left(\frac{z^2k^2}+\left(\frac{\sqrt{\pi^2}\left(\frac{y^2k^2}+\left((\frac{\sqrt{\pi^2}\left(\frac{y^2k^2})\left(\frac{y^2k^2}-\left(\frac{\sqrt{\pi^2}\left(\frac{z^2k^2})\right)+\left(\frac{\sqrt{\pi^2}\left(\frac{z^2k^2}+\left(\frac{\sqrt{\pi^2}\sqrt{\pi^2}\left(\frac{z^2
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -650,7 +650,7 @@ First thing to note about this set of points is that they're not any set of poin
 In math, a line is a line that is cut through a set of points by a straight line. In the previous example, each point is on a line, but each line intersects other points. So, how can we line up the points on the line to make the line intersects other points? The answer is by finding all of the intersections between all of these lines. And the only intersection that we know of is the intersection of all three lines - the one intersecting all three lines that gives us the line of intersection! So now all we need to do is line up all of the intersection points and use that intersection point to calculate our position! After calculating our position,
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -663,7 +663,7 @@ Now let's use this concept to understand how we use mathematics to understand th
 Now it's time to move on to what is known as a cognitive function. Let's consider a particle moving through Dimension Z, and suppose the particle has a cognitive function of "after time Z". Let's say we ask this person to describe a particle that is moving upward through Dimension Z - let's call this a "upward-pointing particle". The person would probably say that this particle is "straight ahead of me," and then describe it as a "downward-pointing particle" or perhaps a "upward-pointing particle" or a "directionality particle" or whatever the person was going to say. And yet, if we asked the person the exact same question about a particle that was moving downward through Dimension Z, we would find that his/her answer would be the exact same as above - either a downward-pointing particle or a "upward-pointing particle". This is called an "impossible cognitive function"! A particle that is moving upward through Dimension Z is called a "forward-pointing particle" - meaning that the particle is moving forward
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -688,7 +688,7 @@ So let's talk about planning for a little while! First, we will need to set up c
 Of course, it won't be possible to fit everything into the area available on the island, so we should think about how to fit in
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -717,7 +717,7 @@ Perception - In our everyday life we often use our sight and sound senses to hel
 Decision Making - This is something we always use
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -742,7 +742,7 @@ I could go on and tell the same thing with any combination of movement speeds an
 Now lets consider another example:
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -761,7 +761,7 @@ The inner sectors represent our inner world or self (or our physical body). We m
 Finally, the inner sectors represent our inner world or self (or our physical body). We're looking at another inner sector representing our inner world
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -782,7 +782,7 @@ Now let's explore a situation in which a particle goes out of Dimension Y but do
 Finally, let's consider how a particle can come back into another dimension! In our 4D universe, each dimension represents different dimensions, and all objects can travel through any of them. And if we take
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -803,7 +803,7 @@ Hopefully, now that we've got our theories down pat... let's look at the most fa
 In the previous chapter we saw how a higher dimensional space-time may behave (either be created from other dimensions or be completely altered so that it becomes an altered, altered, altered, altered, altered, altered... type of thing)... Let's start by looking at whether this can be accomplished by a higher dimensional object or whether it can be accomplished by any other higher dimensional object. If we go one step further and assume that anything higher than 3+1 dimensions can actually be made into an altered, altered, altered, altered, altered... type of thing (which is technically incorrect, but since we're going to assume that we don't actually know how much higher-dimensional things can really exist), we can also consider the possibility
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -828,7 +828,7 @@ Heroin and cocaine both act on the body's reward system - the brain becomes depe
 In a very extreme case, drug users can be completely dependent on the drug. These extreme users often experience very severe side effects - for example, high levels
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -843,7 +843,7 @@ As shown above, the infinite coordinate system contains all possible mathematica
 Let's take a look at the following diagram, which shows how the infinite coordinate system can be used to predict the speed at which a moving object will travel along each axis - in this case the speed at which a moving particle would travel along the y-axis. Imagine, for example, that at this moment we are considering the speed of a particle moving in a clockwise direction along the x-axis - the x-axis being our x-axis of observation, where the arrow shows the direction of the particle's movement. We can use the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -863,7 +863,7 @@ If we could measure up from the top of the pipe into the surrounding space, we w
 Now consider the side of the car. If we take a slice into the side of the car, then we will see that it is a curved path
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -876,7 +876,7 @@ When the main character enters Dimension X, he encounters a demon in the cube an
 After the main character has defeated the Three Guns and the Dragon, he is able to fly into Dimension Y. As he flies into Dimension Y, he encounters a demon called The G
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -907,7 +907,7 @@ One of the things that I added to my world was a few other magical elements that
 My world also had magical creatures and magical objects that I had created with some of my world's magic elements and concepts. There were the Wind Mages who made winds, the Witch who could make magical creatures, the Sun God who made sun-shaped objects, the Moon God who made moon-shaped objects, the Fire God who made fire
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 20, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

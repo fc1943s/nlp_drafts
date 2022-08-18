@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -72,7 +72,7 @@ The energy and momentum of the particle is accelerated relative to the rest mass
 So the particle does not experience a time dilation because it travels in a curved spacetime instead of a flat spacetime. This means that our particle doesn't pass through different spatial planes because they are moving at the same speed; the speed of the particle is the same in all planes, so there is no difference between the "path" the particle follows through in all of the dimensions, therefore the particle is moving at an ever increasing speed, just like the universe. This means that we can have a particle traveling from dimension X to dimension Y at the same speed, and it will also experience time dilation at dimension Y if the particle is traveling from the dimensions Y to dimensions X.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -101,7 +101,7 @@ The Big Bang Theory is a theory. The Big Bang is a theory, but the "thing" was c
 We can however say that the universe is "physically" true because we have evidence about the universe and we can say "it is the physical world".
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -142,7 +142,7 @@ So this is what happened to the Universe before it became extremely unstable and
 So this is what happened when the Universe began to absorb 4D worlds within its 4D "Univers
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -194,7 +194,7 @@ A planet would have the same problem with how it looks relative to a point on th
 A galaxy would do the same thing, but it is the entire galaxy that acts as one object. The line of sight to the sun is what defines the direction at which the line of sight projects into the sky. This in turn defines the size of the galaxy and the distance it can look from a point in the sky (this again depends
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -252,7 +252,7 @@ Now that we have a pretty good idea of how math works and how mathematicians act
 Mathematics has a very strong role in the world of science and science is at the core of all of the other fields of study. To better understand math, let's take a
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -298,7 +298,7 @@ So to demonstrate how physics has helped us understand mathematics, let's consid
 If we are studying how water and hydrogen interact, we are first learning how the particles in hydrogen interact; then we learn how the atoms in
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -325,7 +325,7 @@ Let's think about a scenario where a black hole is created at the center of a 3+
 This is where Einstein came to the rescue and suggested what we believe to be the solution to the black hole paradox. For years, Einstein believed that if a black hole would only exist at one location in our universe, then we would only have one black hole
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -361,7 +361,7 @@ One of the most fascinating features of this book is the vast number of theorems
 In this section of the book, we will discuss various of the many different things that scientists have been using to explain mathematically. We will discuss how mathematicians have been trying to explain certain mathematical properties that are considered beyond human comprehension. And we will also discuss the various different mathematical properties that mathematicians were trying to explain using the use of mathematical models
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -390,7 +390,7 @@ Let's assume that God picked up four numbers from a board, and they had been giv
 Let's assume that the four numbers that we want to find the value of have a unit vector perpendicular to their direction of travel - so they are in the same direction of travel and they are traveling in the same direction, and therefore, they are traveling in the straight line between x and y. So the number 4 has a direction of travel that points to one side of x and y - it is
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -472,7 +472,7 @@ gcf( a, y ) = gcf (a, y ) = gcd( a, y )
 So by taking the product of x and y, we can express each fraction as a multiple of the other one; this is
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -547,7 +547,7 @@ As a straight line: (f) the straight line is given two straight lines, and
 Now what is wrong? Well, we are wrong because we are unable to figure out
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -578,7 +578,7 @@ Now, let's take a look at the situation where we have a larger diameter ball thr
 Now let's consider the situation where the larger ball is thrown down from a higher position - let's say it is 18 feet. The formula tells that we are moving at exactly the same height, but with a diameter that is almost the same as
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -607,7 +607,7 @@ So we've talked about listening to the person you're trying to communicate with,
 In the previous chapter I talked about an important speech understanding technique called "body language and facial expressiveness" (BFA). This speech understanding technique uses our inner feeling of how things are in the body, or what we think the person is feeling, to communicate with other humans. In this chapter I want to discuss an interesting speech understanding technique called "behavioral intelligence" (BI). In this chapter, I want to introduce two methods of studying BI: "autobiographical memory" and "behavioral cognition" (BC). As I said earlier, BI is a form of BI that uses
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -634,7 +634,7 @@ But how do we determine that there are no isolated points? Well, there are two w
 Now let us examine the concept of isometry. If a map between two spaces has isolated points, that means that there is a unique continuous, invertible, and unique homomorphism between the two spaces! In other words, a map that maps isolated points back to themselves must be an isometry and so this map must necessarily be an isometry! In other words, there is an isometry from one space to the other - this is why the identity is always an isometry! Now let's come to our question: what is a homotopy from the one 3+1 dimensional continuum (represented by a basepoint) to the other continuum? Well simply put, a continuous homomorphic mapping that maps the same basepoint to itself must be an isometry, meaning that there is a homotopy from one continuous 3+1 dimensional continuum to another continuous 3+1 dimensional continuum! This is the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -684,7 +684,7 @@ The Character Creation Guide
 In Chapter One, we talked about how the character is created - what characteristics and abilities a character has - and how the character is used in the game. The character creation guide is the final part of the character creation process. For each character in the game, the character creator creates a character profile
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -723,7 +723,7 @@ In short, the first thing you need to do is figure out how the higher-dimensiona
 In other words, this chapter is for anybody who wants to know how mathematics might be used to explain various aspects of life in our Universe.  It's possible that even you never really considered what could happen to your life and the way it might change when you enter into the real world...and all of these changes can be explained using the mathematics that you studied in this chapter!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -764,7 +764,7 @@ Many scientists have held the dualist view since Newtonian physics began. Howeve
 The dualist viewpoint is an alternative to the deistic viewpoint, but it has some common points with it. In deism the objects are created and destroyed by events in the subject world - whereas in the dualist view, events occurring in the subject world only create objects, but the events are not actually happening in
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -784,7 +784,7 @@ How many questions could we answer?
 If we need more information, how much time is there before we need more information?
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -824,7 +824,7 @@ To see how this model would describe the process of decision-making, consider tw
 The second kind of behavior that an athlete might take is called "gameplay" or "team play." In this type of behavior, the team is a cohesive group of players that all play in the same way, with the same focus. In these kinds of games, the only thing that needs to happen is to move to the next area of the stage so that other teams can start working on their own. If one team has a better team play than the other team, then the first team will win the game - the team with the better team play wins the game. The first team gets the win because the first team has all of the team's skills and knowledge, and thus will win the game. In short, team play is a combination of all three of these types of behaviors, all of which need to occur in order for the team to win. Because team play is the basis for any of these three types of behavior, it
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -913,7 +913,7 @@ The Mathematikos Kind
 Some basic mathematical operations (addition, multiplication
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -943,7 +943,7 @@ Figure 4 demonstrates a concept map for ISP's mathematical knowledge and skill s
 We can see the important role mathematics plays in the ISFP cognitive functions. Mathematicians are very aware of the importance of mathematics in modern society, both for developing their own skills and to develop society's skills. To understand and predict the behavior and movement of particles in four different dimensions requires understanding the role of mathematics in our daily lives. This is a relatively new area of research, but there are many important contributions that we will discuss in the next few chapters.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -987,7 +987,7 @@ However, sometimes we want to leave the situation, but we don't know how to do t
 Similarly, if you want to learn something about the nature of God, you can ask God to talk to you about a particular topic and teach you the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -1024,7 +1024,7 @@ So if we were to make a set of assumptions about the problem at hand, our observ
 Now let's consider how the orange star would help us make a decision. From our problem solving scenario, we know that the orange star is the blue and yellow dots - and our assumption that the blue and yellow dots are accurate and valid. Now imagine we have both our intuition and our assumption both working. Now let's see how our intuition and our assumption together affect the decision making process. This is the example scenario we discussed earlier that starts with our intuition telling us that the blue and yellow dot is accurate and valid, but our assumption says that the blue and yellow is inaccurate. Let's say that our intuition tells us that this is a very bad idea to do, because it could lead to very bad consequences! Our assumption also tells us that this will not be a very good idea to do because it will lead to very unhealthy consequences! So after we made our decisions, what is the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -1065,7 +1065,7 @@ Let us assume that there are two different spatial dimensions, say D, S and L. L
 Let's assume that the lower-dimensional space D has two different dimensionalities (D = 2 and D = 3). What happens in this new lower-dimensional universe? First of all, let's look at the lower-dimensional space D that represents the space below the lower-dimensional universe L
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -1101,7 +1101,7 @@ Let us consider one of the two scenarios. Let's say that elephant A is the stron
 Let's now consider the other scenario. Let's say that elephant C is the stronger elephant that warring with elephant A. As mentioned above, elephants A and C can have an intuitive understanding of one another, and elephants A and C are strong leaders and strong allies - so elephants A and C will win the war, and elephant A will become elephant A's father. This is an example of intuitionistic reasoning
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -1127,7 +1127,7 @@ Brainwashing
 I have found it amazing how difficult it can be to
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -1158,7 +1158,7 @@ So, the process of tunneling/spreading particles across the physical realm is on
 
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -1189,7 +1189,7 @@ But if you're already wondering what the concept of space and the ether is, now 
 As we are moving in time, the universe expanded!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -1226,7 +1226,7 @@ In The Wall of Sound, Pink Floyd explained how they created music to bring peopl
 In The Wall of Music, Pink Floyd also explain how they created this music through their thought of God, but also by the importance of music in their lives. In their final album, they said that their goal was to make the world a better and better place, and even if it's not possible to change the world, even if everyone doesn't believe in their abilities, they believed in the power of music to change the world and bring people to believe in themselves and to be happy. Although this album was a little different from their first album, it is still a huge success thanks to the song "Million Dollar Baby"
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -1271,7 +1271,7 @@ Let's now consider the behavior of a particle that is initially at rest (station
 It can be very confusing to think about all this for yourself - but we'll leave that to you! Now
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -1306,7 +1306,7 @@ Now that we have a little knowledge of Sargon and the world that he was in, let'
 Now here's a quick recap of the story: In the Book of Genesis we meet Sargon the Great - the man that invented the Great Pyramids and conquered all of Egypt. Sargon, after conquering Egypt and the Egyptians, was in the process of destroying the Great Pyramid at Giza. The Great Eye was hiding there
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -1349,7 +1349,7 @@ This method of encoding is called "Decoding" - but how it does this is really un
 So how is
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1372,7 +1372,7 @@ We have changed our name, and we have now created a new version of our creation!
 It's a very simple thing - just select two colors from our color pallet, and we'll be able to change our hair color using a simple tool! We can now switch between the two options, red and blue, to create an entirely different, yet very interesting look! And now our new version of Mike is ready to go! Let's now go back to our new creation! We can now open our new creation and change its name back to Mike! It's now time to start making our new version of Mike look like a man! Let's just go back to the color pallet and switch between the two options again - red and blue! Let our new version of Mike become a real man! Let's now add our hands and feet, and let's add our nose! Let's also create the eyes and the mouth again! Let's now add our new version of Mike to the world again! Let's now open the creation that we've created in our previous life again, and we'll now see that the new version of Mike is already dressed in his new clothes! Now, we will now take a look at what the new version of Mike really looks like! This is our last version of Mike - we're just going to make sure it looks like a real person! Let's take a look at the new version of Mike's looks now! It's just really amazing! Let's now change the skin color and hair color, and let's create a new version of Mike that we can now actually interact with! Let's now go back into the browser and change the name of Mike again, and we'll now have a new version of our created Mike! We can now go back and play with the new version of Mike! In the new version of our created life, we will have a little bit
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1393,7 +1393,7 @@ The third character is Celeborn, the Gladiator's younger son. Like his father, C
 Finally, the final character is Thea's best friend and fellow Meadow Mage, the Ice Mage, whom I won't give too much detail on. She is also a member of The Gladiator's team, and she does all the fighting for her team. She is an extremely skilled fighter who is also very loyal to her family. In the novel, she tells the readers that she did all of the fighting in the beginning of the novel, because it was a tough fight to kill people so that they might die. However, she was forced to take part in this because her parents were in a big battle trying
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 6, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 

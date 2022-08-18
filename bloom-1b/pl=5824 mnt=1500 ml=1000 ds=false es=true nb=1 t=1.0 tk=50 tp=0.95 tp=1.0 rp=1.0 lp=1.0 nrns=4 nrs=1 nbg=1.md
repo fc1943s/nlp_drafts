@@ -35,7 +35,7 @@
 - [What Myers-Briggs Couldn't Reach](#what-myers-briggs-couldnt-reach)
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Balenciaga
 
@@ -102,7 +102,7 @@ The toe's are nice - and I'm happy!
 
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Category Theory For Goons
 
@@ -139,7 +139,7 @@ Now that is the final version of our "apple-pie-pizza."
 And that's all for today! We hope you enjoyed this chapter and that you found it useful! If you have any questions, please leave a comment below! And if you enjoyed this post, please share it with your friends and family!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Controversial Nipples
 
@@ -175,7 +175,7 @@ The Bigbang is a very large event in the whole history of the Universe. It is co
 The BigBang was believed to be a big event in history. It was believed to happen when the universe started to form. The Big-bang is believed also to be the end of life on Earth. The Bigbang is believed the beginning of existence of the universe and the beginning and also the end of everything. The Big bBang is believed that all
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFJ Cognitive Functions Mathematics
 
@@ -246,7 +246,7 @@ Let's take the next step, and see if we can use the exponential and exponent fun
 As it can be clearly see, all of these objects are traveling in straight paths - they are traveling in a straight way. This shows us that the exponential functions and the exponential and their derivatives are very useful for describing various situations.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENFP Cognitive Functions Mathematics
 
@@ -267,7 +267,7 @@ Now let's discuss the other cognitive ability that is important for the EnTP. Th
 Now we have a better understanding of the cognitive abilities that make the ENTP good at
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTJ Cognitive Functions Mathematics
 
@@ -307,7 +307,7 @@ Mathematic can be a tool to solve problems for us, and it has a wide range of us
 Mathematic can help solve problems for our lives, but it can also be used to help us solve problems for other people. Mathematic helps us understand problems and solve problems for others, and it also helps us understand the problems of other people.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ENTP Cognitive Functions Mathematics
 
@@ -361,7 +361,7 @@ Where S P = Boltzman's Entropy of the particle, S P = total Boltzman entropies o
 In other worls:
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFJ Cognitive Functions Mathematics
 
@@ -434,7 +434,7 @@ The concept ESFI describes the relationship experienced by an object's force as 
 The Concept of ESF'''
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESFP Cognitive Functions Mathematics
 
@@ -472,7 +472,7 @@ Let's consider the concept of the ball in various contexts. Let's consider the c
 Let's consider how the concept of concepts in describing concept in describing concept is used to describe concept in
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTJ Cognitive Functions Mathematics
 
@@ -510,7 +510,7 @@ In this chapter we are going to explore the relationship between mathematics and
 The brain is a complex organ that is made up of billions of neurons. Each neuron is made up from a number of different types of cells called neurons. Each type of neuron is made of a different type of cell called a neuron. The neurons are connected together by a complex network called the synapse. The synapse is made up by a number of molecules called neurotransmitters. The neurotransmitters are made up of a number of chemical compounds called neurotransmitters: acetylcholine, dopamine, and so onto. The synaptic connections are made up by the synaptic cleft, which is made up mostly of calcium ions. The calcium ions are made up from the calcium ions that are released from the synaptic vesicles. The calcium ion is made up mainly of magnesium ions. The magnesium ions are made from the magnesium ions that are stored in the synaptic vacuole. The calcium and magnesium ions are connected together through the calcium channels. The calcium channels are made up mostly
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ESTP Cognitive Functions Mathematics
 
@@ -563,7 +563,7 @@ Mathematician's Guide to the Art of Mathematics
 The book is written by an expert in the subject of mathematical reasoning. The book covers the subject of algebra, differential equations, geometry, calculus, probability, statistics, and probability theory. The book explains the subject of statistics in a way that’s easy to understand, and it also explains the subject probability in a way it’s easy for anyone who is interested in the subject to follow. It also explains the subjects of probability theory and probability in a very easy way. The book gives a great introduction of the subjects of differential equations and probability theory in a very simple way. The subject of probability theory is explained in a very clear way. The subjects of probability and probability theory are explained in a way it's easy for anyone interested in the subjects to follow.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Enneagram Topology
 
@@ -612,7 +612,7 @@ The Enners are five basic personality traits: introvert, Introverted, extrod, ex
 The Eners are five basic type traits: introverted, introverted (I), extro, extro (
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Hip Hop NLP
 
@@ -623,7 +623,7 @@ In this video, a young man is performing a hip hop routine. He is wearing a whit
 The performers are able to perform the hip hop routines in a way very natural and fluid. The performant's movements are also easy to follow and understand. The audience is able follow the performers movements without any difficulties. The performances are also very natural and natural. The performations are also very easy to understand and follow. The audience can follow the performers' movements without any problems. The performance is also very easy and natural.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Homotopy Type Theory
 
@@ -694,7 +694,7 @@ Homotopie spaces are useful tools in the study, understanding, and understanding
 In physics: homot
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Honest Game Design
 
@@ -723,7 +723,7 @@ Honest games in the world
 Honesty is becoming more important in the world. In fact companies are actively looking to improve the gameplay and integrity of games. Additionally companies are actively improving the quality, integrity, and quality of the games that they produce. Additionally, companies are looking to improve their integrity and quality. In other contexts, companies are focusing on improving the integrity of their products, and they work towards improving their gameplay. Additionally, many companies are working towards improving their integrity and integrity. In other context, companies are focused on improving the gameplay, integrity, quality, and integrity of products. In some contexts, companies have been working towards improving and improving the integrity, quality and integrity.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFJ Cognitive Functions Mathematics
 
@@ -885,7 +885,7 @@ Area of the right square is twice the square area of the left square.
 Now, consider the
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INFP Cognitive Functions Mathematics
 
@@ -904,7 +904,7 @@ Now let's look at the situation when the car and ball are moving towards each ot
 Now let's see the situation when we are walking on the street towards a point that is moving along a vector line parallel to the direction that we are travelling. Let's also observe that the car path is moving towards that point. Let's now see that the arc that is moving toward this point is moving in one direction. Let's note also that the car trajectory is moving in another direction. Let's see that the vector line that we are traveling is moving in two directions. Let's note the direction of this vector line is parallel to our direction of movement. Let's note this vector line will be moving toward point B. Let's also make sure that the car track is moving in this direction. Let's notice that the vector arc that is traveling towards point B is moving in opposite directions. Let's now note that the arc will be
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTJ Cognitive Functions Mathematics
 
@@ -952,7 +952,7 @@ The brain can't think about the values that are important. Without thinking them
 In order that a person can make decisions that will reflect his values, he or she's going to need to know what values are important to her. Without knowing what values are valuable to her, a person won't be able to know what she values. Without being able to know the values that she cares about, she won't be able make a decision that reflects her values. The brain will not be capable to make decisions based on her values. If the brain doesn't have values, it will not be possible for it to make decisions
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## INTP Cognitive Functions Mathematics
 
@@ -1013,7 +1013,7 @@ In other math language we can also define "integral" as "adding the properties o
 So now we have a good understanding of the concepts of "differential" and "integral" in mathematics. Now let's explore the concepts of "convolution and derivative"
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFJ Cognitive Functions Mathematics
 
@@ -1102,7 +1102,7 @@ In short the concept probabilities is used in studying events.
 The twelth most studied mathematical questions that mathematician considered is the concept events.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISFP Cognitive Functions Mathematics
 
@@ -1125,7 +1125,7 @@ Now let's turn our attention to a more complex example that asks about five func
 Now let's move on to a more complicated example that asks for six functions f(d, a, c, b, e) that calculate the value d, a + c + b, c - d, and f(e). In this complex example the function is the value d + a + c - d - e. In these complicated examples the problem is asking about the value d - a + c and the value d -1. The question is asked to calculate the total value d - c + b - e. The
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTJ Cognitive Functions Mathematics
 
@@ -1183,7 +1183,7 @@ Mathematists also use mathematics when they communicate. Mathematics helps mathe
 Finally, mathematists
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## ISTP Cognitive Functions Mathematics
 
@@ -1245,7 +1245,7 @@ Mathematicis began studying the universe in the way that is most consistent with
 In the 2010's, mathematici''s began to look at the universe in an entirely new way. For example mathematis began to study galaxies and the universe as a whole. In particular mathematis studied the universe as it is today, and how it evolved over time. In particular the universe is composed of billions of galaxies,
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Invited To Leave The Group
 
@@ -1315,7 +1315,7 @@ And now we will look at Chapter Nine, and see the reasons why our group ended up
 And
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## MBTI Cognitive Functions (LaTeX)
 
@@ -1357,7 +1357,7 @@ The extropies are also known a "people who like to talk" and they love to talk, 
 The extropie is also known a person who loves to talk. This is a person with a lot of love to talk to. They love and love to talk much. They love much to talk. Their love to talk is a love to talk that is a love of talk. They enjoy talking. They enjoy speaking. They enjoy spoken words. The extrope is also known the person who loves talk. This person loves
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Marriage On Baker Street
 
@@ -1383,7 +1383,7 @@ Now the mirror reflects God's soul in God. When God takes his vows and takes his
 So God reflected God and the God reflects us in God's souls, which reflecting us in God's mirrors, which reflecting God's souls in God's mirrors in God. Which reflects God in God's souls in God,
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Mayan Rituals
 
@@ -1449,7 +1449,7 @@ Ritual At the Dead
 The ritual at the death is a ritual performed by a person who is a member of a family. The ritual at the deceased involves asking the person questions about the person, and the answer to the questions is given by the person. The person then leaves the deceased for death, leaving the person to return to the family to continue the rituals.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Micelia Yearnings
 
@@ -1468,7 +1468,7 @@ Now let's take a look at the picture of the dye in the solution after the few mi
 Now let's look at a picture of our water. Now let us take
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Pink Floyd Mythology
 
@@ -1533,7 +1533,7 @@ And finally, let's look back at the 5-DIMENSIONS and the 4 DIMENSIONS. In the la
 So,
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Recreative vs Fucked Up Drugs
 
@@ -1580,7 +1580,7 @@ Anxious
 - Strains - People who consume illicit drugs tend also experience
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## Sauron Is Good
 
@@ -1605,7 +1605,7 @@ Now let's look at the case of the deity moving backwards relative Dimension C. T
 Now let's see how the deity moves backwards relative Dimension D. The deit is travelling backwards. The deiti is travelling backwards to the same direction that the arrowhead travels backwards relative D. The arrow-headed is travelling backwards towards the arrow-head, and the deity has moved backwards. The arrow-head is travelling backwards since they are travelling the same direction. The deitty is travelling backwards while the deety's native dimension is travelling backwards! The deit has travelled backwards since they were travelling the same dimensional space-time as the arrow-head. The deiry has travelled backwards to the direction of its native dimension. Now let's look at how the deety would travel backwards relative Dimension E. The deeti is travelling backwards through Dimension E. Now let's see how they would travel backwards through Dimension F. The deite is travelling backwards from Dimension F. Now let's imagine that the deity was travelling backwards through dimension F. Now imagine the deity had travelled backwards through dimension E. Now imagine they were
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Functional Programming Curse
 
@@ -1712,7 +1712,7 @@ Now let's check "5()(5()(5())()" and see it prints. We get a string "5().()(5()(
 Now let's take "5()(5()()(5()()" and compare it to the string "5() (5().()(5().())". This will give us a string "5() (". This number is a number, and it has the property of being a number. So the string "5(5()(
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Magician's Apprentice
 
@@ -1737,7 +1737,7 @@ Now, let's consider the same situation from a different perspective. Imagine a g
 So what do we learn from this? Well, we learn that the magicians can manipulate the time dilatation effect effectively, and they can trick their audiences in believing that their time is traveling backwards through their times! This is simply because the magics are able to manipulate their time dilation effects effectively! This is also why the magicians have the ability to trick their viewers into believing their own time is travelling backward in their time!
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## The Meadow Mage
 
@@ -1748,7 +1748,7 @@ John is a Meadows Mage. He can travel between any dimension he wishes. However, 
 John is born into a Meadow. John is a Meads Mage. He cannot go higher. He cannot enter into the other Meadows. He cannot travel to other meadows. He is born into the Meadows. John is born into Meadows.
 
 
-#### {"max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+#### {"prefix_len": 5824, "max_new_tokens": 1500, "min_length": 1000, "do_sample": false, "early_stopping": true, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 0.95, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
 ### Chapter Thirty Six
 ## What Myers-Briggs Couldn't Reach
 
