@@ -16,6 +16,7 @@ in
       nixos-unstable.python310Packages.pip
       nixos-unstable.python310Packages.autopep8
       nixos-unstable.python310Packages.jupyter
+      nixos-unstable.vale
     ];
 
     shellHook = ''
