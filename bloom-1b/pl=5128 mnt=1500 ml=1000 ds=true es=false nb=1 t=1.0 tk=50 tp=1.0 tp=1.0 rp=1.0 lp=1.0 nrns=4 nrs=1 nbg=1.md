@@ -1,0 +1,35 @@
+- [???](#)
+
+
+#### {"prefix_len": 5128, "max_new_tokens": 1500, "min_length": 1000, "do_sample": true, "early_stopping": false, "num_beams": 1, "temperature": 1.0, "top_k": 50, "top_p": 1.0, "typical_p": 1.0, "repetition_penalty": 1.0, "length_penalty": 1.0, "no_repeat_ngram_size": 4, "num_return_sequences": 1, "num_beam_groups": 1}
+### ???
+## ???
+
+ So how do they do this?
+
+This is something I plan to explore in future posts! :) 
+
+In the end, we have learned quite a bit, so I want to thank everyone! I hope you enjoyed reading this long-winded little tutorial and if you have any questions about what happened in there, then feel free to leave them down below ;) 
+
+A:
+
+I would say that yes.
+Since you know that we are the only "finite creatures" in 3+1, it would be natural for other creatures to try and cross our line too.
+To quote from Isaac Asimov's famous theory of relativity:
+
+We observe that a distant star is moving to the left and down. Yet the observer of the moving star cannot perceive that he is doing this, because he does not observe the moving star's passage through the line of sight, because the observer is in space beyond that line of sight. (Although, as I hope to show, the line of vision is really not completely empty, and the observer cannot perceive the moving star because the moving star is part of a bigger group of other objects, including himself.)
+The observer's position, when he is at rest, is not a free choice... It is the motion of the moving object which makes the observer not see the direction toward him. The observer is caught in a circular orbit, never fully out of the way of the moving world. But then, of course, there are other beings who can see his position, because that is where his position is. They are not objects in space; they are the moving objects, that are part of the larger group of objects, which are not space-time; they are members of a bigger grouping of objects, and they see the observer's position.
+And then, of all the other possibilities of an observer who is at rest... there is none in which the observer can see the direction of the moving thing to himself. For him the moving thing is always a circle in space, a rotating object, always just a circle in the rest of space.
+
+So yes, they could be watching us, but no, they do NOT see us directly. It is a circle around them, moving to the right, but no-one can directly observe it.
+What this means is that they are seeing us because of some other mechanism which is outside our understanding. If they do not perceive us, we have no reason to be aware of it. This is exactly what quantum mechanics is about.
+Let me provide a simple illustration of how this works. Consider that I am sitting in a chair. We can make a model for this, in which a frame of reference is chosen for me at rest, and then if the frame of reference moves to the left or the right, my chair moves accordingly. The question we can ask is, Why do we move? Why does chair moves to the right when its frame of reference comes to rest? Well, we don't move when we sit in the chair. If we could see it directly, we would see the chair moving to the right; we would no longer have the situation where our frame of reference actually rotates, and we would be able to make sense of that. You really can argue for this in the context of a frame of referency; it doesn't really make a difference.
+
+However, the point is not that we cannot see the motion of a simple point being acted upon by another source of force. To see this, consider the following: A rigid mass moves at constant velocity V towards the right, according to the law of motion of a rigid body. A rigid mass feels this force towards its left (see Fig.1). If we choose the rigid body to be an ordinary sphere, then the force will be directed towards the point where the sphere is pointed. Then, if I move to the left, I experience a force from the left, and if I move back, the force will still be felt, but towards the point at which my body is pointing. So if the point is right now, our frame of referential will have a curvature of R and therefore a distance, d, of dR. 
+So, assuming that the point at the centre of the sphere is to our right at t_0 (and we move from right to left), the sphere is moving towards the right at a rate V/dt = V/sin(/dt), where s = tan(/2) is the angle between the vector from the centre of mass of the sphere at t_0 to the point pointed by the mass at t_0, and therefore tan s = V/dt.
+Because we are not moving, the motion of our frame of referringential is constant; this means that, at any given instant, the vector R(t) is constant: R(t_0) = R, and therefore the sphere is pointing towards the centre. However, as we have learned that we are moving to the point at time T, this vector now points towards the point in the frame of referencial at time T - we are moving forward.
+We are seeing this from the time the trajectory of the mass attains a constant velocity to the point to the left of our body at t_0. And this constant velocity depends on the sign of the angular velocity of our local frame of referencing (see Fig.  1). So we see the circle of mass moving to the left: R(t_T) = R(t). But now, as we move to the right at velocity V, the mass is getting faster - the point to our left is moving faster than it was at t_0 and thus the point at its left is moving slower than the point at our right. So the point to your left is now pointed towards the point to right of your body, which is at your left. As we move to left, again we see a change (for now we only consider the left movement): R(T) = R and thus the circle of matter is moving backward towards the right.
+So, we have two independent variables; the radius of the circle as it moves (time) and its velocity at time T (space). This is not a good situation! The radius is constant, because we know that the mass does not change; we know the radius is the same every time we move, but the velocity is changing. From now on, the radius will only depend on time, and we can no longer work with the constant radius we defined earlier to determine the position of the mass, or indeed, what is happening to us at any given point in space-time.
+In this simple example, we have a number of other problems that arise as we progress through theory and concepts. First of all, it is not completely self-evident that we can make sense of the physical phenomena that arise from the behaviour of the world outside our laboratory. I will show how this changes as we go through the theory, and what happens to the laws. But before we begin, I would like to make a small digression into the role of mathematics and mathematical concepts.
+
+I understand that, in mathematics, we write laws to describe relations between sets of variables that can be measured. Each of these relations (that I will think of as laws) tells us something about the structure of the variables that define the set of variables; how the variables relate to each other, and that all together (a) is a set of variables. This is what
