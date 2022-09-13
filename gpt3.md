@@ -6435,6 +6435,64 @@ A última analogia interessante é comparar o abismo da alma com uma biblioteca 
 Qualquer que seja a maneira como você escolher pensar no abismo da alma, uma coisa é certa: ele é um lugar misterioso e cheio de mistérios por descobrir.
 
 
+### Capítulo Trinta e Sete
+## A Implementação de WeakMap em JavaScript
+
+Algumas estruturas de dados JavaScript parecem bastante úteis em primeira instância, mas podem ser difíceis de usar corretamente. WeakMap é um bom exemplo disso: ele permite que você armazene valores arbitrários com base em chaves "fracas", ou seja, objetos que são susceptíveis a coleta pelo Garbage Collector do JavaScript. Isso faz sentido na teoria - por exemplo, suponha que você esteja escrevendo uma biblioteca para gerenciar os recursos de rede e precisa associar cada socket aberto à sua respectiva conexão HTTP; neste caso, quando a conexão for fechada (ou mesmo finalizada), nenhuma referência existirá mais no seu programa para manter o soquete vivo e ele eventualmente será limpo da memória pelo GC!
+
+No entanto, essas características tornam WeakMap um pouco difícil de usar em situações reais. Em particular, o fato de que as chaves são fracas significa que você não pode iterar sobre os valores contidos no WeakMap; caso contrário, a iteração mantém uma referência forte para cada objeto da sua lista e impossibilita que sejam coletados pelo GC! Isso significa também que não há um método "get" nativo para o WeakMap, pois você não pode garantir que a chave estará sempre presente.
+
+Isso significa que é importante ter cuidado ao usar WeakMaps e compreender as limitações de suas implementações. Felizmente, seguindo algumas boas práticas, é possível evitar os problemas mais comuns associados à utilização do WeakMap. Aqui estão cinco dicas:
+
+1) Use uma variável local para manter uma referência forte à sua chave; desta forma, ela não será coletada pelo GC enquanto essa variável existir!
+2) Sempre verifique se a chave está presente antes de usar o método "get" para obter um valor. Como as chaves são fracas, não há garantia de que elas estejam sempre presentes - portanto, é importante checar isso primeiro! Isso pode ser feito através do método has(). Se ele retornar true, então podemos ter certeza de que ainda temos referências fortes àquela key e poderemos recuperar o valor corretamente; caso contrário, a chave já foi coletada pelo GC e não devemos confiar em seu valor.
+3) Se você estiver implementando um WeakMap como parte de uma API pública, considere fornecer métodos para "adicionar" e "remover" chaves/valores; isso tornará a sua API mais fácil de usar em situações reais!
+4) Em geral, é melhor evitar o uso do WeakMap se não houver uma boa razão para isso. A menos que esteja ciente das limitações inerentes às chaves fracas (ou pelo menos esteja disposto a lidar com elas), provavelmente será melhor optar por outra estrutura de dados JavaScript - Map(), por exemplo.
+5) Por último, mas não menos importante: lembre-se sempre que as coisas podem mudar rapidamente no mundo da programação! Com frequência, surgem novas bibliotecas e ferramentas que podem simplificar significativamente o seu trabalho; portanto, certifique-se de manter-se atualizado sobre os últimos lançamentos e, quando possível, experimente-os para ver se podem simplificar o seu código!
+
+
+
+
+Um fio com linguagens de programação e rappers estrangeiros:
+
+TypeScript - Drake: Com ele é dinheiro garantido, possui os maiores números e inclui um alcance técnico avançado, porém traz uma bagagem de problemas familiares que precisam ser lidados por quem o utiliza.
+Python - Kanye West: Um dos mais versáteis, entrega de tudo um pouco e agrada multidões. Uns argumentam a favor de sua santidade, outros alegam sérias falhas de alicerce.
+Rust - Kendrick Lamar: Possui uma curva de aprendizado longa onde pode ser desmotivador, mas a entrega final é sólida por conta de seu ecossistema.
+Elixir - J. Cole: Uma alternativa que soube extrair o melhor de seus antepassados e entrega custo beneficio positivo a curto prazo mesmo possuindo números abaixo da média.
+F# - Eminem: Está em campo há algum tempo e alguns lhe atribuem a melhor técnica, porém possui um ecossistema caótico e atualmente nem seus próprios fãs estão o tolerando.
+C# - Machine Gun Kelly: Continua enchendo estádios com consistência mesmo precisando se reinventar de forma estrutural nos ultimos anos após superestimar sua própria habilidade.
+Shell - Nicki Minaj: Frequentemente é subestimada e consegue mostrar que é capaz de resolver qualquer tipo de desafio utilizando as formas mais criativas.
+Haskell - Rakim: Uma das referências mais citadas entre as novas gerações por sua técnica imaculada. Perdeu espaço para opções mais flexiveis mas continua sendo objeto de estudo.
+Idris - Tech N9ne: Opera desde o início de forma independente, desenvolvendo uma capacidade ímpar de resolução de problemas. Possui números baixos, mas atua em uma categoria onde números param de fazer sentido.
+OCaml - Mike Shinoda: Sempre possuiu um esquema exemplar e seu legado é evidente através de vários projetos que não levam seu nome. Hoje se estabelece sozinho e garante longevidade.
+C++ - Snoop Dogg: É um dos veteranos com carreira consolidada. Seu estilo é inconfundivel mas sua técnica vem sendo questionada e possui aparentes problemas de gerenciamento de memória.
+PHP - Dr. Dre: Traz soluções práticas para diversos problemas do dia a dia, mas recebe muita crítica por sua simplicidade e permissividade.
+Erlang - Ice Cube: Sempre foi uma aposta certeira de se investir, trazendo produtos consistentes embora com menor alcance que outras linguagens.
+SQL - Tekashi69: Sua popularidade é recente e surpreendente, gerando muito interesse ainda que esteja longe de ser uma linguagem generalista.
+Java - 2Pac: É o queridinho do mercado empresarial por conta da estabilidade oferecida pelo seu ecossistema maduro, mas nem todos estão satisfeitos com suas limitações.
+R - Cardi B: Aprendeu rapidamente e já está entregando resultados satisfatórios, porém ainda enfrenta o preconceito de quem não acredita que linguagens com foco em ciência de dados possam ser usadas para outras finalidades.
+Swift - Tyler, the Creator: Já foi considerado o futuro da programação, mas enfrentou problemas de design e compatibilidade que afetaram seu crescimento. Ainda assim é uma linguagem sólida com um grande potencial.
+Assembly - Nas: Embora não seja tão utilizada quanto outras linguagens, possui um grande legado e continua sendo indispensável para o desenvolvimento de alguns produtos.
+Visual Basic - Lil Wayne: Apesar de ser uma linguagem simples, ela consegue atender a diversos tipos de usuários e oferece um bom custo-benefício.
+FORTRAN - Corey Taylor: É uma das linguagens mais antigas e ainda é amplamente utilizada em diversos setores, especialmente na área de ciência da computação.
+LISP - T.I.: Sempre foi uma linguagem de nicho, sendo especialmente utilizada para aplicações em inteligência artificial.
+Scheme - Wu-Tang Clan: Uma das linguagens mais populares entre os programadores acadêmicos, mas que ainda enfrenta o preconceito de quem não acredita na sua capacidade de se adaptar às demandas do mercado.
+COBOL - JAY-Z: Ainda é amplamente utilizada em muitas organizações, especialmente no setor financeiro. Apesar de seus anos de existência, a linguagem continua evoluindo para atender às necessidades do mercado.
+Brainfuck - 50 Cent: Uma das linguagens mais simples, mas que ainda assim consegue ser extremamente eficiente. Possui uma grande comunidade de usuários e é amplamente utilizada em competições de programação.
+Lean - A$AP Rocky: Uma linguagem relativamente nova, mas que já está fazendo um grande impacto na indústria de software. Possui uma filosofia simplista e focada em produtividade, o que a torna extremamente atraente para muitos desenvolvedores.
+PureScript - Chance the Rapper: Uma linguagem funcional que está ganhando cada vez mais espaço entre os programadores. Oferece uma alternativa robusta e consistente para JavaScript.
+Clojure - Lil Yachty: Uma linguagem dinâmica e extremamente flexível, que está ganhando cada vez mais espaço entre os programadores.
+Ruby - Post Malone: Uma linguagem extremamente popular, especialmente entre os desenvolvedores web. Possui um grande ecossistema de bibliotecas e frameworks, o que a torna extremamente versátil.
+Lua - XXXTentacion: Apesar de ser uma linguagem simples, ela é extremamente poderosa e flexível. É amplamente utilizada em jogos e aplicações mobile devido à sua baixa footprint de memória.
+Scala - Big Sean: Uma linguagem extremamente versátil, que consegue atender tanto às necessidades de programação funcional quanto às de orientação a objetos.
+Kotlin - Childish Gambino: Uma linguagem relativamente nova, mas que já está fazendo um grande impacto na indústria de software. É compatível com Java e oferece uma alternativa robusta para aplicações mobile e web.
+Solidity - 21 Savage: Uma linguagem voltada para aplicações em blockchain, que está ganhando cada vez mais espaço entre os desenvolvedores.
+Agda - Logic: Uma linguagem de programação extremamente formal, que é utilizada principalmente para aplicações em ciência da computação.
+Dart - Lil Baby: Uma linguagem relativamente nova, mas que já está fazendo um grande impacto na indústria de software. É compatível com JavaScript e oferece uma alternativa robusta para aplicações web e mobile.
+Gleam - Meek Mill: Uma linguagem de programação extremamente versátil, que é utilizada principalmente para aplicações web.
+APL - Nipsey Hussle: Uma linguagem de programação extremamente concisa, que é utilizada principalmente para aplicações em ciência da computação.
+
+
 -----
 
 
