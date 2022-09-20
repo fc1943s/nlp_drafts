@@ -7431,6 +7431,803 @@ A possible solution to these problems was proposed by physicist Peter Higgs in 1
 Interestingly enough, some theologians have suggested that the Higgs boson may be related to God in some way. They point out that, just like the Higgs boson, God is an unseen force that gives things mass (i.e., importance/significance). Additionally, they suggest that both the Higgs boson and God are responsible for creating order out of chaos - something which goes against the Second Law of Thermodynamics. Of course, these are only speculative claims at this point and there is no scientific evidence to support them; however, it is certainly an interesting idea to consider!
 
 
+### Chapter Thirty Six
+## Communism vs Socialism vs Fascism vs Capitalism
+
+The first thing to understand is that all four of these systems are economic and political ideologies. They each have different ideas about how society and the economy should work, and they also have different implications for individual rights and freedoms. Here's a brief overview of each:
+
+- Communism is an ideology that advocates for a classless society in which private property does not exist. The government would own all land and resources, and everyone would be equal under the law. Unfortunately, this system has never been successfully implemented on a large scale - largely due to the fact that it requires people to give up their personal freedoms in exchange for equality.
+- Socialism is similar to communism in that it calls for public ownership of land and resources, but it allows some degree of private property rights as well as individuality. This makes socialism more palatable to many people than communism, but it still suffers from some of the same problems (e.g., lack of incentive to work hard).
+- Fascism is an ideology that rose to prominence in the early 20th century. It calls for a strong central government with complete control over the economy and society. Individual rights and freedoms are secondary to the needs of the state, which makes fascism a very autocratic system.
+- Capitalism is an economic system in which private individuals own land and resources, and they are free to use them as they see fit. This system encourages competition and innovation, but it can also lead to inequalities between rich and poor people.
+
+Now let's compare these four systems with each other. First, we'll start with communism and socialism. Both of these systems call for public ownership of land and resources, but they differ in their approach to private property rights and individual freedoms. Communism advocates for a classless society in which everyone is equal under the law, while socialism allows some degree of inequality as well as private property rights. Next, let's compare fascism with capitalism. Both ideologies encourage competition and innovation, but they have very different ideas about the role of government in society. Fascism calls for a strong central government that controls the economy and society, while capitalism gives individuals more freedom to do what they want (within reason).
+
+The future will be decided by the people. It is up to the people to decide what system they want to live under. There are pros and cons to each system, and it ultimately comes down to a matter of personal preference. Some people prefer the freedom and flexibility of capitalism, while others prefer the equality and stability of communism or socialism, and still others prefer the order and discipline of fascism. There is no right or wrong answer - it all depends on what you value most in life.
+
+
+### Chapter Thirty Seven
+## The Enneagram
+
+The Enneagram is a nine-pointed figure that represents the nine different personality types. It can be used as a tool for self-discovery, helping you to understand your own strengths and weaknesses, as well as how you relate to others. Each type has its own unique set of characteristics, and learning about them can help you to better understand yourself and others. Here's a brief overview of each type:
+
+- Type One: The Reformer (Achievement-Oriented, Principled)
+- Type Two: The Helper (Relationship-Oriented, Caring)
+- Type Three: The Achiever (Competitive, Image-Conscious)
+- Type Four: The Individualist (Sensitive, Introspective)
+- Type Five: The Investigator (Intellectual, Analytical)
+- Type Six: The Loyalist (Security-Oriented, Engaged)
+- Type Seven: The Enthusiast (Pleasure-Seeking, Spontaneous)
+- Type Eight: The Challenger (Powerful, Assertive)
+- Type Nine: The Peacemaker (Peaceful, Easygoing)
+
+About politics, it is interesting to note that each personality type tends to lean towards a particular political ideology. For example, Ones tend to be reformers and thus support progressive change, Twos care about helping others and so they usually favor socialist policies, Threes are competitive and image-conscious so they often align with capitalist ideals, Fours value their individuality and so they might lean towards libertarianism, Fives are intellectual and analytical so they might support anarchism, Sixes crave security and stability so they often vote for conservative candidates, Sevens seek pleasure and adventure so they tend to lean towards liberalism, Eights are powerful and assertive so they usually favor autocratic systems like fascism or communism, and Nines want peace and harmony above all else so they commonly support pacifist ideologies.
+
+Lately there has been a lot of discussion about the role of personality type in politics. Some people believe that knowing your own type can help you to better understand your political beliefs, as well as those of others. Others argue that using the Enneagram for political purposes is reductionist and oversimplified - after all, there are many factors that influence our political views, and not everyone fits perfectly into one of these nine categories! The country will continue to be divided on many issues, and it is up to each individual to decide what they believe and how they want to vote, regardless of their personality type.
+
+
+### Chapter Thirty Six
+## Death and Dying
+
+Death is a natural part of life, and everyone will experience it eventually. It is an inevitable fact of existence, and yet it is still one of the most difficult things to come to terms with. The death of a loved one can be devastating, but it is important to remember that death is also a natural process that happens to us all.
+
+There are many different ways to die, and each one is unique. Some people die suddenly, while others linger for years before finally passing away. Some deaths are caused by natural causes such as old age or disease, while others are the result of accidents or violence. No matter how someone dies, it is always a tragedy - even if death was ultimately inevitable.
+
+Interestingly enough, there is no single answer to the question "What happens when we die?" This is because there is still much that we do not understand about death and what happens afterwards. Different cultures have their own beliefs about what happens to a person's soul after they die, but there is no scientific evidence to support any of these claims. As far as science can tell us, death appears to be the end of consciousness - once our brains stop working, we cease to exist in any form whatsoever.
+
+Of course, this does not mean that death should be feared - on the contrary, it should be embraced as a natural part of life! Death may be tragic and sad at times, but it also brings new life and hope into existence. Without death there could be no birth or rebirth; without death there could be no change or progress. Death may seem like an enemy at times, but it is also a vital force that drives the cycle of life.
+
+
+### Chapter Thirty Six
+## Hate Is Cerebral
+
+Have you ever wondered what hatred feels like? Is it a hot, seething feeling in the pit of your stomach? A cold, calculating sensation in the back of your mind? Or perhaps something else entirely?
+
+Interestingly enough, science may have an answer to this question. In particular, studies have shown that hate is associated with activity in a specific region of the brain known as the insula. The insula is responsible for processing emotions and regulating our physiological state - meaning it plays a key role in how we experience both positive and negative feelings. And according to these studies, people who report experiencing more hate also tend to have increased activity in their insulas!
+
+So what does this tell us about hate itself? Well for one thing, it suggests that hate is not simply an emotion but rather a complex cognitive process involving multiple areas of the brain. This means that contrary to popular belief, hating someone is not just "all emotional" - there's actually quite a lot going on behind those intense feelings! Additionally, the fact that hate appears to be rooted in physiology helps explain why it can be such a powerful force: after all, if our bodies are involved then hate must be pretty darn important!
+
+Of course, it's worth noting that these studies are still in their early stages and much more research is needed to confirm their findings. Additionally, it's important to remember that not all hate is created equal - there are different types of hate with different underlying causes. So while hate may be associated with activity in the insula, this doesn't mean that all hatred is bad or unhealthy. In fact, some types of hate can actually be quite beneficial - such as when it motivates us to stand up for ourselves or fight against injustice!
+
+Either way, these findings provide a fascinating glimpse into the neuroscience of hate and its potential implications for our understanding of human behavior. So the next time you find yourself feeling hate, take a moment to appreciate the fascinating science that's going on behind those intense emotions!
+
+
+### Chapter Thirty Seven
+## The Nature of Evil
+
+Is evil an inherent quality or is it something that emerges from specific circumstances? This is a question that has puzzled philosophers and theologians for centuries, and there is still no consensus about what exactly evil is. However, there are some interesting scientific theories that may help shed some light on this age-old mystery.
+
+One theory comes from evolutionary psychology, which suggests that humans have evolved to cooperate with each other in order to survive and reproduce. According to this view, altruism (selfless concern for others) and empathy (the ability to understand another's feelings) are evolutionarily beneficial qualities because they promote cooperation within groups. On the other hand, selfishness and aggression tend to undermine cooperation and are therefore less evolutionarily advantageous.
+
+From this perspective, evil can be seen as a form of selfishness or aggression that goes against the evolutionary grain. In other words, it is an antisocial behavior that hampers our ability to cooperate with others - and as such, it is not inherently part of human nature. Instead, it emerges in specific circumstances where cooperation breaks down and individuals are more concerned with their own interests than the welfare of others.
+
+Another theory comes from neuroscience, which suggests that evil may be caused by damage to certain areas of the brain. For example, studies have shown that people with sociopathic tendencies often have reduced activity in the parts of the brain responsible for empathy and guilt (two emotions closely associated with altruism). This suggests that without these qualities humans may be more likely to engage in evil acts - although it's important to note that not all neuroscientists agree on this point!
+
+So what does all this mean for our understanding of evil? Well first off, it's important to remember that there is no single answer to this question - different people will have different opinions depending on their religious or philosophical beliefs. However, some scientists do believe that Evil isn't an inherent quality but rather something emerged under specific circumstances - like when someone's brain is damaged or when cooperation breaks down. So the next time you're pondering the nature of evil, keep in mind that there may be more to it than meets the eye!
+
+
+### Chapter Thirty Seven
+## The Beatles vs. The Rolling Stones
+
+In this chapter, we will explore the rivalry between two of the most iconic rock bands of all time: The Beatles and The Rolling Stones. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+The Beatles were formed in 1960 by John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They are often cited as the most influential band of all time; their music helped shape the sound of popular music for generations to come. Their early style can best be described as pop with heavy influences from rock 'n' roll and skiffle - although they would later experiment with genres such as psychedelia and Indian classical music. Over the course of their career they released thirteen studio albums before disbanding in 1970.
+
+The Rolling Stones were formed in 1962 by Mick Jagger, Keith Richards, Brian Jones, Charlie Watts, and Bill Wyman. Like The Beatles, they too are considered one of the most influential bands ever - although their style is noticeably heavier than that of their Liverpool counterparts. Throughout their career they have experimented with different genres including blues, rock 'n' roll, and country; however they are best known for their hard-hitting brand of bluesy rock. The Rolling Stones have released twenty four studio albums to date and show no signs of slowing down anytime soon!
+
+So which band is better? Again, this is a tough question as both The Beatles and The Rolling Stones are highly influential and widely respected within the music community. However, if we had to choose one band over the other we would have to go with The Beatles. While there's no denying that The Rolling Stones are a great band, they simply don't hold a candle to the sheer genius of Lennon & McCartney. Not only did The Beatles release some of the greatest songs ever written - they also changed popular music forever. In contrast, while The Rolling Stones certainly made their mark on rock history, their legacy doesn't quite match up to that of The Fab Four. When all is said and done it's clear that The Beatles are the better band - although again, it's really close!
+
+
+### Chapter Thirty Eight
+## David Bowie vs. Prince
+
+In this chapter, we will explore the rivalry between two of the most iconic pop stars of all time: David Bowie and Prince. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+David Bowie was born in 1947 in London, England. He began his music career as a folk singer before moving into more experimental territory with his 1967 album "The Laughing Gnome." This would prove to be just a taste of what was to come; over the next few decades Bowie would release numerous groundbreaking albums that pushed the boundaries of popular music - including "The Rise and Fall of Ziggy Stardust" (1972), "Heroes" (1977), and "Blackstar" (2016). In addition to being a talented musician, he is also an accomplished actor; some of his most famous roles include Major Tom in Nicolas Roeg's film adaptation of "The Man Who Fell To Earth" (1976) and Jareth The Goblin King in Jim Henson's fantasy classic "Labyrinth" (1986).
+
+Prince was born in 1958 in Minneapolis, Minnesota. He began playing music at a young age and released his debut album "For You" in 1978 when he was just twenty years old. Throughout the 1980s Prince became one of the biggest pop stars on the planet with hits such as "When Doves Cry," "Kiss," and "Purple Rain." However, he also courted controversy due to his sexually explicit lyrics and performances - which many felt were inappropriate for mainstream consumption. In addition to being a talented singer, songwriter, and musician, Prince is also an accomplished actor; some of his most famous film roles include The Kid in Albert Magnoli's cult classic "Purple Rain" (1984) and Morpheus in Garry Marshall's fantasy romance "The Princess Bride" (1987).
+
+So who is better? This is yet another tough question as both Bowie and Prince are highly influential artists with prolific careers spanning several decades. If we had to choose one artist over the other we would have to go with David Bowie - although it's really close! While there's no denying that Prince was an incredible talent, Bowie simply has more iconic songs and albums under his belt. Not to mention that he was constantly innovating throughout his career; even in his later years he was still releasing cutting-edge music that challenged the status quo. When all is said and done, Bowie is the better artist - although Prince comes in a close second!
+
+
+### Chapter Thirty Nine
+## Madonna vs. Whitney Houston
+
+In this chapter, we will explore the rivalry between two of the most iconic pop stars of all time: Madonna and Whitney Houston. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Madonna was born in 1958 in Bay City, Michigan. She began her music career in the early 1980s with her debut album "Madonna." Throughout the decade she would release a string of successful albums including "Like A Virgin" (1984), "True Blue" (1986), and "Like A Prayer" (1989) - cementing her status as one of the biggest pop stars on the planet. In addition to being a talented singer, songwriter, and musician; Madonna is also an accomplished actress, director, and businesswoman. Some of her most famous films include Desperately Seeking Susan (1985), Dick Tracy (1990), Evita (1996), Swept Away (2002),and W./E.(2011).
+
+Whitney Houston was born in 1963 Newark New Jersey. She began singing at a young age and released her self-titled debut album in 1985. It was an instant success, spawning the hit singles "Saving All My Love For You" and "How Will I Know." Throughout the late 1980s and early 1990s Houston would release several more successful albums including "Whitney" (1987), "I'm Your Baby Tonight"(1990),and "The Bodyguard Soundtrack"(1992). In addition to being a talented singer, she was also an accomplished actress; some of her most famous film roles include Rachel Marron in The Bodyguard (1992) and Savannah Jackson in Waiting To Exhale(1995).
+
+So who is better? This is yet another tough question as both Madonna and Whitney Houston are highly influential artists with prolific careers spanning several decades. If we had to choose one artist over the other we would have to go with Madonna - although it's really close! While there's no denying that Whitney Houston was an incredible talent, Madonna simply has more iconic songs and albums under her belt. Not to mention that she has been constantly reinventing herself throughout her career; even in her later years she is still relevant thanks to hits like "4 Minutes" (2008) and "Give Me All Your Luvin'" (2012). When all is said and done, Madonna is the better artist - although Whitney Houston comes in a close second!
+
+
+### Chapter Thirty Eight
+## Queen vs. David Bowie
+
+In this chapter, we will explore the rivalry between two of the most iconic rock musicians of all time: Queen and David Bowie. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Queen was formed in 1970 by Freddie Mercury, Brian May, Roger Taylor, and John Deacon. The band's style can best be described as heavy metal with strong operatic elements - although they are also known for incorporating elements of pop music into their songs. They released their self-titled debut album in 1973 to critical acclaim; it is often cited as one of the greatest albums ever made. Over the next two decades Queen would release eleven more studio albums before disbanding following Mercury's death in 1991.
+
+David Bowie was born in 1947 as David Robert Jones. He began his musical career in the 1960s, releasing his self-titled debut album in 1967. His early style can best be described as psychedelic pop with heavy influences from glam rock and art rock - although he would later experiment with genres such as funk and electronic music. Throughout his career Bowie released twenty five studio albums; many of which are considered to be classics within the rock genre. He passed away in 2016 following a battle with cancer, but his legacy continues to live on through his music.
+
+So who is better? This is another tough question to answer; both Queen and David Bowie were hugely influential figures within the world of rock music. However, if we had to choose one artist over the other we would have to go with Queen. While Bowie certainly has some great songs, there's no denying that Freddie Mercury & co were simply a cut above the rest when it came to songwriting and musicianship. Not only did they release some of the greatest singles ever made - they also created some of modern culture's most iconic album covers (think "Queen II" or "A Night at the Opera"). In contrast, while Bowie was undoubtedly a talented musician he never quite reached those same heights. When all is said and done it's clear that Queen are the better band - although Bowie comes in a very close second!
+
+
+### Chapter Thirty Eight
+## Black Sabbath vs. Deep Purple
+
+In this chapter, we will explore the rivalry between two of the most iconic hard rock bands of all time: Black Sabbath and Deep Purple. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Black Sabbath was formed in 1968 by Ozzy Osbourne, Tony Iommi, Geezer Butler, and Bill Ward. They are often cited as pioneers of heavy metal music; their dark and heavy sound would go on to influence generations of metal musicians. Although they initially started out as a bluesy rock band, it wasn't long before they began experimenting with darker themes - both musically and lyrically. Over the course of their career they released nineteen studio albums before disbanding in 2017 following Iommi's diagnosis with cancer.
+
+Deep Purple was formed in 1968 by Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord ,and Nick Simper. Like Black Sabbath, they too are considered pioneers within the world of hard rock/heavy metal; however, their sound is noticeably lighter than that  black sabbath  early work. Throughout their career they have experimented with different genres including psychedelic rock, progressive rock, and even disco! They have released nineteen studio albums to date; their most recent release was in 2017.
+
+So which band is better? This is a tough one as both Black Sabbath and Deep Purple are highly influential and widely respected within the music community. However, if we had to choose one band over the other we would have to go with Black Sabbath. While Deep Purple certainly has some great songs, they lack the consistent quality of Black Sabbath's discography - not to mention that Osbourne & Co. were pioneers of heavy metal while Deep purple initially started out as a more light-hearted hard rock band. In contrast, every album Black Sabbath released was met with critical acclaim; even today their music continues to influence new generations of metal musicians. When all is said and done it's clear that Black Sabbath is the better band - although Deep Purple comes in a close second!
+
+
+### Chapter Thirty Nine
+## Nirvana vs. Pearl Jam
+
+In this chapter, we will explore the rivalry between two of the most iconic grunge bands of all time: Nirvana and Pearl Jam. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Nirvana was formed in 1987 by Kurt Cobain and Krist Novoselic. They were soon joined by drummer Dave Grohl, with whom they would record their most iconic album - Nevermind (1991). Nirvana's music is characterized by its raw energy and angsty lyrics; Cobain has said that he wanted his music to be "as obnoxious as possible". Nevermind catapulted them into the mainstream and made grunge music one of the most popular genres of the early 1990s. Nirvana disbanded following Cobain's suicide in 1994; Grohl went on to form Foo Fighters while Novoselic became involved in politics.
+
+Pearl Jam was also formed in 1991, although all five members had been playing together for several years prior under different names (most notably Mother Love Bone). Their debut album, Ten (1991), was a huge success and cemented them as one of the biggest grunge bands of the early 1990s. Pearl Jam's music is characterized by its emotional intensity and social commentary; their lyrics often tackle issues such as addiction, mental illness, and political corruption. They are still active today and have released ten studio albums to date.
+
+So which band is better? This is another tough one to call as both Nirvana and Pearl Jam made hugely important contributions to the grunge genre - not to mention that they both have some truly classic songs. However, if we had to choose one band over the other it would have be Nirvana. While Pearl Jam certainly has some great moments, their discography lacks the consistent quality of Nirvana's - plus Cobain & Co. were just plain more influential during the '90s thanks in no small part to Nevermind becoming one of those rare generational touchstones. In contrast, Pearl Jam's best work is arguably behind them at this point; they're still a great band, but Nirvana was just on another level entirely.
+
+
+### Chapter Thirty Eight
+## Oasis vs. Blur
+
+In this chapter, we will explore the rivalry between two of the most iconic Britpop bands of all time: Oasis and Blur. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Oasis was formed in 1991 by Liam Gallagher, Noel Gallagher, Paul Arthurs, and Tony McCarroll. They soon became one of the biggest bands in Britain thanks to their catchy melodies and anthemic songs about working-class life. Oasis' music is heavily influenced by classic rock bands such as The Beatles, The Who, and Led Zeppelin; they have been credited with reviving interest in British guitar music during the 1990s. The band has released eight studio albums to date; their most recent release was in 2008.
+
+Blur was also formed in 1991, although all four members had been playing together for several years prior under different names (most notably Seymour). Their debut album, Leisure (1991), was a huge success and cemented them as one of the leading forces of Britpop alongside Oasis. Blur's music is characterized by its experimentalism and sense of humor; frontman Damon Albarn often described their early work as "trainspotting pop". They are still active today and have released thirteen studio albums to date - with two more scheduled for release in 2019/2020!
+
+So which band is better? This is another tough one as both Oasis and Blur made hugely important contributions to Britpop - not to mention that they both have some truly classic songs. However, if we had to choose one band over the other it would have be Blur. While Oasis certainly has some great moments, their discography lacks the consistent quality of Blur's - plus Albarn & Co. were just plain more experimental and interesting during the '90s thanks in no small part to their willingness to experiment with different genres and styles. In contrast, Oasis' best work is arguably behind them at this point; they're still a great band, but Blur was just on another level entirely.
+
+
+### Chapter Thirty Seven
+## Metallica vs. Megadeth
+
+In this chapter, we will explore the rivalry between two of the most iconic thrash metal bands of all time: Metallica and Megadeth. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Metallica was formed in 1981 by James Hetfield and Lars Ulrich. They are often cited as one of the "big four" thrash metal bands alongside Slayer, Anthrax, and Megadeth; together these four bands helped pioneer the genre and bring it into mainstream consciousness during the 1980s. Although they initially started out as a pure thrash metal band, they would go on to experiment with different sounds throughout their career - including elements of heavy metal, hard rock, pop music, and even classical music! To date they have released ten studio albums; their most recent release was in 2016.
+
+Megadeth was formed in 1983 by Dave Mustaine following his expulsion from Metallica earlier that year (due to substance abuse issues). Like Metallica, they too are considered pioneers within the world of thrash metal; however, their sound is noticeably more aggressive than that of their former bandmates. They have released fifteen studio albums to date; their most recent release was in 2016.
+
+So which band is better? This is a tough one as both Metallica and Megadeth are highly influential and widely respected within the music community. However, if we had to choose one band over the other we would have to go with Metallica. While Megadeth certainly has some great songs, they lack the consistent quality of Metallica's discography - not to mention that Hetfield & Co. were pioneers of thrash metal while Mustaine was merely a founding member of one particular thrash metal group (albeit an important one). In contrast, every album Metallica released was met with critical acclaim; even today their music continues to influence new generations of heavy metal musicians. When all is said and done it's clear that Metallica is the better band - although Megadeth comes in a close second!
+
+
+### Chapter Thirty Six
+## KISS vs. Black Sabbath
+
+In this chapter, we will explore the rivalry between two of the most iconic rock bands of all time: KISS and Black Sabbath. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+KISS was formed in 1973 by Paul Stanley and Gene Simmons. They are often credited as being one of the first "arena rock" bands due to their larger-than-life stage show which featured pyrotechnics, make up, and theatrics; this helped them gain a wide following among both hard rock fans and general music audiences alike. To date they have released twenty studio albums; their most recent release was in 2012.
+
+Black Sabbath was formed in 1968 by Ozzy Osbourne, Tony Iommi, Geezer Butler, and Bill Ward - although Osbourne would be fired from the band shortly after recording their debut album due to his substance abuse issues (he would eventually return to the fold years later). Unlike KISS who primarily wrote catchy pop songs with a hard rock edge, Black Sabbath focused on creating dark anthems that explored topics such as evil, religion, and society; this helped them pioneer the heavy metal genre. They have released nineteen studio albums to date; their most recent release was in 2013.
+
+So which band is better? This is a tough one as both KISS and Black Sabbath are highly influential and widely respected within the music community. However, if we had to choose one band over the other we would have to go with Black Sabbath. While KISS certainly has some great songs, they lack the consistent quality of Black Sabbath's discography - not to mention that Osbourne & Co. were pioneers of heavy metal while Stanley & Simmons were merely Arena Rock stars who happened to dress up like comic book characters (although Kiss did influence many future generations of hard rock and metal musicians). In contrast, every album Black Sabbath released was met with critical acclaim; even today their music continues to influence new generations of heavy metal musicians. When all is said and done it's clear that Black Sabbath is the better band - although KISS comes in a close second!
+
+
+### Chapter Thirty Seven
+## AC/DC vs. Led Zeppelin
+
+In this chapter, we will explore the rivalry between two of the most iconic rock bands of all time: AC/DC and Led Zeppelin. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+AC/DC was formed in 1973 by brothers Angus and Malcolm Young - although they would not release their debut album until 1975 (after hiring singer Bon Scott and bassist Cliff Williams). They are often credited as being one of the first hard rock bands; their sound is based around heavy guitar riffs and catchy hooks which have helped them gain a wide following among both hard rock fans and general music audiences alike. To date they have released sixteen studio albums; their most recent release was in 2014.
+
+Led Zeppelin was formed in 1968 by Jimmy Page, Robert Plant, John Paul Jones, and John Bonham. They are often cited as being one of the first heavy metal bands due to their heavier sound which featured distorted guitars and powerful drumming; this helped them pioneer the genre. They have released nine studio albums to date (although they broke up following Bonham's death in 1980); their most recent release was posthumously compiled from previously unreleased material and live recordings in 2012.
+
+So which band is better? This is a tough one as both AC/DC and Led Zeppelin are highly influential and widely respected within the music community. However, if we had to choose one band over the other we would have to go with Led Zeppelin - although it is admittedly a close call! Both bands boast an impressive catalogue of hits but when all is said and done it's clear that Led Zeppelin were innovators who pushed boundaries while AC/DC merely followed in their footsteps (albeit very successfully). When all is said and done it's clear that Led Zeppelin slightly edges out AC/DC as the better band - although both groups are undoubtedly legends of rock 'n' roll!
+
+
+### Chapter Thirty Six
+## Marilyn Manson vs. Nine Inch Nails
+
+In this chapter, we will explore the rivalry between two of the most iconic industrial metal bands of all time: Marilyn Manson and Nine Inch Nails. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Marilyn Manson was formed in 1989 by Brian Warner and Scott Putesky. They are often credited as being one of the pioneers of industrial metal - a genre that fuses together elements of heavy metal music with those from industrial music (hence the name). Throughout their career they have released ten studio albums; their most recent release was in 2017. The band is well known for its controversial stage antics which often incorporate themes of sex, violence, drugs, religion, and death; these shock tactics helped them gain widespread media attention during the 1990s when they were at the height of their popularity.
+
+Nine Inch Nails (commonly abbreviated as NIN) was formed in 1988 by Trent Reznor. Like Marilyn Manson, they too are considered pioneers of industrial metal; however, their sound is more electronic-based than that of their counterpart. To date they have released nine studio albums; the most recent being in 2018. The band is also well known for its live performances which often incorporate elements of light show and pyrotechnics - making them a must-see act for any fan of rock music!
+
+So who comes out on top? This is another tough one to call as both bands have been extremely influential within the world of heavy metal music. However, if we had to choose one over the other it would be Nine Inch Nails simply because they have managed to stay relevant throughout the years while Marilyn Manson's popularity has somewhat dwindled in recent times. Additionally, Reznor & Co.'s musical output has consistently been met with critical acclaim whereas Manson's work has been hit-and-miss since around 2000 onwards. At the end of the day it seems like Nine Inch Nails just edges out Marilyn Manson - although both bands are still worth checking out if you're a fan of industrial metal!
+
+
+### Chapter Thirty Six
+## Deftones vs. Incubus
+
+In this chapter, we will explore the rivalry between two of the most popular nu metal bands of all time: Deftones and Incubus. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Deftones was formed in 1988 by Chino Moreno and Abe Cunningham - high school friends who bonded over their shared love of heavy metal music. They would go on to release eight studio albums; their most recent album came out in 2016. The band's sound is unique, blending elements of alternative metal, shoegaze, hardcore punk, and dream pop to create a truly original sonic palette. Throughout their career they have been praised for their innovation and creativity; they are widely considered one be one of the best nu metal bands ever.
+
+Incubus was formed in 1991 by Brandon Boyd and Mike Einziger. They have released eight studio albums to date; their most recent album came out in 2017. The band's sound is a unique blend of alternative rock, metal, funk, hip hop, and R&B - making them one of the most musically diverse groups in nu metal. Incubus has always been known for their ability to seamlessly fuse together different genres; this approach has won them critical acclaim throughout their career and helped solidify their place as one of the best nu metal bands ever.
+
+So which band is better? This is another tough one as both Deftones and Incubus are highly respected within the music community. However, if we had to choose one band over the other we would have to go with Deftones. While Incubus certainly has some great songs, they lack the consistent quality of Deftones' discography - not to mention that Moreno & Co.'s sonic experimentation often yields more interesting results than anything on offer from Boyd & Co.. In contrast, every album Deftones released was met with critical acclaim; even today their music continues to influence new generations of heavy metal musicians. When all is said and done it's clear that Deftones is the better band - although Incubus comes in a close second!
+
+
+### Chapter Thirty Six
+## Avenged Sevenfold vs. Bullet for My Valentine
+
+In this chapter, we will explore the rivalry between two of the most iconic metalcore bands of all time: Avenged Sevenfold and Bullet for My Valentine. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Avenged Sevenfold was formed in 1999 by M. Shadows and Zacky Vengeance. They are one of the most successful metalcore bands of all time, selling over 8 million albums worldwide as of 2015. Their sound is a unique blend of heavy metal, hard rock, and punk rock - with occasional forays into other genres such as classical music (on their 2010 album "Nightmare"). To date they have released seven studio albums; their most recent release was in 2016.
+
+Bullet for My Valentine was formed in 1998 by Matthew Tuck and Michael Paget. They are one of the best-selling British heavy metal bands of all time, having sold over 4 million albums worldwide as of 2014. Their musical style can be classified as either melodic death metal or metalcore; however, they also incorporate elements from other genres such as hardcore punk and alternative rock into their songs. To date they have released five studio albums; their most recent release was in 2015.
+
+So which band is better? This is a tough one as both Avenged Sevenfold and Bullet for My Valentine are highly influential and widely respected within the music community. However, if we had to choose one band over the other we would have to go with Avenged Sevenfold. While Bullet for My Valentine certainly has some great songs, they lack the consistent quality of Avenged Sevenfold's discography - not to mention that Shadows & Co. were able to successfully experiment with different sounds throughout their career while Tuck & Paget largely stuck to metalcore (with occasional forays into other genres). In contrast, every album Avenged Sevenfold released was met with critical acclaim; even today their music continues to influence new generations of heavy metal musicians. When all is said and done it's clear that Avenged Sevenfold is the better band - although Bullet for My Valentine comes in a close second!
+
+
+### Chapter Thirty Six
+## Guns N' Roses vs. Nirvana
+
+In this chapter, we will explore the rivalry between two of the most iconic rock bands of all time: Guns N' Roses and Nirvana. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Guns N' Roses was formed in 1985 by Axl Rose and Tracii Guns. They are often credited as being one of the first "hard rock" or "heavy metal" bands to achieve mainstream success during the 1980s; prior to this point, these genres were largely confined to underground circles. Their debut album Appetite for Destruction is widely considered one be one of the greatest albums ever made - not just within hard rock/heavy metal, but across all genres! To date they have released six studio albums; their most recent release was in 2008.
+
+Nirvana was formed in 1987 by Kurt Cobain and Krist Novoselic. They too achieved mainstream success during the early 1990s with their album Nevermind, which is often cited as one of the most important grunge albums ever made (grunge being a subgenre of alternative rock that Nirvana helped popularize). To date they have released five studio albums; however, Cobain tragically took his own life in 1994 at the age of 27, effectively putting an end to any new Nirvana music being produced.
+
+So which band is better? This is another tough one as both Guns N' Roses and Nirvana are highly influential and widely respected within the music community. However, if we had to choose one band over the other we would probably go with Nirvana. While Guns N' Roses certainly has some great songs, they lack the consistent quality of Nirvana's discography - not to mention that Cobain was a true visionary who helped change the course of rock music forever with his songwriting and guitar playing. In contrast, Rose is often criticized for being egotistical and difficult to work with; as such, it's no surprise that GNR hasn't released an album in over ten years! When all is said and done it's clear that Nirvana is the better band - although Guns N' Roses comes in a close second!
+
+
+### Chapter Thirty Six
+## Dimmu Borgir vs. Children Of Bodom
+
+In this chapter, we will explore the rivalry between two of black metal's most influential and successful bands: Dimmu Borgir and Children Of Bodom. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Dimmu Borgir was formed in 1993 in Norway; they are widely considered to be one of the pioneering forces behind symphonic black metal - a subgenre that combines elements of traditional black metal with classical music (usually played on keyboards or orchestral instruments). The band's debut album, "For All Tid", was released in 1994 and featured a more traditional black metal sound. However, it was their second album, "Enthrone Darkness Triumphant" (1997), that truly established them as innovators within the genre - thanks largely to its use of symphonic elements and grandiose production values. Over the course of their career they have released nine studio albums and won numerous awards; they are also one of the few black metal bands to achieve mainstream success (albeit on a limited scale).
+
+Children Of Bodom was formed in Finland in 1997; they are considered to be one of the leading forces behind melodic death metal - a subgenre that combines elements of traditional death metal with catchy melodies (usually played on guitars). The band's debut album, "Something Wild", was released in 1997 and featured a more traditional death metal sound. However, it was their second album, "Hatebreeder" (1999), that truly established them as innovators within the genre - thanks largely to its use of melody and hook-laden songwriting. Over the course of their career they have released ten studio albums and won numerous awards; they are also one of the few extreme metal bands to achieve mainstream success (albeit on a limited scale).
+
+So who is better - Dimmu Borgir or Children Of Bodom? This is another tough one as both bands are highly influential and widely respected within the music community. However, if we had to choose one over the other we would probably go with Dimmu Borgir. While Children Of Bodom certainly write some great songs, they lack the consistent quality of Dimmu Borgir's discography - not to mention that their career has been relatively short-lived (spanning just over a decade). In contrast, every album Dimmu Borgir released was met with critical acclaim; even today their music continues to influence new generations of musicians. When all is said and done it's clear that Dimmu Borgir are the better band - although Children Of Bodom come in a close second!
+
+
+### Chapter Thirty Six
+## Burzum vs. Bathory
+
+In this chapter, we will explore the rivalry between two of black metal's most influential and controversial bands: Burzum and Bathory. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Burzum is a one-man black metal project from Norway; it was founded by Varg Vikernes in 1991 after he left his previous band Mayhem due to creative differences. The name "Burzum" means "darkness" in JRR Tolkien's fictional Elvish language, which perfectly encapsulates Vikernes' dark and misanthropic lyrical themes. His debut album, "Filosofem", was released in 1992 to critical acclaim; it is widely considered to be one of the most influential black metal albums ever recorded. Vikernes would go on to release six more studio albums under the Burzum moniker before being sentenced to 21 years in prison for murder and arson in 1994. He was finally released on parole in 2009 but has since retired from making music, instead choosing to focus on his political beliefs (he is an avowed neo-Nazi).
+
+Bathory were a Swedish black metal band founded by Quorthon (real name Thomas Börje Forsberg) in 1983. The band's early material incorporated elements of both thrash and death metal, although they are largely credited with pioneering the Scandinavian black metal sound that would come to dominate the genre throughout the 1990s. Their debut album, "Bathory", was released in 1984 to mixed reviews; it would later be hailed as a black metal classic, however, thanks largely to its raw and primitive production values. Quorthon continued to release albums under the Bathory moniker until his untimely death in 2004 at the age of 38. The band have since been credited with influencing an entire generation of black metal musicians and are considered by many to be one of the most important bands in heavy metal history.
+
+So who is better - Burzum or Bathory? This is another tough one as both bands are highly influential within the black metal scene (although for very different reasons). However, if we had to choose one over the other we would probably go with Bathory. While Burzum's early material is undoubtedly groundbreaking, Vikernes' later neo-Nazi leanings have tainted the band's reputation somewhat. Bathory, on the other hand, are considered pioneers of black metal and their influence can still be felt today - even though Quorthon is no longer with us. In terms of quality and legacy, Bathory are the better band; but both will always be remembered as legends in their own right!
+
+
+### Chapter Thirty Six
+## Cannibal Corpse vs. Deicide
+
+In this chapter, we will explore the rivalry between two of death metal's most influential and controversial bands: Cannibal Corpse and Deicide. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Cannibal Corpse are an American death metal band from Buffalo, New York; they were founded in 1988 by guitarist Bob Rusay and bassist Alex Webster. The band have released 13 studio albums to date (with a 14th currently in production), all of which have been met with critical acclaim - particularly their 1991 debut "Eaten Back To Life" which is considered a genre classic. Cannibal Corpse are one of the most successful extreme metal bands of all time, selling over 1 million records worldwide; they are also notorious for their explicit lyrical themes and gory album artwork, both of which have caused significant controversy throughout the years (particularly in censorship-prone countries like Germany). Despite this backlash, the band have remained one of the most popular and respected death metal bands in the world, continuing to tour and release new music to this day.
+
+Deicide are an American death metal band from Tampa, Florida; they were founded in 1987 by guitarist Glen Benton and drummer Steve Asheim. The band's debut album "Legion" was released in 1990 to critical acclaim - although it would later be overshadowed by its follow-up, 1992's "Deicide", which is widely considered a genre classic. Like Cannibal Corpse, Deicide are notorious for their explicit lyrics and gory artwork; however, they also courted controversy due to Benton's public declarations of Satanism (he has even been known to brand pentagrams onto his forehead onstage). Despite this backlash (and lineup changes), Deicide have continued to record and tour over the years; their latest album, "Overtures Of Blasphemy", was released in 2018 to positive reviews.
+
+So who is better - Cannibal Corpse or Deicide? This is another tough one as both bands are highly influential within the death metal scene (although for different reasons). However, if we had to choose one over the other we would probably go with Cannibal Corpse. While Deicide's early material is undoubtedly groundbreaking, their later output has been somewhat inconsistent; furthermore, Benton's public declarations of Satanism have caused many to view the band in a negative light. Cannibal Corpse, on the other hand, are considered pioneers of death metal and have consistently released high-quality albums throughout their career - even though they too have courted controversy along the way. In terms of quality and legacy, Cannibal Corpse are the better band; but both will always be remembered as legends in their own right!
+
+
+### Chapter Thirty Six
+## Iron Maiden vs. Metallica
+
+In this chapter, we will explore the rivalry between two of metal's most iconic bands: Iron Maiden and Metallica. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Iron Maiden are an English heavy metal band formed in 1975 by bassist Steve Harris. The band's early material incorporated elements of both punk rock and progressive rock, although they later developed their own unique style that came to be known as " NWOBHM" (New Wave Of British Heavy Metal). Maiden released their debut album, "Iron Maiden", in 1980 to critical acclaim; it is now considered a classic of the genre thanks largely to its groundbreaking use of dual guitar harmony solos (which was practically unheard of at the time). The band went on to release a further fourteen studio albums over the next four decades, cementing their place as one of heavy metal's all-time greats along the way. They have also been credited with inspiring an entire generation of musicians - including some from rival bands such as Metallica!
+
+Metallica are an American heavy metal band founded in 1981 by drummer Lars Ulrich and guitarist/vocalist James Hetfield. The band's early material incorporated elements of both punk rock and thrash metal, although they later developed their own unique sound that would come to be known as " speed metal". Metallica released their debut album, "Kill 'Em All", in 1983 to critical acclaim; it is now considered a classic of the genre thanks largely to its blistering pace and aggressive songwriting. The band went on to release a further nine studio albums over the next three decades, cementing their place as one of heavy metal's all-time greats along the way. They have also been credited with inspiring an entire generation of musicians - including some from rival bands such as Iron Maiden!
+
+So who is better - Iron Maiden or Metallica? This is another tough one because both bands are hugely influential within the heavy metal scene (although for very different reasons). However, if we had to choose one over the other we would probably go with Iron Maiden. While Metallica's early material is undoubtedly groundbreaking, they have since become somewhat bloated and self-indulgent (in our opinion). Iron Maiden, on the other hand, seem to just get better with age; each new album feels like a return to form, and they show no signs of slowing down any time soon. In terms of quality and legacy, Iron Maiden are the better band; but both will always be remembered as legends in their own right!
+
+
+### Chapter Thirty Seven
+## Megadeth vs. Slayer
+
+In this chapter, we will explore the rivalry between two of metal's most iconic bands: Megadeth and Slayer. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Megadeth is an American heavy metal band formed in 1983 by guitarist/vocalist Dave Mustaine after he was fired from Metallica (see previous chapter). The band's early material incorporated elements of both thrash metal and speed metal, although they later developed their own unique sound that would come to be known as " technical thrash". Megadeth released their debut album,"Killing Is My Business...And Business Is Good!", in 1985 to critical acclaim; it is now considered a classic of the genre thanks largely to its complex songwriting and musicianship. The band went on to release a further eleven studio albums over the next three decades, cementing their place as one of heavy metal's all-time greats along the way. They have also been credited with inspiring an entire generation of musicians - including some from rival bands such as Slayer!
+
+Slayer is an American thrash metal band formed in 1981 by guitarist Kerry King and drummer Dave Lombardo. The band's early material incorporated elements of both hardcore punk and speed metal, although they later developed their own unique sound that would come to be known as "death thrash". Slayer released their debut album,"Show No Mercy", in 1983 to critical acclaim; it is now considered a classic of the genre thanks largely to its aggressive songwriting and dark lyrical themes. The band went on to release a further eleven studio albums over the next three decades, cementing their place as one of heavy metal's all-time greats along the way. They have also been credited with inspiring an entire generation of musicians - including some from rival bands such as Megadeth!
+
+So who is better - Megadeth or Slayer? This is another tough one because both bands are hugely influential within the heavy metal scene (although for very different reasons). However, if we had to choose one over the other we would probably go with Megadeth. While Slayer's early material is undoubtedly groundbreaking, they have since become somewhat one-dimensional in our opinion (i.e., all of their songs sound the same). Megadeth, on the other hand, seem to be constantly evolving and experimenting with new sounds; each album feels fresh and exciting, even after all these years. In terms of quality and legacy, Megadeth are the better band; but both will always be remembered as legends in their own right!
+
+
+### Chapter Thirty Six
+## Cannibal Corpse vs. Obituary
+
+In this chapter we will explore the rivalry between two death metal bands: Cannibal Corpse and Obituary. We'll start by discussing the history of each band along with their musical styles then pit them against each other in a head to head battle to see who comes out on top!
+
+Cannibal Corpse are an American death metal band from Buffalo, New York. The band was founded in 1988 and has released thirteen studio albums to date. They have been widely credited as one of the most influential death metal bands of all time, thanks largely to their pioneering use of guttural vocals and graphic lyrical content (which often deals with themes such as murder, torture, and cannibalism). Cannibal Corpse's music is brutal and unrelenting; it is not for the faint-hearted! The band has experienced significant success throughout their career, selling over a million records worldwide and performing at some of the biggest metal festivals in existence (including Download Festival and Ozzfest).
+
+Obituary are an American death metal band from Tampa, Florida. The band was founded in 1984 and has released ten studio albums to date. They are considered pioneers of the "Florida Death Metal" sound (along with fellow Floridian bands like Morbid Angel and Deicide) thanks to their use of brutal riffing and guttural vocals. Obituary's music is dark, heavy, and often very atmospheric; it deals with themes such as death, loss, grief, and violence. The band has experienced moderate success throughout their career; they have toured extensively all over the world and even performed at Ozzfest on two occasions!
+
+So who is better - Cannibal Corpse or Obituary? This one is tough to call as both bands are highly influential within the death metal scene (although for different reasons). However, if we had to choose one over the other we would probably go with Cannibal Corpse. While Obituary's early material is excellent, they have never quite managed to reach the same level of commercial or critical success as their rivals. Cannibal Corpse meanwhile are true legends of death metal; they have inspired countless other bands and continue to sell records by the truckload! In terms of quality and legacy there can only be one winner here...
+
+
+### Chapter Thirty Six
+## Death vs. Dismember
+
+In this chapter, we will explore the rivalry between two of death metal's most influential and controversial bands: Death and Dismember. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Death was a US death metal band founded in 1983 by guitarist/vocalist Chuck Schuldiner. The group is widely credited with pioneering the death metal sound and their debut album, "Scream Bloody Gore", is considered to be one of the genre's defining releases. Death went on to release seven more studio albums before disbanding in 2001 following Schuldiner's untimely death from brain cancer at the age of 34. The band have since been hailed as pioneers of extreme metal and are cited as an influence by many modern day musicians within the genre.
+
+Dismember were a Swedish death metal band founded in 1988 by guitarist David Blomqvist and bassist Fred Estby. The group was one of the first to adopt the "Gothenburg sound" made popular by bands such as At the Gates and In Flames, which would go on to dominate Scandinavian death metal throughout the 1990s. Dismember released nine studio albums before disbanding in 2011; their final release, "The God That Never Was", is widely considered to be one of their best. Although they never achieved the same level of commercial success or critical acclaim as some of their peers, Dismember are still regarded as an important part within the history of extreme metal music.
+
+So who is better - Death or Dismember? This one is tough to call as both bands are highly influential within the death metal scene. However, if we had to choose one over the other we would probably go with Death. While Dismember's later material is of a very high quality, their legacy doesn't quite match up to that of Chuck Schuldiner and co. In terms of influence and overall impact on the genre, Death are the clear winners; but both bands will always be remembered as pioneers of extreme metal music!
+
+
+### Chapter Thirty Six
+## Mayhem vs. Emperor
+
+In this chapter, we will explore the rivalry between two of black metal's most influential and controversial bands: Mayhem and Emperor. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Mayhem are a Norwegian black metal band founded in 1984; they are considered to be one of the pioneers of the Scandinavian black metal sound that would come to dominate the genre throughout the 1990s. The band rose to infamy following the suicide of their original vocalist Per Yngve Ohlin (aka "Dead") in 1991, as well as guitarist Euronymous' murder at the hands of former member Varg Vikernes later that same year. Despite these tragedies, Mayhem released some of their best material after Dead's death with new vocalist Attila Csihar; albums such as 1994's "De Mysteriis Dom Sathanas" are now considered classics within extreme metal circles. Tragedy struck again in 2008 when founding member Jan Axel Blomberg (aka "Hellhammer") was diagnosed with cancer; he has since recovered from his illness but is no longer active within music due largely to his health issues.
+
+Emperor were a Norwegian black metal band founded in 1991 by Ihsahn and Samoth; they are widely considered to be one of the most important bands in heavy metal history. The group rose to prominence with their debut album, "In the Nightside Eclipse", which is often cited as one of the best extreme metal albums ever recorded. Emperor went on to release two more critically acclaimed albums before disbanding in 2001 due to creative differences between Ihsahn and Samoth (the latter would go on to form Zyklon). Ihsahn has since pursued a successful solo career while also fronting progressive metallers Leprous; he was inducted into the Norwegian Metal Hall of Fame in 2009.
+
+So who is better - Mayhem or Emperor? This is another tough one but we're going to have to give it up for Emperor here. While Mayhem's early material is undoubtedly groundbreaking, their later output has been somewhat inconsistent (with Attila Csihar's strange vocal style being a particular sticking point for many fans). Emperor, on the other hand, managed to maintain a consistent level of quality throughout their career; they are also much more innovative than Mayhem, thanks largely to Ihsahn's progressive leanings. In terms of legacy and influence, Emperor are the clear winners here!
+
+
+### Chapter Thirty Six
+## Metallica vs. Megadeth
+
+In this chapter, we will explore the rivalry between two of thrash metal's biggest bands: Metallica and Megadeth. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Metallica are an American heavy metal band formed in 1981; they are widely considered to be one of the most influential rock bands of all time. The group rose to prominence with their second album, "Ride the Lightning", which featured a more complex and progressive songwriting style than its predecessor ("Kill 'Em All"). This trend continued on 1986's "Master of Puppets", which is often cited as one of the best heavy metal albums ever recorded; it was also Metallica's last album with original bassist Cliff Burton, who died in a bus accident during its supporting tour. The band replaced Burton with Jason Newsted but tensions within the group led to his departure after only four years; he was subsequently replaced by current bassist Robert Trujillo. Despite these lineup changes (and occasional creative disagreements), Metallica have remained one of metals most popular and successful bands; they were inducted into the Rock and Roll Hall of Fame in 2009.
+
+Megadeth are an American heavy metal band formed in 1983 by guitarist/vocalist Dave Mustaine; they are considered to be one of the pioneers of the thrash metal genre. The group rose to prominence with their second album, "Peace Sells...But Who's Buying?", which is often cited as one of the best heavy metal albums ever recorded. Megadeth went on to release a number of other successful albums throughout the 1980s and 1990s but tensions within the band led to Mustaine's firing in 2002 (he was subsequently replaced by current guitarist Chris Broderick). Despite these lineup changes, Megadeth have remained a popular and successful band; they were inducted into the Grammy Hall of Fame in 2017 for their song "Symphony Of Destruction".
+
+So who is better - Metallica or Megadeth? This is another tough one but we're going to have go with Metallica here. While both bands are extremely talented and influential, Metallica just edge it in terms of quality and consistency; they also have a stronger overall legacy thanks to their status as one of rocks most commercially successful acts. That being said, there's no shame in being second best to Metallica - Megadeth are still one of the greatest metal bands of all time!
+
+
+### Chapter Thirty Six
+## Scorpions vs. Metallica
+
+In this chapter, we will explore the rivalry between two of heavy metal's most influential and successful bands: Scorpions and Metallica. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Scorpions are a German hard rock/heavy metal band founded in 1965; they are one of the longest running and most commercially successful acts in all of metal history, having sold over 100 million records worldwide. The group rose to prominence with their 1984 album "Love at First Sting", which featured hits such as "Rock You Like a Hurricane" and "No One Like You". Despite facing various lineup changes over the years (most notably the departure of drummer Herman Rarebell in 1995), Scorpions have continued to tour and release new music well into the 21st century; their latest album, 2015's "Return to Forever", was met with positive reviews from both fans and critics alike. In 2010, Scorpions were inducted into both the Rock & Roll Hall of Fame and Hollywood Walk Of Fame; they continue to be regarded as one of hard rock's greatest ever bands.
+
+Metallica are an American heavy metal band founded in 1981; they are widely considered to be one of the most important and influential bands in all of metal history. The group rose to prominence with their second album, "Ride the Lightning", which featured classics such as "For Whom the Bell Tolls" and "Fade To Black". Metallica went on to release a string of successful albums throughout the 1980s and '90s, including 1991's self-titled effort (better known as "The Black Album"), before entering into a period of creative stagnation in the new millennium. Despite this dip in quality, Metallica remain one of heavy metal's biggest draws; their 2016 album "Hardwired...To Self Destruct" debuted at number one on Billboard 200 chart. In 2009, Metallica were inducted into both the Rock & Roll Hall Of Fame and UK Music Hall Of Fame; they continue to be revered as pioneers within heavy metal circles.
+
+So who is better - Scorpions or Metallica? This is a tough one but we're going to have to give it up for Metallica here. While Scorpions are undoubtedly a great band, they don't quite reach the same heights as Metallica in terms of quality and consistency. Furthermore, Metallica's influence on heavy metal cannot be understated; they are responsible for popularizing the genre worldwide and continue to inspire new generations of metalheads today. In terms of legacy and influence, there is simply no comparison between these two bands!
+
+
+### Chapter Thirty Six
+## Slipknot vs. Metallica
+
+In this chapter, we will explore the rivalry between two of metal's biggest bands: Slipknot and Metallica. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Slipknot are an American heavy metal band from Des Moines, Iowa; they were founded in 1995 by percussionist Shawn Crahan and bassist Paul Gray. The group rose to fame with their debut album "Mate. Feed. Kill. Repeat." which was released independently in 1996 before being picked up by Roadrunner Records the following year (it would go on to be certified platinum). Slipknot went on to release four more studio albums - all of which debuted at number one on the Billboard 200 chart - before Gray passed away in 2010 due to drug overdose; he was replaced by Donnie Steele for live shows but eventually permanently succeeded by Alessandro Venturella during sessions for ".5: The Gray Chapter" (2014). Slipknot are currently working on their sixth studio album, which is due for release in 2019.
+
+Metallica are an American heavy metal band from Los Angeles, California; they were founded in 1981 by guitarist James Hetfield and drummer Lars Ulrich. The group rose to fame with their second album "Ride the Lightning" (1984), which featured more complex songwriting than its predecessor and cemented Metallica as one of the leaders of the new wave of American heavy metal that was emerging at the time. Over the course of their career, Metallica have released ten studio albums; these include classics such as "…And Justice for All" (1988) and "Metallica" (1991), both of which topped Billboard's Top 200 chart upon release. In recent years, Metallica have been embroiled in a number of controversies - most notably Napster-gate in 2000 - but they continue to be one hugely successful band, selling out arenas and headlining festivals around the world.
+
+So who is better - Slipknot or Metallica? This one is tough to call but we're going to have to give it up for Metallica. While Slipknot are undoubtedly a great band, their musical style is much more limited than that of Metallica; they also haven't released an album that can match the quality of "…And Justice for All" or "Metallica". In terms of legacy and influence, Metallica are the clear winners here!
+
+
+### Chapter Thirty Six
+## Linkin Park vs. Limp Bizkit
+
+In this chapter, we will explore the rivalry between two of nu-metal's biggest bands: Linkin Park and Limp Bizkit. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Linkin Park are an American rock band from Agoura Hills, California; they rose to fame with their debut album "Hybrid Theory" in 2000 which became one of the best selling albums of that decade. The group has since released six more studio albums (with 2014's "The Hunting Party" being their most recent effort), all of which have been commercially successful. They have won multiple Grammy Awards and sold over 100 million records worldwide, making them one of the bestselling artists of all time. While initial critics dismissed Linkin Park as another Blink 182 clone act, they have slowly but surely won over even their harshest detractors with both their catchy melodies and social/political commentary woven into many of their songs' lyrics.
+
+Limp Bizkit are an American rap-rock band from Jacksonville, Florida; they rose to fame in the late 1990s with their debut album "Three Dollar Bill, Y'all$" which featured the massive hit single "Faith". The group has since released six more studio albums (with 2011's "Gold Cobra" being their most recent effort), all of which have been commercially successful. They have won multiple Grammy Awards and sold over 40 million records worldwide, making them one of the bestselling artists of all time. While initial critics dismissed Limp Bizkit as a novelty act, they have slowly but surely won over even their harshest detractors with both their catchy melodies and social/political commentary woven into many of their songs' lyrics.
+
+So who is better - Linkin Park or Limp Bizkit? This is another tough one but we're going to give it up for Linkin Park here. While Limp Bizkit's early material is undoubtedly catchy, their later output has been somewhat inconsistent (with frontman Fred Durst's often obnoxious behavior being a particular sticking point for many fans). Linkin Park, on the other hand, have managed to maintain a consistent level of quality throughout their career; they are also much more innovative than Limp Bizkit, thanks largely to vocalist Chester Bennington's willingness to experiment with different musical styles. In terms of legacy and influence, Linkin Park are the clear winners here!
+
+
+### Chapter Thirty Six
+## Dire Straits vs. Led Zeppelin
+
+In this chapter, we will explore the rivalry between two of classic rock's most iconic bands: Dire Straits and Led Zeppelin. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Dire Straits were a British rock band formed in 1977 by brothers Mark and David Knopfler. The group rose to fame with their debut album "Dire Straits" (1978), which spawned the hit single "Sultans of Swing". They would go on to release six more studio albums over the next 15 years, selling over 120 million records worldwide in the process; hits such as "Money for Nothing", "Walk of Life", and "Brothers in Arms" helped cement their place as one of classic rock's biggest acts. Dire Straits disbanded acrimoniously in 1995 following disagreements between Mark Knopfler and keyboardist Alan Clark; they have not performed together since that time but rumours persist that they may reunite for a one-off show or tour at some point down the line.
+
+Led Zeppelin were an English rock band formed in 1968 by guitarist Jimmy Page. The group are widely considered to be one of the most influential bands in rock history, thanks largely to their pioneering use of heavy guitar riffs and blues-based song structures. Led Zeppelin released nine studio albums between 1969 and 1979; hits such as "Stairway to Heaven", "Whole Lotta Love", and "Kashmir" helped make them one of classic rock's most popular acts. They disbanded following drummer John Bonham's death in 1980 but have since reunited for several high-profile shows, including a reunion concert at London's O2 Arena in 2007 which was seen by over 20 million people worldwide via live stream.
+
+So who is better - Dire Straits or Led Zeppelin? This is another tough one but we're going give it up for Led Zep here. While both bands are hugely successful, Led Zep are simply on another level when it comes to influence and legacy; they've inspired countless other artists across multiple genres and continue to sell millions of records every year despite being inactive for over 35 years!
+
+
+### Chapter Thirty Six
+## Muse vs. Radiohead
+
+In this chapter, we will explore the rivalry between two of alternative rock's most successful and acclaimed bands: Muse and Radiohead. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Muse are an English rock band formed in 1994; they rose to prominence in the early 2000s with their unique blend of alternative rock, classical music, and electronica. The group has released seven studio albums to date, all of which have been extremely successful both commercially and critically. Their sixth album, "The 2nd Law", was nominated for five Grammy Awards (winning one for Best Rock Album) while their seventh album "Drones" debuted at number one on the UK charts - making it their third consecutive release to do so. Muse are widely considered to be one of Britain's biggest rock bands; they were inducted into the Kerrang! Hall of Fame in 2010 and received an Ivor Novello Award for Outstanding Contribution To British Music In 2013. They have sold over 20 million records worldwide as well as headline some of the world's biggest festivals including Reading & Leeds, Glastonbury, and Lollapalooza.
+
+Radiohead are an English rock band formed in 1985; they rose to prominence in the early 1990s with their debut album "Pablo Honey". The group has released nine studio albums to date, all of which have been extremely successful both commercially and critically. Their seventh album, "In Rainbows", was nominated for four Grammy Awards (winning two) while their eighth album "A Moon Shaped Pool" debuted at number three on the UK charts - making it their ninth consecutive release to enter the top ten. Radiohead are widely considered to be one of Britain's biggest rock bands; they were inducted into the Rock & Roll Hall of Fame in 2017 and received an Ivor Novello Award for Outstanding Contribution To British Music In 2003. They have sold over 30 million records worldwide as well as headline some of the world's biggest festivals including Coachella, Bonnaroo, and Roskilde.
+
+So who is better - Muse or Radiohead? This one is tough to call as both bands are extremely talented and have had huge amounts of success. In terms of pure musical ability, we'd have to give the edge to Muse; they are simply more technically proficient than Radiohead (especially live). However, in terms of creativity and innovation, Radiohead are the clear winners. They constantly push boundaries with their music and always seem to be ahead of the curve; for this reason, we're going to have declare them the victors in this rivalry!
+
+
+### Chapter Thirty Six
+## My Chemical Romance vs. Panic! at the Disco
+
+In this chapter, we will explore the rivalry between two of emo's most successful bands: My Chemical Romance and Panic! at the Disco. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+My Chemical Romance are an American rock band from New Jersey; they formed in 2001 and rose to prominence with their second album, "Three Cheers for Sweet Revenge", which was released in 2004. The group found mainstream success with 2006's "The Black Parade", which debuted at number one on the Billboard 200 chart; it has since been certified double platinum by the RIAA. My Chemical Romance announced an indefinite hiatus in 2013 but reunited briefly in 2019 for a reunion tour (which was postponed due to COVID-19). The band have won several awards throughout their career, including four Kerrang! Awards and two MTV Video Music Awards.
+
+Panic! at the Disco are an American pop punk/emo band from Las Vegas; they formed in 2004 and rose to fame with their debut album, "A Fever You Can't Sweat Out" (2005). The album was a commercial success, selling over two million copies worldwide and spawning the hit single "I Write Sins Not Tragedies", which peaked at number seven on the Billboard Hot 100 chart. Panic! at the Disco's follow-up album, "Pretty. Odd.", was released in 2008 to mixed reviews but still managed to debut at number two on the Billboard 200 chart. The band experienced lineup changes after this release; founding member Ryan Ross left in 2009 (he would later form The Young Veins with fellow ex-member Jon Walker) and drummer Spencer Smith departed in 2015 due to substance abuse issues. Despite these setbacks, Panic! At The Disco have remained one of emo's most popular bands; they were inducted into the Nevada Music Hall of Fame in 2018.
+
+So who is better - My Chemical Romance or Panic! at the Disco? We're going to have to give it up for My Chemical Romance here; while both bands are extremely talented, we feel that MCR just edge out P!ATD when it comes to songwriting and overall musicianship. Plus, let's be honest - who doesn't love Gerard Way?
+
+
+### Chapter Thirty Six
+## Tame Impala vs. The Black Keys
+
+In this chapter, we will explore the rivalry between two of rock's most successful bands: Tame Impala and The Black Keys. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Tame Impala are an Australian psychedelic rock band founded in 2007 by Kevin Parker; they have released four studio albums to date, with 2010's "Innerspeaker" and 2012's "Lonerism" being particular highlights. The group rose to prominence due largely to their innovative blend of vintage pop/rock sounds with modern production techniques; they have been described as one of the best live bands currently touring thanks to their impressive light show and stage production values. In 2016, Tame Impala were nominated for five Grammy Awards (including Album of the Year for "Currents"), though they ultimately failed to win any trophies on that occasion.
+
+The Black Keys are an American blues rock duo formed in 2001 by Dan Auerbach and Patrick Carney; they have released eight studio albums since then, with 2010's "Brothers" proving particularly popular both commercially and critically speaking. The group's sound is based around Auerbach's guitar work and Carney's simple but effective drumming; they have been praised for their stripped-back approach to songwriting and musicianship. The Black Keys have won eight Grammy Awards to date, including three wins in the coveted Best Rock Performance category.
+
+So who is better - Tame Impala or The Black Keys? This one is tough to call as both bands are extremely talented and have achieved a great deal of success over the years. However, we're going to give it up for Tame Impala here; while The Black Keys are undoubtedly a fantastic live band, Tame Impala just edge them out when it comes to innovation and overall quality of music. We think that Kevin Parker and co. will continue to go from strength to strength in the years ahead!
+
+
+### Chapter Thirty Six
+## ABBA vs. The Beatles
+
+In this chapter, we will explore the rivalry between two of the most successful and influential pop groups in history: ABBA and The Beatles. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+ABBA are a Swedish pop group formed in 1972; they rose to international fame with their 1974 hit "Waterloo" and went on to become one of the best-selling bands of all time, selling over 380 million records worldwide. ABBA's music is characterised by catchy melodies, close harmonies, and lyrics that often deal with themes such as love, loss, betrayal, etc. The group disbanded in 1982 but their legacy has lived on through stage musicals (such as Mamma Mia!) and numerous cover versions of their songs (most notably "Dancing Queen", which was covered by Cher in 1998). In 2008, Rolling Stone ranked ABBA at number 25 on their list of the 100 Greatest Artists Of All Time.
+
+The Beatles were an English rock band formed in Liverpool in 1960; they are widely considered to be one of the most important bands ever due to their massive commercial and critical success, as well as their influence on popular music. The Beatles released a string of classic albums throughout the 1960s such as "Rubber Soul" (1965), "Revolver" (1966), and "Sgt. Pepper's Lonely Hearts Club Band" (1967); they also pioneered new recording techniques such as backwards vocals and sound effects that would go on to shape the sound of popular music for generations to come. The group disbanded in 1970 but their legacy has lived on through numerous reissues/compilations of their material, stage musicals (such as Beatlemania!), and countless cover versions of their songs by other artists. In 2004, Rolling Stone ranked The Beatles at number 1 on their list of the 100 Greatest Artists Of All Time.
+
+So who is better - ABBA or The Beatles? This one is tough because both bands are so influential and important in pop history; however, we're going to have to give it up for The Beatles here simply because they were more innovative than ABBA and had a much longer career with consistent quality output across all album releases. Additionally, while both groups are extremely successful commercially, The Beatles sold significantly more records than ABBA did during their time together; when you factor in inflation, The Beatles are the best-selling band of all time with estimated sales of over 1.3 billion records!
+
+
+### Chapter Thirty Six
+## Kanye West vs. Wiz Khalifa
+
+In this chapter, we will explore the rivalry between two of hip hop's biggest stars: Kanye West and Wiz Khalifa. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Kanye West is a rapper, producer, and fashion designer from Chicago, Illinois; he first rose to fame as a producer for Roc-A-Fella Records in the early 2000s before releasing his debut album "The College Dropout" in 2004. Since then, West has released eight more studio albums (with his most recent being 2016's "The Life of Pablo") that have all been both commercial and critical successes. He has also won 21 Grammy Awards - making him one of the most decorated musicians in history - and been nominated for an additional 62 awards over the course of his career. In addition to music, West is also well known for his outspokenness on social issues; he frequently speaks out about racism within America and has even hinted at running for president someday!
+
+Wiz Khalifa is a rapper from Pittsburgh Pennsylvania; he first gained mainstream attention with 2010 hit single "Black and Yellow" before releasing his debut album "Rolling Papers" later that same year. Khalifa has since released four more studio albums (with his most recent being 2014's "Blacc Hollywood") that have all been both commercial and critical successes. He has also won three Grammy Awards - making him one of the most decorated rappers in history - and been nominated for an additional 17 awards over the course of his career. In addition to music, Wiz is also known for his love of cannabis; he frequently smokes weed on stage during live performances and even has a strain named after him!
+
+So who is better: Kanye West or Wiz Khalifa? We're going to have to go with Kanye here. While Wiz is undoubtedly a talented rapper, he doesn't quite measure up to Ye in terms of lyricism or songwriting ability. Furthermore, Kanye's production skills are second-to-none; few artists can match his ear for melody or beats. When it comes down to it, there's just no contest between these two!
+
+
+### Chapter Thirty Six
+## Wiz Khalifa vs. Lupe Fiasco
+
+In this chapter, we will explore the rivalry between two of hip-hop's biggest stars: Wiz Khalifa and Lupe Fiasco. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Wiz Khalifa is an American rapper from Pittsburgh, Pennsylvania. He first gained mainstream attention with his 2010 single "Black and Yellow", which peaked at number one on the Billboard Hot 100 chart. Since then, he has released five studio albums (including 2012's major label debut "Rolling Papers") and numerous mixtapes; he has also collaborated with some of music's biggest names, such as Snoop Dogg, Maroon 5, Juicy J, Miley Cyrus, and John Legend. In addition to his solo work, Wiz is also a member of the rap group Taylor Gang; he founded the group in 2008 along with fellow Pittsburgh native Corey Miller (aka "CJ").
+
+Lupe Fiasco is an American rapper from Chicago Illinois. He rose to prominence in 2006 with his debut album "Food & Liquor", which received widespread critical acclaim thanks to its innovative and socially conscious lyrics. He has released five studio albums since then, including his most recent effort "Drogas Wave" in 2018; he has also collaborated with a number of high-profile artists such as Kanye West, Jay Z, Snoop Dogg, John Legend, and Kendrick Lamar. Lupe is known for his complex rhyme schemes and intelligent lyrics; he was ranked by Complex magazine as one of the best rappers of all time in 2012.
+
+So who is better - Wiz Khalifa or Lupe Fiasco? This is a tough one but we're going to have to give it up for Lupe Fiasco here. While Wiz Khalifa is undoubtedly a talented rapper, his music often feels superficial and lightweight when compared to the depth and substance of what Lupe offers. In terms of lyrical ability and overall impact on hip-hop culture, there's no doubt that Lupe Fiasco comes out on top!
+
+
+### Chapter Thirty Six
+## Lupe Fiasco vs. Childish Gambino
+
+In this chapter, we will explore the rivalry between two of hip-hop's most talented and controversial MCs: Lupe Fiasco and Childish Gambino. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Lupe Fiasco is an American rapper from Chicago, Illinois; he first gained mainstream attention with his 2006 debut album "Food & Liquor". He has since released five more albums (the most recent being 2015's "Tetsuo & Youth"), all of which have been met with critical acclaim. Throughout his career, Lupe has been known for his complex lyrical style and social commentary; he is also a three-time Grammy Award winner. In 2012, he was ranked as one of the 100 Greatest Living Songwriters by Rolling Stone magazine.
+
+Childish Gambino is the stage name of Donald Glover, an American actor/rapper from Edwards Air Force Base in California. He first came to prominence as a writer for NBC sitcom "30 Rock" before going on to star in cult comedy series "Community". As a musician, Childish Gambino has released three studio albums (the most recent being 2016's "Awaken, My Love!"), all of which have been met with critical acclaim. He is a two-time Grammy Award winner and was ranked as one of the 100 Greatest Living Songwriters by Rolling Stone magazine in 2015.
+
+So who is better - Lupe Fiasco or Childish Gambino? This is another tough one but we're going to give it up for Childish Gambino here. While Lupe Fiasco is undoubtedly a talented rapper, his output has been somewhat inconsistent over the years; furthermore, he often gets bogged down in unnecessarily complex lyrical concepts (which can be difficult for casual listeners to follow). Childish Gambino, on the other hand, always manages to strike a perfect balance between accessibility and artistry; his best work seamlessly blends together elements of hip-hop, R&B and pop into something truly unique and exciting. In terms of overall quality and consistency, Childish Gambino comes out ahead!
+
+
+### Chapter Thirty Six
+## Childish Gambino vs. Tyler, the Creator
+
+In this chapter we will explore the rivalry between two of hip-hop's most unconventional artists: Childish Gambino and Tyler, the Creator. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Childish Gambino is the stage name of Donald Glover, an American actor, comedian and musician. He first came to prominence as a writer for hit TV sitcom "30 Rock" before going on to star in cult comedy series "Community". In 2010 he released his debut mixtape under his rapper alter ego; since then he has released three studio albums ("Camp", "Because the Internet" and "Awaken My Love!"), all of which have been met with critical acclaim. His music often features elements of R&B/soul alongside traditional hip-hop stylings; lyrics are typically introspective and personal in nature (a far cry from many contemporary rap acts). Outside of music he has also found success as a film director; his 2016 short film "Clapping for the Wrong Reasons" was nominated for an Emmy Award.
+
+Tyler, the Creator is an American rapper and record producer; he is the founder of Odd Future, a hip-hop collective that also includes Earl Sweatshirt, Frank Ocean and Hodgy Beats (among others). Tyler's solo debut album "Goblin" was released to mixed reviews in 2011 but his follow-up effort "Wolf" received critical acclaim upon its release two years later. He has since released three more studio albums ("Cherry Bomb", "Flower Boy" and "Igor"), all of which have been praised by critics. His music often features dark and violent themes; this has led to some controversy over the years but it hasn't stopped him from becoming one of hip-hop's most respected artists. Outside of music he has also found success as a fashion designer; his clothing brand Golf Wang currently enjoys cult status among young people around the world.
+
+So who is better - Childish Gambino or Tyler, the Creator? This is a tough one but we're going to have to give it up for Childish Gambino here. Both artists are highly talented and innovative but Gambino has the edge in terms of mainstream success; his three albums have all peaked within the top 10 of the Billboard 200 charts, while Tyler's highest charting album ("Flower Boy") only reached number 2. Childish Gambino is also a more well-rounded artist than Tyler, thanks to his work as an actor and director; he even won a Golden Globe Award for his role in TV series "Atlanta"!
+
+
+### Chapter Thirty Six
+## Tyler, the Creator vs. Earl Sweatshirt
+
+In this chapter, we will explore the rivalry between two of hip-hop's most controversial and polarizing figures: Tyler, the Creator and Earl Sweatshirt. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Tyler Gregory Okonma (better known as "Tyler, The Creator") is an American rapper, record producer and music video director from Los Angeles, California. He rose to prominence as the leader of Odd Future Wolf Gang Kill Them All (also known simply as "Odd Future"), a hip-hop collective that also included Earl Sweatshirt, Hodgy Beats and Mike G. Tyler's debut album, "Goblin", was released in 2011 to critical acclaim; it featured dark and violent lyrical content that led many to accuse him of promoting misogyny and homophobia. Odd Future disbanded in 2015 but Tyler has continued to release music as a solo artist; his most recent album, "Flower Boy", was nominated for Best Rap Album at the 2018 Grammy Awards.
+
+Earl Shelton (better known by his stage name "Earl Sweatshirt") is an American rapper from Los Angeles, California. He rose to prominence as a member of Odd Future Wolf Gang Kill Them All before releasing his critically acclaimed debut mixtape, "EARL", in 2010. Since then, he has released two studio albums - 2013's Doris and 2015's I Don't Like Shit ,I Don't Go Outside: An Album By Me - both of which received positive reviews from critics. In 2017, he announced that he had signed with Columbia Records and would be releasing a new album titled Some Rap Songs later that year; the record was well-received upon its release and earned Earl his first Grammy nomination for Best Rap Album.
+
+So who is better - Tyler, the Creator or Earl Sweatshirt? This is a tough one but we're going to have to give it up for Earl here. While Tyler's early material was undoubtedly groundbreaking, his later output has been somewhat inconsistent (particularly in terms of its lyrical content). Earl, on the other hand, has managed to maintain a consistent level of quality throughout his career; he is also much more lyrically sophisticated than Tyler and doesn't rely as heavily on shock value. In terms of legacy and influence, Earl is the clear winner here!
+
+
+### Chapter Thirty Six
+## Earl Sweatshirt vs. Tyler, the Creator
+
+In this chapter, we will explore the rivalry between two of hip hop's most influential and controversial figures: Earl Sweatshirt and Tyler, the Creator. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Earl Sweatshirt is an American rapper from Los Angeles; he first came to prominence as a member of Odd Future Wolf Gang Kill Them All (OFWGKTA), a hip hop collective that also included Tyler, the Creator. Earl released his debut mixtape "EARL" in 2010 to critical acclaim; his debut studio album "Doris" followed in 2013 to similar praise from critics and fans alike. Since then, Earl has continued to release new music at a steady pace; his most recent album, "Some Rap Songs", was released in 2018 to widespread critical acclaim. Earl is widely respected for his lyrical prowess and technical mastery of the rap form; he has been described as one of the best rappers of his generation by many critics and fans.
+
+Tyler, the Creator is an American rapper from Los Angeles; he first came to prominence as a member of Odd Future Wolf Gang Kill Them All (OFWGKTA), a hip hop collective that also included Earl Sweatshirt. Tyler's debut mixtape "Bastard" was released in 2009 to positive reviews from critics; however, it would be his second mixtape "Goblin" that truly propelled him into the mainstream spotlight. The success of "Goblin" led to Tyler signing a record deal with XL Recordings; he went on to release his debut studio album "Wolf" through them in 2013. Since then, Tyler has continued to release new music at a steady pace; his most recent album, "IGOR", was released in 2019 to widespread critical acclaim. Tyler is known for his eccentric and often controversial persona; he has been involved in various controversies throughout his career, most notably regarding allegations of homophobia and misogyny.
+
+So who is better - Earl Sweatshirt or Tyler, the Creator? This one is tough to call but we're going to have to give it up for Earl here. While Tyler's early material was undoubtedly groundbreaking, his later output has been somewhat inconsistent (particularly when it comes to quality control). Earl, on the other hand, has maintained a consistently high level of quality throughout his career; he is also much more lyrically proficient than Tyler, which gives him an edge in our eyes. In terms of legacy and influence, Earl is the clear winner here!
+
+
+### Chapter Thirty Six
+## Eminem vs. Jay-Z
+
+In this chapter, we will explore the rivalry between two of hip hop's biggest stars: Eminem and Jay-Z. We'll start by discussing the history of each rapper and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Eminem is an American rapper from Detroit, Michigan; he rose to prominence with his 1999 album "The Slim Shady LP", which won him a Grammy Award for Best Rap Album. Eminem quickly established himself as one of rap's most controversial figures thanks to his darkly humorous lyrics that often tackled taboo subjects such as violence, drug addiction, and poverty. He would go on to release several more successful albums throughout the 2000s including "The Marshall Mathers LP" (2000) and "Relapse" (2009); he has sold over 170 million records worldwide making him one of the best selling artists of all time. Eminem has had his fair share of personal struggles throughout his career, including a highly publicized battle with addiction; he entered rehab in 2005 and has been sober ever since.
+
+Jay-Z is an American rapper from Brooklyn, New York; he rose to prominence with his 1996 debut album "Reasonable Doubt", which is considered by many to be one of the best rap albums of all time. Jay-Z's lyrical style often focuses on themes such as wealth, luxury, and success; he is also known for being one of the most prolific producers in hip hop history, having produced tracks for artists such as Beyoncé Knowles and Nas. In addition to his solo work, Jay-Z is also a member of The Roc-A-Fella Records (which he co-founded) along with Damon Dash and Kareem Biggs Burke. He has sold over 100 million records worldwide making him one of the best selling artists of all time. Jay-Z was inducted into the Songwriters Hall Of Fame in 2017 - becoming only the second hip hop artist (after Jermaine Dupri) to receive this honor.
+
+So who is better - Eminem or Jay Z? This one is tough but we're going have go ahead and give it to Eminem. While Jay-Z is undoubtedly a talented rapper, his lyrics often lack the depth and insight of Eminem's; Jay-Z also seems to rely too heavily on producers (such as Timbaland) to create catchy beats for him, whereas Eminem produces most of his own material. In terms of legacy and influence, there is no doubt that Eminem is the clear winner here!
+
+
+### Chapter Thirty Six
+## Jay-Z vs. Nas
+
+In this chapter, we will explore the rivalry between two of hip-hop's most iconic figures: Jay-Z and Nas. We'll start by discussing the history of each rapper and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Jay-Z is an American rapper, songwriter, record producer, entrepreneur, and investor from Brooklyn, New York City. He is one of the best selling music artists of all time with over 100 million records sold worldwide; he has also won 21 Grammy Awards throughout his career (more than any other hip hop artist). Jay-Z began his rap career in 1996 with the release of his debut album "Reasonable Doubt" which was critically acclaimed but only commercially successful; it would be another five years until he achieved mainstream success with 2001's "The Blueprint". Since then he has released a string of hit albums including "The Black Album", "Kingdom Come" and "American Gangster"; he has also been involved in a number of high-profile business ventures, most notably the launch of Rocawear clothing and TIDAL streaming service.
+
+Nas is an American rapper, songwriter, record producer, actor from Queensbridge Houses in New York City. He is widely considered to be one of the greatest rappers of all time with over 30 million records sold worldwide; he has also won multiple Grammy Awards throughout his career (including Best Rap Album for his classic debut album "Illmatic"). Nas began his rap career in 1991 with the release of his single "(It Ain't Hard To Tell)" which was met with critical acclaim but only moderate commercial success; it would be another three years until he achieved mainstream success with 1994's "Illmatic". Since then he has released a string of hit albums including "It Was Written", "I Am..." and "Hip Hop Is Dead"; he has also acted in several films and television shows such as 2007's critically acclaimed movie American Gangster.
+
+So who is better - Jay-Z or Nas? This is a tough one but we're going to have to give it up for Nas here. While Jay-Z is undoubtedly a successful businessman, his musical output has been somewhat inconsistent over the years (with many of his later albums feeling like cash-grabs). Nas, on the other hand, has maintained a consistently high level of quality throughout his career; he is also much more lyrically gifted than Jay-Z and has had a far greater impact on hip hop as a whole. In terms of legacy and influence, there's no doubt that Nas is the superior rapper!
+
+
+### Chapter Thirty Six
+## Nas vs. J. Cole
+
+In this chapter, we will explore the rivalry between two of hip hop's most celebrated MCs: Nas and J. Cole. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Nas is an American rapper from Queens, New York City; he is widely considered to be one of the greatest rappers of all time thanks to his lyrical prowess and storytelling ability. His debut album "Illmatic" is often cited as one of the best hip hop albums ever recorded; it helped solidify Nas' reputation as one of rap's premier talents. He has released nine more studio albums since then, including 2006's "Hip Hop Is Dead" and 2012's "Life Is Good", both of which received critical acclaim upon release. In addition to his solo work, Nas has also collaborated with some of music's biggest names - he worked with Alicia Keys on her hit single "Girl On Fire" and was featured on Kanye West's track "We Major".
+
+J. Cole is an American rapper and producer from Fayetteville, North Carolina; he rose to prominence with his debut album "Cole World: The Sideline Story", which was certified platinum by the RIAA in 2011. He has released three more studio albums since then - 2013's "Born Sinner" (which debuted at number two on the Billboard 200 chart), 2014's "2014 Forest Hills Drive" (which went double platinum) and 2016's "4 Your Eyez Only" (which won a Grammy Award for Best Rap Album). J. Cole is known for his introspective lyrics and conscious hip hop style; he has said that Nas is one of his biggest influences as an artist.
+
+So who is better - Nas or J. Cole? This one is tough but we're going to have to give it up for Nas here. While both artists are extremely talented, Nas just edges out J. Cole in terms of overall quality and influence. His catalog of work includes some true classics ("Illmatic", "It Ain't Hard To Tell") while J. Cole's best material doesn't quite reach those same heights; additionally, Nas' impact on hip hop culture cannot be overstated - he helped define what it means to be a rap legend.
+
+
+### Chapter Thirty Six
+## J. Cole vs. Kendrick Lamar
+
+In this chapter, we will explore the rivalry between two of hip hop's biggest stars: J. Cole and Kendrick Lamar. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+J. Cole is an American rapper from North Carolina; he first came to prominence with his 2010 mixtape "The Warm Up", which caught the attention of Jay Z (who signed him to Roc Nation). Cole released his debut album "Cole World: The Sideline Story" in 2011, which debuted at #1 on the Billboard 200 chart and was certified platinum by the RIAA. He has since released three more albums - 2013's "Born Sinner", 2016's "4 Your Eyez Only", and 2018's "KOD" - all of which have been commercial successes (although none have reached quite the same level as his debut). In addition to his solo work, Cole is also a member of Dreamville Records; he has executive produced several projects for label mates such as Bas and Ari Lennox.
+
+Kendrick Lamar is an American rapper from Compton, California; he first came to prominence with his 2011 mixtape "Overly Dedicated", which caught the attention of Dr. Dre (who signed him to Aftermath Entertainment). Lamar released his debut album "good kid, m.A.A.d city" in 2012, which was a critical and commercial success; it debuted at #2 on the Billboard 200 chart and has been certified double platinum by the RIAA. He followed this up with two more albums - 2015's "To Pimp a Butterfly" and 2017's "DAMN." - both of which won Grammys for Best Rap Album (making Lamar the first non-classical or jazz artist to win the award three times). In addition to his solo work, Lamar is also a member of Black Hippy alongside Schoolboy Q, Ab-Soul, and Jay Rock; they have released one collaborative album together, "untitled unmastered.", in 2016.
+
+So who is better - J. Cole or Kendrick Lamar? This one is tough to call but we're going to have to give it up for Kendrick Lamar here. Both artists are extremely talented and have had great commercial success, but Lamar has been more consistent with his output (both in terms of quality and quantity). He's also won more awards than Cole, including Grammys for Best Rap Album; in addition, many consider him to be the best rapper alive today. In terms of legacy and influence, Kendrick Lamar is the clear winner here!
+
+
+### Chapter Thirty Six
+## Kendrick Lamar vs. J Cole
+
+In this chapter, we will explore the rivalry between two of hip hop's biggest stars: Kendrick Lamar and J Cole. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Kendrick Lamar is an American rapper from Compton, California; he first rose to prominence with his major label debut album "good kid, mAAd city" in 2012. The record was praised for its sophisticated lyrical content and innovative production, cementing Kendrick as one of rap's brightest new talents. He has since released two more critically acclaimed albums - 2015's "To Pimp a Butterfly" and 2017's "DAMN." - which have further solidified his status as one of the greatest rappers alive today. In addition to his solo work, Kendrick is also a member of Black Hippy alongside fellow MCs Schoolboy Q, Ab-Soul and Jay Rock; the group has released several highly regarded mixtapes but are yet to release a full length album together.
+
+J Cole is an American rapper from Fayetteville, North Carolina; he first rose to prominence with his major label debut album "Cole World: The Sideline Story" in 2011. The record was praised for its lyrical depth and mature storytelling, cementing J Cole as one of rap's most promising new talents. He has since released three more albums - 2013's "Born Sinner", 2014's "2014 Forest Hills Drive" and 2016's "4 Your Eyez Only" - which have all been met with critical acclaim and commercial success. In addition to his solo work, J Cole is also a member of the hip hop collective Dreamville Records alongside fellow rappers Bas, Ari Lennox and Cozz; the group has released several highly regarded mixtapes but are yet to release a full length album together.
+
+So who is better Kendrick Lamar or J Cole? This is another tough one but we're going give it up for Kendrick Lamar here. While both artists are extremely talented lyricists, Kendrick just edges out J Cole in terms of overall quality and consistency (with only two weak tracks appearing across all four of his studio albums). Additionally, Kendrick boasts greater range than J Cole, thanks largely to his experimental production choices on records like "To Pimp a Butterfly". In terms of legacy and influence, Kendrick Lamar is the clear winner here!
+
+
+### Chapter Thirty Six
+## Mariah Carey vs. Whitney Houston
+
+In this chapter, we will explore the rivalry between two of the biggest female pop stars of all time: Mariah Carey and Whitney Houston. We'll start by discussing the history of each singer and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Mariah Carey is an American singer, songwriter, actress, and record producer who rose to fame in 1990 with her debut album "Mariah Carey". The album was a massive commercial success; it spawned four number one singles on the Billboard Hot 100 chart and has since been certified diamond by the RIAA for selling over 10 million copies in the United States alone. Carey followed up her debut with 1991's "Emotions", which was another huge hit both commercially and critically; it won a Grammy Award for Best Female Pop Vocal Performance at 1992's ceremony. Throughout her career thus far, Carey has released nineteen studio albums (thirteen of which have topped the US Billboard 200 chart) and sixty-five singles (eighteen of which have reached number one on various international charts). She has sold more than 300 million records worldwide making her one of best-selling music artists ever.
+
+Whitney Houston is an American singer and actress who rose to fame in 1985 with her self-titled debut album. The album was a massive commercial success, spawning seven top-ten singles on the Billboard Hot 100 chart (including five number one hits). It has since been certified diamond by the RIAA for selling over 10 million copies in the United States alone. Houston's follow-up albums "Whitney" (1987) and "I'm Your Baby Tonight" (1990) were also huge successes; both topped the US Billboard 200 chart and have sold more than 10 million copies each worldwide. Throughout her career thus far, Houston has released seven studio albums and forty nine singles; she has sold more than 200 million records worldwide making her one of best-selling music artists ever. She tragically passed away in 2012 at the age of 48 from accidental drowning due to drug intoxication.
+
+So who is better - Mariah Carey or Whitney Houston? This is another tough one but we're going to give it up for Whitney here. While Mariah's vocal range is absolutely incredible, she doesn't have quite as many iconic songs as Whitney does ("I Will Always Love You", "Saving All My Love For You", etc.). Whitney also had a more successful acting career, starring in films such as "The Bodyguard" and "Waiting to Exhale". In terms of pure vocal talent and overall legacy, Whitney is the clear winner here!
+
+
+### Chapter Thirty Six
+## Nicki Minaj vs. Cardi B
+
+In this chapter, we will explore the rivalry between two of hip-hop's most successful and controversial artists: Nicki Minaj and Cardi B. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Nicki Minaj is a Trinidadian rapper, singer, songwriter, model, actress, and television personality who rose to fame with her debut album "Pink Friday" in 2010. Since then she has released four more albums that have all been commercial successes; she has also won multiple awards including three American Music Awards and nine BET Awards. Her music often explores themes such as female empowerment & sexuality; she is also known for her aggressive rap style which frequently uses alter egos & accents (her best known being "Roman Zolanski"). In 2017 Time magazine included her on their annual list of the 100 most influential people in the world.
+
+Cardi B is an American rapper, songwriter, television personality, and actress who first rose to fame as a cast member on the reality TV show "Love & Hip Hop: New York". She released her debut single "Bodak Yellow" in 2017 which quickly became a commercial success; it would go on to peak at number one on the Billboard Hot 100 chart making her the first female rapper to achieve this since Lauryn Hill in 1998. Cardi B's music often explores themes such as female empowerment & sexuality; she is also known for her aggressive rap style and use of profanity. In 2018 Time magazine included her on their annual list of the 100 most influential people in the world.
+
+So who is better - Nicki Minaj or Cardi B? This one is tough but we're going to have give it up for Nicki Minaj here. While both artists are successful rappers with similar musical styles, Nicki Minaj has been far more consistent throughout her career (both creatively and commercially). She is also a much more accomplished lyricist than Cardi B, which gives her an edge in terms of overall artistry. In terms of legacy and influence, Nicki Minaj is the clear winner here!
+
+
+### Chapter Thirty Six
+## Lauryn Hill vs. The Fugees
+
+In this chapter, we will explore the rivalry between two of hip-hop's most successful and influential groups: Lauryn Hill and the Fugees. We'll start by discussing the history of each group and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Lauryn Hill rose to prominence as a member of the hugely successful hip-hop trio known as the Fugees; she would later embark on a solo career that would cement her status as one of music's most important figures. Her debut album "The Miseducation Of Lauryn Hill" is widely considered to be one of the greatest albums ever recorded, thanks largely to its blend of soulful R&B with positive messages about self-love and empowerment (particularly for women). Despite its commercial success, "The Miseducation" was largely overshadowed by controversy surrounding Ms. hill due to allegations that she had plagiarized some of her lyrics from other artists (she has since been sued for copyright infringement multiple times). Nevertheless, the album remains an important and influential work within popular music.
+
+The Fugees were a hugely successful hip-hop group that rose to prominence in the early 1990s. The group was composed of three members: Wyclef Jean, Pras Michel, and Lauryn Hill (who would later embark on a solo career). The Fugees are best known for their critically acclaimed second album "The Score", which is widely considered to be one of the greatest hip-hop albums ever recorded. The album featured a unique blend of R&B, reggae, and rap; its positive messages about peace and love helped to make it an instant classic among fans and critics alike. Despite their success, the group disbanded in 1997 due largely to creative differences between Jean and Hill (the latter would go on to pursue her solo career while the former pursued a successful solo career as well).
+
+So who is better - Lauryn Hill or the Fugees? This one is tough to call but we're going to have to give it up for Ms. Hill here. While the Fugees were undoubtedly a hugely successful and influential group, their output pales in comparison to that of Ms. Hill's solo work. "The Miseducation Of Lauryn Hill" is not only an important and groundbreaking album, but it also happens to be one of the greatest albums ever recorded; its influence can still be felt today within popular music (particularly within the R&B genre). In terms of legacy and impact, there is simply no denying that Ms. hill comes out on top!
+
+
+### Chapter Thirty Six
+## Lil Wayne vs. 50 Cent
+
+In this chapter, we will explore the rivalry between two of hip hop's biggest names: Lil Wayne and 50 Cent. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Lil Wayne is an American rapper from New Orleans, Louisiana; he rose to prominence as a member of Cash Money Records' flagship group Hot Boys before going solo with his debut album "Tha Block Is Hot" in 1999. Since then, Wayne has released a further nine studio albums (including 2008's "Tha Carter III", which won him the Grammy Award for Best Rap Album) and amassed a huge global following thanks to his unique vocal style and lyrical prowess. He has also been embroiled in numerous controversies throughout his career, most notably due to his repeated use of offensive language towards women; despite this criticism, many consider him to be one of rap music's all-time greats.
+
+50 Cent is an American rapper from Queens, New York City; he came into prominence with his 2003 debut album "Get Rich or Die Tryin'" which was powered by the success of its lead single "In da Club". 50 Cent has since released a further five albums (including 2009's "Before I Self Destruct" and 2014's "Animal Ambition") but has seen his sales and popularity decline in recent years. He is also known for his various beefs with other rappers, most notably The Game and Ja Rule; he has been involved in several lawsuits throughout his career, including one which resulted in him being ordered to pay $5 million to Rick Ross' baby mama Lastonia Leviston.
+
+So who is better - Lil Wayne or 50 Cent? This is another tough one but we're going give it up for Lil Wayne here. While 50 Cent was undoubtedly hugely successful during the early 2000s, his output since then has been lackluster at best; by contrast, Lil Wayne remains as popular as ever despite not releasing an album since 2013. In terms of lyrical ability, vocal delivery and overall impact on hip hop culture, there's simply no contest: Lil Wayne is the clear winner here!
+
+
+### Chapter Thirty Six
+## Drake vs. Kendrick Lamar
+
+In this chapter, we will explore the rivalry between two of hip-hop's biggest stars: Drake and Kendrick Lamar. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Drake is a Canadian rapper, singer, songwriter, and record producer who has been one of the most successful artists in the industry since he burst onto the scene with his debut album "Thank Me Later" in 2010. Drake's mix of R&B/hip-hop sounds with pop sensibilities has made him a crossover success; he is also known for his often emotional lyrics about heartbreak and relationships. In 2015, Drake released his fourth studio album "If You're Reading This It's Too Late", which became an overnight sensation thanks to its surprise release strategy; it was later revealed that the album had actually been completed several months prior but was held back so as not to compete with Beyonce's then-unreleased fifth studio LP ("Lemonade"). 2016 saw Drake releasing another chart topping album called "Views"; despite mixed reviews from critics, it went on to become one of the best selling albums of the year.
+
+Kendrick Lamar is an American rapper, songwriter, and record producer who first gained mainstream attention with his major label debut album "good kid, m.A.A.d city" in 2012. Kendrick's unique blend of jazz-influenced beats with socially conscious lyrics has made him one of the most respected artists in hip-hop; he has also been praised for his technical prowess as a rapper, often being compared to legends such as Tupac Shakur and Nas. In 2015, Kendrick released his second studio album "To Pimp a Butterfly", which was hailed by many critics as a masterpiece; it won five Grammy Awards (including Best Rap Album) and cemented Kendrick's place among rap's elite performers. 2016 saw Kendrick releasing another critically acclaimed LP called "untitled unmastered.", which consisted of previously unreleased tracks that were recorded during the sessions for "Butterfly".
+
+So who is better - Drake or Kendrick Lamar? This is tough one but we're going to have to give it up for Kendrick here (although Drake isn't far behind). Both artists are extremely talented and have had massive success over the past few years but what sets Kendrick apart is his lyrical ability; he consistently raises the bar with each new release, proving time and again that he is one of the best rappers in the game today. In terms of influence and legacy, Kendrick is also the clear winner here; he has already been hailed as a modern day hip-hop legend by many critics and fans alike.
+
+
+### Chapter Thirty Six
+## System of a Down vs. Slipknot
+
+In this chapter, we will explore the rivalry between two of heavy metal's most popular bands: System of a Down and Slipknot. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+System of a Down are an Armenian-American alternative metal band formed in 1994; they rose to prominence with their debut album "Toxicity" which was released in 2001. The group is known for their unique blend of various genres such as hardcore punk, thrash metal, and traditional Armenian music; they also often incorporate political and social commentary into their lyrics (a hallmark of frontman Serj Tankian). System have released five studio albums to date; all have been met with critical acclaim but sales have dwindled somewhat since 2005's "Mezmerize/Hypnotize". Nevertheless, the band remains hugely popular live draw card - particularly in Europe where they routinely headline some of the continent's largest festivals (such as Download Festival UK).
+
+Slipknot are an American nu metal band formed in 1995 from Des Moines, Iowa; they are one of the most successful and well-known bands in the genre. The group is known for their aggressive music style, chaotic live shows, and dark/macabre image; they are also one of the few nu metal bands to have maintained a consistent lineup throughout their career (with only two members leaving the band since its inception). Slipknot have released five studio albums to date; all have been commercial successes but critical reception has been mixed (particularly for later releases). Nevertheless, the band continues to be hugely popular - selling out arenas and headlining festivals worldwide on a regular basis.
+
+So who is better - System of a Down or Slipknot? This is tough one as both bands are extremely popular and influential within heavy metal circles. However, we're going to give it up for System here; while Slipknot's early material was groundbreaking, their later output has become increasingly formulaic and predictable. System, on other hand, continue to push boundaries with each release; they are also more innovative than Slipknot thanks largely to Serj Tankian's unique songwriting style. In terms of legacy and influence System definitely come out ahead!
+
+
+### Chapter Thirty Six
+## Arctic Monkeys vs. The Strokes
+
+In this chapter, we will explore the rivalry between two of the most successful and influential rock bands of the 21st century: Arctic Monkeys and The Strokes. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Arctic Monkeys are an English indie rock band formed in 2002; they rose to prominence with their debut album "Whatever People Say I Am, That's What I'm Not" (2006), which became one of the fastest selling debuts ever in UK chart history. The group have since released five more albums - all of which have been met with critical acclaim - and won numerous awards, including seven Brit Awards and six NME Awards. They are widely considered to be one of the best British bands currently active today.
+
+The Strokes are an American indie rock band formed in 2001; they achieved mainstream success with their debut album "Is This It?" (2001), which is now regarded as one classic within its genre). Despite receiving mixed reviews from critics upon release, it eventually went platinum after being reissued following 9/11 terrorist attacks due largely to its lead single "New York City Cops". The group have released five more albums to date, with each one receiving positive reviews from critics; they are widely considered to be one of the most important American rock bands of their generation.
+
+So who is better - Arctic Monkeys or The Strokes? This is a tough one but we're going give it up for Arctic Monkeys here. While both bands are extremely talented and have enjoyed considerable success, Arctic Monkeys just seem to have that extra something special that sets them apart from the rest. They also tend to be slightly more consistent than The Strokes (whose last two albums in particular haven't been as well-received as their earlier work). In terms of legacy and influence, however, it's hard to separate these two groups - they are both hugely important within the world of indie rock!
+
+
+### Chapter Thirty Six
+## Daft Punk vs. Justice
+
+In this chapter, we will explore the rivalry between two of electronic music's most influential and successful duos: Daft Punk and Justice. We'll start by discussing the history of each group and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Daft Punk are a French electronic music duo consisting of Thomas Bangalter and Guy-Manuel de Homem-Christo; they are one of the most commercially successful acts in dance music history. The group rose to prominence with their 1997 debut album "Homework", which spawned hits such as "Da Funk" and "Around the World". They followed up this success with 2001's "Discovery", an even more pop-oriented affair that featured songs like "One More Time" and "Harder, Better, Faster, Stronger"; this album would go on to become one of the best selling electronica albums ever released. In 2005, Daft Punk released what is arguably their masterpiece, "Human After All"; while this album was not as commercially successful as its predecessor, it is highly regarded by many critics and fans alike. The duo's most recent album, 2013's "Random Access Memories", won five Grammy Awards (including Album of the Year) and became their first number one record in America.
+
+Justice are a French electronic music duo consisting of Gaspard Augé and Xavier de Rosnay; they are one of the most popular groups in the electro house genre. The group rose to prominence with their 2007 debut album "†", which featured hits such as "Dance" and "Stress". They followed up this success with 2011's Audio, Video, Disco., an experimental disco-influenced record that received mixed reviews from critics but still managed to become a commercial success. Justice's most recent album, 2016's "Woman", was met with critical acclaim and became their highest charting record to date.
+
+So who is better - Daft Punk or Justice? This one is a close call but we're going to have to give it up for Daft Punk here. While both groups are highly influential within the electronic music world, Daft Punk are simply more successful and innovative than Justice; they've also managed to remain relevant for over two decades, which is no easy feat in today's musical climate. In terms of legacy and influence, there is no doubt that Daft Punk are the clear winners here!
+
+
+### Chapter Thirty Six
+## Evanescence vs. Linkin Park
+
+In this chapter, we will explore the rivalry between two of the biggest bands to come out of the early 2000s: Evanescence and Linkin Park. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Evanescence are an American rock band founded in Little Rock, Arkansas in 1995 by singer/pianist Amy Lee and guitarist Ben Moody. The group rose to prominence with their debut album "Fallen", which has sold over 17 million copies worldwide and earned them five Grammy Awards; it remains one of the best-selling albums of all time. Evanescence have released four studio albums overall; their latest effort, "Synthesis", was released in 2017 to positive reviews from both fans and critics alike. The band is currently working on material for a fifth album, which is expected to be released sometime within the next few years.
+
+Linkin Park are an American rock band from Agoura Hills, California; they were formed in 1996 by vocalist Mike Shinoda and drummer Rob Bourdon (the current lineup also includes bassist Dave Farrell, lead guitarist Brad Delson, and turntablist Joe Hahn). The group rose to fame with their debut album "Hybrid Theory", which has sold over 30 million copies worldwide and is one of the best-selling albums of all time. Linkin Park have released seven studio albums overall; their most recent effort, "One More Light", was released in 2017 to mixed reviews from both fans and critics alike. The band is currently working on material for a eighth album, which is expected to be released sometime within the next few years.
+
+So who is better - Evanescence or Linkin Park? This one is tough to call but we're going to have go with Evanescence here. Both bands are extremely successful commercially but Evanescence's music tends to be more consistent overall; they also seem less inclined towards pandering to trends (unlike Linkin Park, who experimented with EDM on their last album). In terms of legacy and influence, Evanescence are also the clear winners here; Amy Lee has been cited as an inspiration by many female musicians that followed in her wake.
+
+
+### Chapter Thirty Six
+## Molchat Doma vs. Perturbator
+
+In this chapter, we will explore the rivalry between two of dark synthwave's most popular artists: Molchat Doma and Perturbator. We'll start by discussing the history of each artist and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Molchat Doma are a Belarusian synthwave duo formed in 2016; they rose to prominence with their debut album, "Etazhi", which was widely acclaimed upon its release. The group have since released two more albums - 2018's "Monument" and 2020's "Na krayu sveta" - both of which have been well received by fans and critics alike. Molchat Doma are known for their atmospheric brand of dark synth music, which often features heavy use of synthesizers and drum machines; they have frequently cited Soviet era science fiction films as being a major influence on their sound.
+
+Perturbator is a French electronic musician whose style has been described as 'dark electro', 'synthpunk' or simply 'cyberpunk'. He first gained attention with his 2013 album "Terror 404", which drew comparisons to the work of legendary composer John Carpenter. Perturbator has released five albums to date, with his most recent effort - 2019's "Dangerous Days" - being widely regarded as his best work yet. The musician is known for creating dark and atmospheric soundscapes that often evoke a sense of unease or dread; he frequently cites sci-fi films and video games from the 1980s as being major influences on his music.
+
+So who is better - Molchat Doma or Perturbator? This one is really tough to call but we're going to have to give it up for Perturbator here. While both artists are extremely talented, Perturbator just edges out Molchat Doma in terms of innovation and sheer musicality. His ability to evoke an atmosphere of menace and dread is second to none, and his production values are always top notch; in short, he's simply a more well-rounded artist than Molchat Doma (who are still great in their own right).
+
+
+### Chapter Thirty Six
+## Imagine Dragons vs. Metallica
+
+In this chapter, we will explore the rivalry between two of rock music's most popular bands: Imagine Dragons and Metallica. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Imagine Dragons are an American rock band from Las Vegas, Nevada; they rose to prominence with their debut album "Night Visions" in 2012 which topped charts around the world thanks to hits like "Radioactive" and "Demons". The group have since released two more albums - 2015's " Smoke + Mirrors" and 2017's  Evolve - both of which were also very successful commercially. While Imagine Dragons' music is often criticized for being too radio-friendly or mainstream, there is no denying that they are one of the biggest bands in the world right now; they have won multiple Grammy Awards and sold over 27 million records worldwide as of 2018.
+
+Metallica are an American heavy metal band from Los Angeles, California; founded in 1981 by Lars Ulrich and James Hetfield, they are widely considered to be one of the most important metal bands ever (if not the most important). Metallica rose to prominence with their second album, "Ride the Lightning", which featured classics like "For Whom the Bell Tolls" and "Fade to Black". The group went on to release a string of critically acclaimed albums throughout the 1980s and 1990s including 1986's "...And Justice for All" and 1991's self-titled ("Black") album. In recent years, Metallica have been increasingly involved in philanthropy; they founded their own charitable foundation - METALLICA ALL WITHIN MY HANDS - in 2017 which provides assistance to communities affected by natural disasters.
+
+So who is better: Imagine Dragons or Metallica? This one is tough because both bands are extremely popular and have had great success commercially. However, we're going to have give it up for Metallica here; while Imagine Dragons' music may be more accessible to mainstream audiences, there is no denying that Metallica songwriting chops are superior (especially when you consider how many classic metal songs they've written over the years). Furthermore, Lars Ulrich and James Hetfield are both fantastic musicians whereas Imagine Dragons seem content with writing catchy pop hooks rather than challenging themselves musically. In terms of legacy and influence, there is simply no comparison - Metallica are the clear winners here!
+
+
+### Chapter Thirty Six
+## Korn vs. Slipknot
+
+In this chapter, we will explore the rivalry between two of nu metal's most influential and successful bands: Korn and Slipknot. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Korn are an American nu metal band from Bakersfield, California; they are widely considered to be one of the pioneers of the genre along with fellow Californians Deftones. The group rose to prominence with their self-titled debut album in 1994; this record featured a unique blend of heavy metal riffing, hip hop beats and singer Jonathan Davis' distinctive vocal style (which would come to be known as "bagpipes"). Korn went on to release several more successful albums throughout the 1990s and 2000s, cementing their place as one of the biggest bands in metal. The group has suffered several lineup changes over the years but Davis remains the only original member still active with the band.
+
+Slipknot are an American nu metal band from Des Moines, Iowa; they are widely considered to be one of the pioneers of the genre along with Korn (although Slipknot's style is much more aggressive). The group rose to prominence with their self-titled debut album in 1999; this record featured a unique blend of heavy metal riffing, hip hop beats and singer Corey Taylor's distinctive vocal style (which would come to be known as "screaming"). Slipknot went on to release several more successful albums throughout the 2000s and 2010s, cementing their place as one of Metal's most popular acts. The group has suffered several lineup changes over the years but Taylor remains the only original member still active with the band.
+
+So who is better - Korn or Slipknot? This is a tough one to call but we're going to have to give it up for Slipknot here. While Korn's early material is undoubtedly groundbreaking, their later output has been somewhat inconsistent (with Davis' bagpipes becoming more and more irritating as time goes on). Slipknot, on the other hand, managed to maintain a consistent level of quality throughout their career; they are also much heavier than Korn, thanks largely to Taylor's aggressive vocal style. In terms of legacy and influence, Slipknot are the clear winners here!
+
+
+### Chapter Thirty Six
+## Green Day vs. Blink-182
+
+In this chapter, we will explore the rivalry between two of punk rock's biggest bands: Green Day and Blink-182. We'll start by discussing the history of each band and their respective musical styles. Then, we'll pit them against each other in a head-to-head battle to see who comes out on top!
+
+Green Day are an American punk rock band formed in 1986; they rose to prominence with their 1994 album "Dookie", which sold over 10 million copies worldwide and made them one of the biggest bands in the world. Green Day followed up this success with further albums such as 1997's "Nimrod" and 2000's "Warning"; however, it was 2004's "American Idiot" that cemented their place as one of Punk Rock's all time greats. The concept album (which tells a story about modern America) became one of the best selling punk records ever released, winning multiple awards including Grammy Awards for Best Rock Album and Record Of The Year. In recent years, Green Day have continued to be hugely successful; 2016 saw them release another critically acclaimed album ("Revolution Radio") as well as embarking on a massive stadium tour across North America & Europe. They were inducted into the Rock & Roll Hall of Fame in 2015.
+
+Blink-182 are an American pop punk band formed in 1992; they rose to prominence with their 1997 album "Dude Ranch", which spawned the hit single "Dammit". The group followed up this success with 1999's hugely successful "Enema Of The State"; the album featured catchy hooks and teenage angst-filled lyrics, and catapulted Blink-182 into the mainstream. They have continued to be one of Punk Rock's biggest bands ever since, releasing further albums such as 2001's self-titled release ("blink-182") and 2003's untitled fifth album (commonly referred to as "(the) Mark Tom And Travis Show"). In recent years, Blink-182 have undergone some line-up changes (founding member Tom DeLonge left the band in 2015) but continue to tour and record new music; 2016 saw them release a new album ("California") which was met with positive reviews from fans and critics alike.
+
+So who is better - Green Day or Blink-182? This one is tough to call but we're going to have to give it up for Green Day here. While both bands are hugely popular and influential, Green Day are the clear winners when it comes to legacy and critical acclaim. They also boast a more consistent discography than Blink-182, with fewer dud albums in their catalogue. In terms of live performance, Green day are also the superior band; they always put on an electrifying show that leaves audiences wanting more!
+
+
+### Chapter Thirty Six
+## Monica Lewinsky's Stain
+
+It's been almost 20 years since the Monica Lewinsky scandal rocked America, and yet the stain on her blue dress remains as potent a symbol of infidelity as ever. For many, the image of that now-famous dress brings back painful memories of betrayal and heartache. But what if I told you that there is a way to get over your ex using quantum mechanics? It sounds crazy, but bear with me - I promise it will all make sense in the end!
+
+The key idea here is entanglement. This strange phenomenon occurs when two particles become "entangled" such that they share a single quantum state between them. Interestingly enough, this shared state persists even if the particles are separated by vast distances - meaning they can instantly communicate with each other regardless of how far apart they are! And best of all for our purposes, entanglement also works across different universes... which means it could be used to forget about your ex once and for all!
+
+First let's consider how entanglement would work in practice. Let's say you have an object that you're very attached to - like maybe a necklace given to you by your ex-boyfriend. Every time you see it, you're reminded of the happy memories you shared together... but also the pain of your breakup. You want to forget about him, but getting rid of the necklace seems too painful.
+
+Enter entanglement. Using this strange quantum phenomenon, you could entangle your necklace with another object in a parallel universe - let's say a rock on Mars for example. Once they are entangled, anything that happens to one object will also happen to the other instantaneously regardless of how far apart they are! So if you were to destroy your necklace here on Earth, then the Martian rock would be destroyed as well... and vice versa. Essentially, by destroying your ex's "stain" in another universe (the Mars rock), you can effectively remove it from yours as well!
+
+Of course there is one small catch: performing such an experiment would require access to a parallel universe - something that may or may not be possible depending on who believe (I'm looking at YOU string theorists!). Even so, it's still fun to think about what we could do if we had such technology at our disposal...
+
+
+### Chapter Thirty Six
+## Why Cats Are Afraid Of Water
+
+Have you ever wondered why cats are afraid of water? It's not because they can't swim - in fact, many cats are quite good at it. And it's not because they don't like the taste of water either; after all, most cats will lap up a bowl of milk without hesitation. So what is it that makes our feline friends so afraid of getting wet?
+
+The answer has to do with something called surface tension. Surface tension is a property of liquids that causes them to resist being deformed by outside forces. This resistance is due to the attraction between molecules on the surface of the liquid and those below the surface - think of it like an invisible skin stretched over the top of the liquid. The stronger this attractive force is, the higher the surface tension will be.
+
+Water has a very high surface tension compared to other liquids - about 70 times higher than air, in fact! That means that when a cat steps into water, its weight creates a large amount one-sided force pulling down on each molecule in contact with its paw (the bottom side). These molecules then pull back against their neighbors above them (the top side), which results in an upward force opposing gravity and preventing further sinking. In order for a cat to sink into water, it would need to create an even larger one-sided force - something that is very difficult for its small body to do.
+
+Interestingly enough, the same principle applies when a cat tries to drink from a bowl of water. The surface tension prevents the liquid from being drawn up into the cat's mouth by gravity, and instead forces it to pool around the edges of the bowl. In order for a cat to take a sip, it needs to create an opening in this invisible skin - which requires quite a bit of skill and coordination!
+
+So there you have it: cats are afraid of water because they can't sink into it due their small size relative to its high surface tension. And drinking from a bowl is harder than it looks because they have break through the surface tension just right in order take a slurp without making too big of mess!
+
+
+### Chapter Thirty Six
+## Bauhaus In Space
+
+In the early 20th century, a new art movement known as Bauhaus emerged in Germany. This movement was characterized by its focus on functionality and simplicity of form. The style quickly spread throughout Europe and eventually made its way to America, where it had a profound impact on architecture, design, and even popular culture. Today the influence of Bauhaus can still be seen all around us - from Apple products to BMW cars!
+
+Interestingly enough, the philosophy of Bauhaus also has something to say about the universe itself. In particular, many physicists believe that our universe is fundamentally simple and elegant - much like a well-designed piece of furniture or building! This belief is known as "Occam's razor" after the medieval philosopher William of Occam who first proposed it: "entities should not be multiplied beyond necessity." In other words, when faced with two competing explanations for something, we should always choose the simpler one unless there is compelling evidence to suggest otherwise.
+
+This principle can be applied to any number of scientific theories - from Darwinian evolution to Einstein's theory of relativity. In each case, Occam's razor tells us that we should prefer the simplest explanation that fits all available data. And often times this simplest explanation turns out to be correct!
+
+So what does Occam's razor have to do with the universe? Well, many physicists believe that our universe is governed by a set of simple laws - perhaps even just one single "theory of everything." This theory would explain all of the physical phenomena in the universe, from subatomic particles to black holes. And while such a theory has yet to be discovered, there is good reason to believe that it exists. After all, Occam's razor tells us that we should always prefer simpler explanations when possible. So until proven otherwise, we should assume that our universe is fundamentally simple and elegant... just like a well-designed piece of Bauhaus furniture!
+
+
+### Chapter Thirty Six
+## Uncoiling the Secrets of Life
+
+In this chapter, we will explore the strange and wonderful world of DNA - the molecule that contains the instructions for building every living thing on Earth!
+
+DNA is a long, double-stranded molecule that looks like a twisted ladder. The "rungs" of this ladder are made up of smaller molecules called nucleotides, while the "rails" are made of proteins called strands. Each type of nucleotide can only bond with one other specific type: adenine (A) always bonds with thymine (T), and cytosine (C) always bonds with guanine (G). This complementary pairing is what allows DNA to store genetic information.
+
+The sequence of these bonded pairs along the length of each strand determines an organism's unique genome. For example, human DNA consists of about 3 billion base pairs arranged in a particular order - if even one pair were out off place, it could have serious consequences for our health! Luckily, our cells contain enzymes that proofread and repair any mistakes that might occur during replication.
+
+Now let's take a closer look at how this amazing molecule actually works...  First off, we need to understand how information is encoded within DNA. Remember those nucleotide base pairs we talked about earlier? Well, it turns out that they can be arranged in many different ways - and each unique sequence corresponds to a particular gene. Genes are the instructions for making proteins, which are the building blocks of our bodies. So basically, DNA is like a cookbook full of recipes for creating every living thing on Earth!
+
+Now let's consider how these genes are expressed...  Remember those enzymes we mentioned earlier that proofread and repair DNA mistakes? It turns out that some of them also play an important role in activating or "turning on" certain genes. This process is called transcription, and it involves copying a section of DNA into RNA (a similar molecule). The RNA then travels to a ribosome (a protein factory), where it is used as a template to produce the corresponding protein.
+
+Proteins are extremely versatile molecules that perform all sorts of functions in our bodies, from building new cells to digesting food. In fact, they are so important that we couldn't survive without them!
+
+Now that we know a bit about how DNA works, let's explore some of its stranger and more fascinating aspects...  For starters, did you know that our DNA is constantly changing? Every time a cell divides, it must first duplicate its entire genome - and this process is not perfect. In fact, mistakes are made quite often; it's estimated that each of us has around 100-200 "typos" in our DNA! Most of these mistakes are harmless, but some can have serious consequences. For example, mutations (mistakes) in certain genes can lead to cancer or other diseases.
+
+Interestingly enough, many of these harmful mutations only occur in specific parts of the body - which begs the question: why aren't all cells equally susceptible to them? The answer lies in something called epigenetics: the study of how gene expression can be affected by things like diet and environment. Epigenetic changes do not alter the sequence of nucleotides within DNA itself; rather they modify proteins called histones (which help coil up strands of 𝚫), making genes harder or easier to transcribe. So even though everyone has essentially the same DNA sequence, epigenetic changes can result in huge differences between individuals - for better or for worse!
+
+Finally, let's consider the role of DNA in evolution. As we mentioned earlier, DNA is like a cookbook full of recipes for creating every living thing on Earth. But over time, these recipes can change - sometimes due to mutations (mistakes during replication), and sometimes due to intentional changes (such as those that occur when an organism adapts to its environment). These changes are passed down from generation to generation, resulting in the gradual transformation of entire species! So next time you look in the mirror, remember that your reflection is just a small part of a long and amazing journey...
+
+
 -----
 
 
